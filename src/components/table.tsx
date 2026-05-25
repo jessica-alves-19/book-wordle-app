@@ -25,31 +25,56 @@ function GuessTable({ guesses }: GuessTableProps) {
       <tbody>
         {guesses.map((guess, index) => (
           <tr key={`${guess.book.title}-${index}`}>
-            <td
-              className={guess.isTitleCorrect ? "correct-bg" : "incorrect-bg"}
-            >
-              {guess.book.title}
+            <td>
+              <span
+                className={guess.isTitleCorrect ? "correct-bg" : "incorrect-bg"}
+                style={{
+                  marginRight: "5px",
+                  padding: "2px 6px",
+                  borderRadius: "3px",
+                  display: "inline-block",
+                }}
+              >
+                {guess.book.title}
+              </span>
             </td>
-            <td
-              className={
-                guess.isAuthorCorrect ? "correct-bg" : "incorrect-bg"
-              }
-            >
-              {guess.book.author}
+            <td>
+              <span
+                className={guess.isAuthorCorrect ? "correct-bg" : "incorrect-bg"}
+                style={{
+                  marginRight: "5px",
+                  padding: "2px 6px",
+                  borderRadius: "3px",
+                  display: "inline-block",
+                }}
+              >
+                {guess.book.author}
+              </span>
             </td>
-            <td
-              className={guess.isYearCorrect ? "correct-bg" : "incorrect-bg"}
-            >
-              {guess.book.publication_year}
+            <td>
+              <span
+                className={guess.isYearCorrect ? "correct-bg" : "incorrect-bg"}
+                style={{
+                  marginRight: "5px",
+                  padding: "2px 6px",
+                  borderRadius: "3px",
+                  display: "inline-block",
+                }}
+              >
+                {guess.book.publication_year}
+              </span>
             </td>
             <td className="genre-cell">
               {guess.genreMatches.map((match, idx) => (
                 <span
                   key={idx}
-                  className={
-                    match.isCorrect ? "correct-bg" : "incorrect-bg"
-                  }
-                  style={{ marginRight: "5px", padding: "2px 6px", borderRadius: "3px", display: "inline-block" }}
+                  className={match.isCorrect ? "correct-bg" : "incorrect-bg"}
+                  style={{
+                    marginRight: "5px",
+                    padding: "2px 6px",
+                    borderRadius: "3px",
+                    display: "inline-block",
+                  }}
                 >
                   {match.genre}
                 </span>
