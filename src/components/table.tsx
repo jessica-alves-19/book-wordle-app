@@ -40,7 +40,9 @@ function GuessTable({ guesses }: GuessTableProps) {
             </td>
             <td>
               <span
-                className={guess.isAuthorCorrect ? "correct-bg" : "incorrect-bg"}
+                className={
+                  guess.isAuthorCorrect ? "correct-bg" : "incorrect-bg"
+                }
                 style={{
                   marginRight: "5px",
                   padding: "2px 6px",
@@ -48,7 +50,7 @@ function GuessTable({ guesses }: GuessTableProps) {
                   display: "inline-block",
                 }}
               >
-                {guess.book.author}
+                {guess.book.authors[0]}
               </span>
             </td>
             <td>
@@ -61,7 +63,7 @@ function GuessTable({ guesses }: GuessTableProps) {
                   display: "inline-block",
                 }}
               >
-                {guess.book.publication_year}
+                {guess.book.publishedYear}
               </span>
             </td>
             <td className="genre-cell">

@@ -1,0 +1,406 @@
+[
+  {
+    "id": "UrrTEQAAQBAJ",
+    "title": "Persuasion",
+    "authors": [
+      "Jane Austen"
+    ],
+    "publishedYear": 2026,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 260,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=UrrTEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=UrrTEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api"
+  },
+  {
+    "id": "v7VPEQAAQBAJ",
+    "title": "The Street of Crocodiles",
+    "authors": [
+      "Bruno Schulz"
+    ],
+    "publishedYear": 2025,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 136,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=v7VPEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=v7VPEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api"
+  },
+  {
+    "id": "A2Ni0AEACAAJ",
+    "title": "Father Goriot",
+    "authors": [
+      "Honoré de Balzac"
+    ],
+    "publishedYear": 2024,
+    "categories": [],
+    "pageCount": null,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=A2Ni0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=A2Ni0AEACAAJ&dq=subject:fiction&hl=&cd=41&source=gbs_api"
+  },
+  {
+    "id": "sIYezgEACAAJ",
+    "title": "Robinson Crusoe Illustrated",
+    "authors": [
+      "Daniel Defoe"
+    ],
+    "publishedYear": 2020,
+    "categories": [],
+    "pageCount": 360,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=sIYezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=sIYezgEACAAJ&dq=subject:fiction&hl=&cd=43&source=gbs_api"
+  },
+  {
+    "id": "7Hv2zQEACAAJ",
+    "title": "The Life and Adventures of Robinson Crusoe",
+    "authors": [
+      "Daniel Defoe"
+    ],
+    "publishedYear": 2020,
+    "categories": [],
+    "pageCount": 332,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=7Hv2zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=7Hv2zQEACAAJ&dq=subject:fiction&hl=&cd=44&source=gbs_api"
+  },
+  {
+    "id": "xwSWzQEACAAJ",
+    "title": "The Picture of Dorian Gray Illustrated",
+    "authors": [
+      "Oscar Wilde"
+    ],
+    "publishedYear": 2020,
+    "categories": [],
+    "pageCount": 272,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=xwSWzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=xwSWzQEACAAJ&dq=subject:fiction&hl=&cd=47&source=gbs_api"
+  },
+  {
+    "id": "NTwfzgEACAAJ",
+    "title": "The Tragedy of King Lear",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "publishedYear": 2020,
+    "categories": [],
+    "pageCount": 124,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=NTwfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=NTwfzgEACAAJ&dq=subject:fiction&hl=&cd=49&source=gbs_api"
+  },
+  {
+    "id": "lDkgzgEACAAJ",
+    "title": "A Tale of Two Cities Illustrated",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "publishedYear": 2020,
+    "categories": [],
+    "pageCount": 496,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=lDkgzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=lDkgzgEACAAJ&dq=subject:fiction&hl=&cd=83&source=gbs_api"
+  },
+  {
+    "id": "U2LczQEACAAJ",
+    "title": "Mansfield Park Illustrated",
+    "authors": [
+      "Jane Austen"
+    ],
+    "publishedYear": 2020,
+    "categories": [],
+    "pageCount": 550,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=U2LczQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=U2LczQEACAAJ&dq=subject:fiction&hl=&cd=84&source=gbs_api"
+  },
+  {
+    "id": "orzZzQEACAAJ",
+    "title": "The Valley of Fear Illustrated",
+    "authors": [
+      "Sir Arthur Conan Doyle"
+    ],
+    "publishedYear": 2020,
+    "categories": [],
+    "pageCount": 200,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=orzZzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=orzZzQEACAAJ&dq=subject:fiction&hl=&cd=85&source=gbs_api"
+  },
+  {
+    "id": "gyBlzgEACAAJ",
+    "title": "All Around the Moon (illustrated Edition)",
+    "authors": [
+      "Jules Verne"
+    ],
+    "publishedYear": 2021,
+    "categories": [],
+    "pageCount": 398,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=gyBlzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=gyBlzgEACAAJ&dq=subject:fiction&hl=&cd=86&source=gbs_api"
+  },
+  {
+    "id": "Izm_zQEACAAJ",
+    "title": "The Art of War Annotated",
+    "authors": [
+      "Sun Tzu"
+    ],
+    "publishedYear": 2020,
+    "categories": [],
+    "pageCount": 60,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=Izm_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Izm_zQEACAAJ&dq=subject:fiction&hl=&cd=87&source=gbs_api"
+  },
+  {
+    "id": "39_S0QEACAAJ",
+    "title": "Middlemarch: A Study of Provincial Life",
+    "authors": [
+      "George Eliot"
+    ],
+    "publishedYear": 2023,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": null,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=39_S0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=39_S0QEACAAJ&dq=subject:fiction&hl=&cd=88&source=gbs_api"
+  },
+  {
+    "id": "95QxzgEACAAJ",
+    "title": "Pride and Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "publishedYear": 2021,
+    "categories": [],
+    "pageCount": 364,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=95QxzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=95QxzgEACAAJ&dq=subject:fiction&hl=&cd=89&source=gbs_api"
+  },
+  {
+    "id": "_GBMEAAAQBAJ",
+    "title": "Skandar and the Unicorn Thief",
+    "authors": [
+      "A.F. Steadman"
+    ],
+    "publishedYear": 2022,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 448,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=_GBMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=_GBMEAAAQBAJ&printsec=frontcover&dq=subject:fantasy&hl=&cd=7&source=gbs_api"
+  },
+  {
+    "id": "M8D1DwAAQBAJ",
+    "title": "An Ember in the Ashes",
+    "authors": [
+      "Sabaa Tahir"
+    ],
+    "publishedYear": 2020,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 482,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=M8D1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=M8D1DwAAQBAJ&dq=subject:fantasy&hl=&cd=87&source=gbs_api"
+  },
+  {
+    "id": "7cULzgEACAAJ",
+    "title": "The Missing Sister",
+    "authors": [
+      "Lucinda Riley"
+    ],
+    "publishedYear": 2021,
+    "categories": [],
+    "pageCount": 576,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=7cULzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=7cULzgEACAAJ&dq=subject:romance&hl=&cd=45&source=gbs_api"
+  },
+  {
+    "id": "GXxrzQEACAAJ",
+    "title": "The Winemaker's Wife",
+    "authors": [
+      "Kristen Harmel"
+    ],
+    "publishedYear": 2021,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 336,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=GXxrzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=GXxrzQEACAAJ&dq=subject:romance&hl=&cd=83&source=gbs_api"
+  },
+  {
+    "id": "pLvEEQAAQBAJ",
+    "title": "Englishness and Environment in Genre Fiction, 1890-1940",
+    "authors": [
+      "Gerry Smyth"
+    ],
+    "publishedYear": 2026,
+    "categories": [
+      "Literary Criticism"
+    ],
+    "pageCount": 249,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=pLvEEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=pLvEEQAAQBAJ&pg=PA8&dq=subject:science+fiction&hl=&cd=3&source=gbs_api"
+  },
+  {
+    "id": "S2_dEAAAQBAJ",
+    "title": "Just Once",
+    "authors": [
+      "Karen Kingsbury"
+    ],
+    "publishedYear": 2023,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 336,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=S2_dEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=S2_dEAAAQBAJ&pg=PP6&dq=subject:historical+fiction&hl=&cd=2&source=gbs_api"
+  },
+  {
+    "id": "RSKIzgEACAAJ",
+    "title": "The Rose Rent",
+    "authors": [
+      "Ellis Peters"
+    ],
+    "publishedYear": 2021,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": null,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=RSKIzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=RSKIzgEACAAJ&dq=subject:historical+fiction&hl=&cd=41&source=gbs_api"
+  },
+  {
+    "id": "7Ib2zQEACAAJ",
+    "title": "The Duke's Princess Bride",
+    "authors": [
+      "Amalie Howard"
+    ],
+    "publishedYear": 2021,
+    "categories": [],
+    "pageCount": 352,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=7Ib2zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=7Ib2zQEACAAJ&dq=subject:historical+fiction&hl=&cd=43&source=gbs_api"
+  },
+  {
+    "id": "YponzgEACAAJ",
+    "title": "The Postmistress of Paris",
+    "authors": [
+      "Meg Waite Clayton"
+    ],
+    "publishedYear": 2021,
+    "categories": [],
+    "pageCount": 400,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=YponzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=YponzgEACAAJ&dq=subject:historical+fiction&hl=&cd=47&source=gbs_api"
+  },
+  {
+    "id": "0FG_zgEACAAJ",
+    "title": "Paper Sparrow",
+    "authors": [
+      "Magda Palmer"
+    ],
+    "publishedYear": 2021,
+    "categories": [],
+    "pageCount": 262,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=0FG_zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=0FG_zgEACAAJ&dq=subject:historical+fiction&hl=&cd=48&source=gbs_api"
+  },
+  {
+    "id": "Sfv4zgEACAAJ",
+    "title": "An Offer from a Gentleman LP",
+    "authors": [
+      "Julia Quinn"
+    ],
+    "publishedYear": 2022,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 512,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=Sfv4zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Sfv4zgEACAAJ&dq=subject:historical+fiction&hl=&cd=86&source=gbs_api"
+  },
+  {
+    "id": "MXb1zQEACAAJ",
+    "title": "The Last Tiara",
+    "authors": [
+      "M. J. Rose"
+    ],
+    "publishedYear": 2021,
+    "categories": [],
+    "pageCount": 304,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=MXb1zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=MXb1zQEACAAJ&dq=subject:historical+fiction&hl=&cd=89&source=gbs_api"
+  },
+  {
+    "id": "bOAREQAAQBAJ",
+    "title": "Amaranthine Chevrolet",
+    "authors": [
+      "Dennis E. Bolen"
+    ],
+    "publishedYear": 2025,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": null,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=bOAREQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=bOAREQAAQBAJ&dq=subject:historical+fiction&hl=&cd=90&source=gbs_api"
+  },
+  {
+    "id": "TIucEAAAQBAJ",
+    "title": "Lonely Planet Vietnam",
+    "authors": [
+      "Iain Stewart"
+    ],
+    "publishedYear": 2022,
+    "categories": [
+      "Travel"
+    ],
+    "pageCount": 872,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=TIucEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=TIucEAAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=3&source=gbs_api"
+  },
+  {
+    "id": "Zj4a0QEACAAJ",
+    "title": "Untitled Memoir",
+    "authors": [
+      "ANON.",
+      "Sarah Wynn-Williams"
+    ],
+    "publishedYear": 2025,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": null,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=Zj4a0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Zj4a0QEACAAJ&dq=subject:nonfiction&hl=&cd=85&source=gbs_api"
+  }
+]

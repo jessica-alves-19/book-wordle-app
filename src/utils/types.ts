@@ -1,6 +1,12 @@
 export interface Book {
+  id: string;
   title: string;
-  author: string;
-  publication_year: string;
-  genre: string[];
+  authors: string[];
+  description: string;
+  publishedYear: number;
+  categories: string[];
+  pageCount: number;
+  language: string;
+  thumbnail: string;
+  previewLink: string;
 }
