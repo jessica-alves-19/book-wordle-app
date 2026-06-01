@@ -73,18 +73,16 @@ function App() {
   }
 
   return (
-    <>
-      <div className="App">
-        <GuessSearchInput
-          guess={guess}
-          setGuess={setGuess}
-          onSubmit={handleGuessSubmit}
-          allBooks={allBooks}
-        />
+    <div className="relative z-10 mx-auto max-w-5xl px-6 py-10">
+      <GuessSearchInput
+        guess={guess}
+        setGuess={setGuess}
+        onSubmit={handleGuessSubmit}
+        allBooks={allBooks}
+      />
 
-        <GuessTable guesses={guesses} />
-      </div>
-    </>
+      <GuessTable guesses={guesses} />
+    </div>
   );
 }
 

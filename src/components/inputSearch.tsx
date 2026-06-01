@@ -19,13 +19,13 @@ function GuessSearchInput({
   }
 
   return (
-    <>
-      <form onSubmit={search}>
+    <div className="flex items-center rounded-3xl border border-blue-400/20 bg-[#09182b]/80 px-6 py-5 backdrop-blur-xl">
+      <form onSubmit={search} className="flex w-full items-center gap-4">
         <input
-          className="search-input"
+          className="flex-1 bg-transparent text-xl outline-none placeholder:text-blue-100/30"
           name="guess"
           list="books"
-          defaultValue="Write Book Name"
+          placeholder="Write Book Name"
           value={guess}
           onChange={(e) => setGuess(e.target.value)}
         />
@@ -36,7 +36,7 @@ function GuessSearchInput({
           <option key={book.title} value={book.title}></option>
         ))}
       </datalist>
-    </>
+    </div>
   );
 }
 

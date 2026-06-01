@@ -13,64 +13,64 @@ interface GuessTableProps {
 
 function GuessTable({ guesses }: GuessTableProps) {
   return (
-    <table className="table">
-      <thead>
-        <tr>
-          <th>Book</th>
-          <th>Author</th>
-          <th>Publications Date</th>
-          <th>Genres</th>
-        </tr>
-      </thead>
-      <tbody>
+    <div className="mx-auto mt-8 w-full max-w-4xl rounded-[32px] border border-blue-300/10 bg-[#081423]/90 p-5 shadow-2xl backdrop-blur-xl">
+      <div className="flex gap-6">
         {guesses.map((guess, index) => (
-          <tr key={`${guess.book.title}-${index}`}>
-            <td>
-              <span
-                className={guess.isTitleCorrect ? "correct-bg" : "incorrect-bg"}
-                style={{
-                  marginRight: "5px",
-                  padding: "2px 6px",
-                  borderRadius: "3px",
-                  display: "inline-block",
-                }}
-              >
-                {guess.book.title}
-              </span>
-            </td>
-            <td>
-              <span
-                className={
-                  guess.isAuthorCorrect ? "correct-bg" : "incorrect-bg"
-                }
-                style={{
-                  marginRight: "5px",
-                  padding: "2px 6px",
-                  borderRadius: "3px",
-                  display: "inline-block",
-                }}
-              >
-                {guess.book.authors[0]}
-              </span>
-            </td>
-            <td>
-              <span
-                className={guess.isYearCorrect ? "correct-bg" : "incorrect-bg"}
-                style={{
-                  marginRight: "5px",
-                  padding: "2px 6px",
-                  borderRadius: "3px",
-                  display: "inline-block",
-                }}
-              >
-                {guess.book.publishedYear}
-              </span>
-            </td>
-            <td className="genre-cell">
+          <div key={index}>
+            <span
+              className={
+                guess.isTitleCorrect
+                  ? "!bg-[#d4ffd4] !text-black"
+                  : "!bg-[#ffd4d4] !text-black"
+              }
+              style={{
+                marginRight: "5px",
+                padding: "2px 6px",
+                borderRadius: "3px",
+                display: "inline-block",
+              }}
+            >
+              {guess.book.title}
+            </span>
+            <span
+              className={
+                guess.isAuthorCorrect
+                  ? "!bg-[#d4ffd4] !text-black"
+                  : "!bg-[#ffd4d4] !text-black"
+              }
+              style={{
+                marginRight: "5px",
+                padding: "2px 6px",
+                borderRadius: "3px",
+                display: "inline-block",
+              }}
+            >
+              {guess.book.authors[0]}
+            </span>
+            <span
+              className={
+                guess.isYearCorrect
+                  ? "!bg-[#d4ffd4] !text-black"
+                  : "!bg-[#ffd4d4] !text-black"
+              }
+              style={{
+                marginRight: "5px",
+                padding: "2px 6px",
+                borderRadius: "3px",
+                display: "inline-block",
+              }}
+            >
+              {guess.book.publishedYear}
+            </span>
+            <div>
               {guess.genreMatches.map((match, idx) => (
                 <span
                   key={idx}
-                  className={match.isCorrect ? "correct-bg" : "incorrect-bg"}
+                  className={
+                    match.isCorrect
+                      ? "!bg-[#d4ffd4] !text-black"
+                      : "!bg-[#ffd4d4] !text-black"
+                  }
                   style={{
                     marginRight: "5px",
                     padding: "2px 6px",
@@ -81,11 +81,11 @@ function GuessTable({ guesses }: GuessTableProps) {
                   {match.genre}
                 </span>
               ))}
-            </td>
-          </tr>
+            </div>
+          </div>
         ))}
-      </tbody>
-    </table>
+      </div>
+    </div>
   );
 }
 

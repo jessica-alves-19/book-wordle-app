@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -39,53 +41,4 @@
 
 .read-the-docs {
   color: #888;
-}
-
-.table {
-  border: 1px solid black;
-}
-
-.table td {
-  padding: 15px;
-  border: 1px solid black;
-}
-
-.table th {
-  padding: 15px;
-  text-align: left;
-  border: 1px solid black;
-}
-
-.correct-bg {
-  background-color: #d4ffd4 !important;
-  color: #000;
-}
-
-.incorrect-bg {
-  background-color: #ffd4d4 !important;
-  color: #000;
-}
-
-.genre-cell {
-  padding: 15px;
-  border: 1px solid black;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-  align-content: center;
-}
-
-.search-input {
-  padding: 10px 14px;
-  font-size: 16px;
-  border-radius: 8px;
-  border: 1px solid #ccc;
-  outline: none;
-}
-
-.App {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 20px;
 }
