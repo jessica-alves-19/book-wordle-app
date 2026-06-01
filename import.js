@@ -52,7 +52,14 @@ async function fetchBooksByGenre(genre, startIndex = 0) {
 function normalizeBook(item) {
   const info = item.volumeInfo;
 
-  if (!info || !info.title || !info.authors) return null;
+  if (
+    !info ||
+    !info.title ||
+    !info.authors ||
+    !info.imageLinks ||
+    !info.categories
+  )
+    return null;
 
   return {
     id: item.id,
@@ -78,6 +85,8 @@ function isValidBook(book) {
     book.title &&
     book.authors &&
     book.authors.length > 0 &&
+    book.categories &&
+    book.categories.length > 0 &&
     book.thumbnail &&
     book.publishedYear
   );
@@ -102,7 +111,7 @@ function deduplicate(list) {
 function isInYearRange(book) {
   return (
     book.publishedYear &&
-    book.publishedYear >= 2020 &&
+    book.publishedYear >= 2010 &&
     book.publishedYear <= new Date().getFullYear()
   );
 }

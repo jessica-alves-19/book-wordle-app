@@ -1,14 +1,15 @@
 import { useState } from "react";
 import "./App.css";
 import type { Book } from "./utils/types";
-import GuessTable from "./components/table";
 import GuessSearchInput from "./components/inputSearch";
 import books from "./data/books.json";
+import GuessCard from "./components/guessCard";
 
 type GuessRecord = {
   book: Book;
   isTitleCorrect: boolean;
   isYearCorrect: boolean;
+  isCorrectYearMoreRecent: boolean;
   isAuthorCorrect: boolean;
   isGenreCorrect: boolean;
   genreMatches: { genre: string; isCorrect: boolean }[];
@@ -16,7 +17,7 @@ type GuessRecord = {
 
 function App() {
   const allBooks: Book[] = books as Book[];
-  const [guess, setGuess] = useState("");
+  const [guess, setGuess] = useState<string>("");
   const [guesses, setGuesses] = useState<GuessRecord[]>([]);
 
   const curentBookGuess: Book[] = allBooks.filter((g) => g.title === guess);
@@ -40,6 +41,8 @@ function App() {
     const isYearCorrect =
       selectedBook.publishedYear === correctBook?.publishedYear;
     const isAuthorCorrect = selectedBook.authors[0] === correctBook?.authors[0];
+    const isCorrectYearMoreRecent =
+      selectedBook.publishedYear > (correctBook?.publishedYear || 0);
 
     // Check if all genres are present in correct book
     const correctGenres = new Set(correctBook?.categories || []);
@@ -64,6 +67,7 @@ function App() {
         book: selectedBook,
         isTitleCorrect,
         isYearCorrect,
+        isCorrectYearMoreRecent,
         isAuthorCorrect,
         isGenreCorrect,
         genreMatches,
@@ -80,8 +84,10 @@ function App() {
         onSubmit={handleGuessSubmit}
         allBooks={allBooks}
       />
-
-      <GuessTable guesses={guesses} />
+      <GuessCard
+        guesses={guesses}
+        correctedYearGuess={correctBook?.publishedYear || 0}
+      />
     </div>
   );
 }
