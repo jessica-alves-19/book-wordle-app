@@ -24,6 +24,7 @@ function GuessCard({ guesses, correctedYearGuess }: GuessTableProps) {
                 index={index}
                 title="Cover"
                 bookCover={guess.book.thumbnail}
+                fixedWidth={false}
               />
               <GuessInfoCard
                 index={index}

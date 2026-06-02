@@ -60,6 +60,7 @@ function GuessSearchInput({
               setInputValue(e.target.value);
               setShowSuggestions(true);
             }}
+            autoComplete="off"
             onFocus={() => setShowSuggestions(true)}
             onBlur={() => {
               window.setTimeout(() => setShowSuggestions(false), 100);
@@ -68,33 +69,35 @@ function GuessSearchInput({
           <button type="submit">Search</button>
         </form>
       </div>
-      {showSuggestions && inputValue.trim().length > 0 && matchedBooks.length > 0 && (
-        <ul className="absolute left-0 right-0 z-20 mt-1 max-h-72 overflow-y-auto rounded-3xl border border-blue-400/20 bg-[#09182b]/95 p-2 shadow-2xl backdrop-blur-xl">
-          {matchedBooks.map((book) => (
-            <li key={book.id} className="mb-2 last:mb-0">
-              <button
-                type="button"
-                onMouseDown={() => handleSelectSuggestion(book.title)}
-                className="flex w-full items-center gap-3 rounded-2xl px-3 py-2 text-left transition hover:bg-blue-500/10"
-              >
-                <img
-                  src={book.thumbnail}
-                  alt={book.title}
-                  className="h-14 w-10 flex-shrink-0 rounded-lg object-cover"
-                />
-                <div className="overflow-hidden">
-                  <p className="truncate text-sm font-semibold text-white">
-                    {book.title}
-                  </p>
-                  <p className="text-xs text-blue-100/70">
-                    {book.authors[0]}
-                  </p>
-                </div>
-              </button>
-            </li>
-          ))}
-        </ul>
-      )}
+      {showSuggestions &&
+        inputValue.trim().length > 0 &&
+        matchedBooks.length > 0 && (
+          <ul className="absolute right-0 left-0 z-20 mt-1 max-h-72 overflow-y-auto rounded-3xl border border-blue-400/20 bg-[#09182b]/95 p-2 shadow-2xl backdrop-blur-xl">
+            {matchedBooks.map((book) => (
+              <li key={book.id} className="mb-2 last:mb-0">
+                <button
+                  type="button"
+                  onMouseDown={() => handleSelectSuggestion(book.title)}
+                  className="flex w-full items-center gap-3 rounded-2xl px-3 py-2 text-left transition hover:bg-blue-500/10"
+                >
+                  <img
+                    src={book.thumbnail}
+                    alt={book.title}
+                    className="h-14 w-10 flex-shrink-0 rounded-lg object-cover"
+                  />
+                  <div className="overflow-hidden">
+                    <p className="truncate text-sm font-semibold text-white">
+                      {book.title}
+                    </p>
+                    <p className="text-xs text-blue-100/70">
+                      {book.authors[0]}
+                    </p>
+                  </div>
+                </button>
+              </li>
+            ))}
+          </ul>
+        )}
     </div>
   );
 }

@@ -5,6 +5,7 @@ interface GuessInfoCardProps {
   guessIsCorrect?: boolean;
   bookCover?: string;
   isCorrectYearMoreRecent?: boolean;
+  fixedWidth?: boolean;
 }
 
 function GuessInfoCard({
@@ -14,17 +15,18 @@ function GuessInfoCard({
   guessIsCorrect,
   bookCover,
   isCorrectYearMoreRecent,
+  fixedWidth = true,
 }: GuessInfoCardProps) {
   return (
     <div
-      className="justify-centerflex flex grid grid-cols-1 flex-col items-center justify-center gap-2 p-4 text-center"
+      className={`flex ${
+        fixedWidth ? "w-[13rem]" : "w-auto"
+      } flex-col items-center text-center`}
       key={index}
     >
       <div
-        className={`mr-1 grid inline-flex w-full grid-cols-5 flex-col gap-4 rounded-[32px] border px-3 py-2 transition-transform duration-200 hover:scale-[1.02] ${
-          guessIsCorrect && guessIsCorrect
-            ? "bg-[#d4ffd4] text-black"
-            : "bg-[#ffd4d4] text-black"
+        className={`flex h-full w-full flex-col items-center justify-center gap-3 rounded-[32px] border p-4 text-center transition-transform duration-200 hover:scale-[1.02] ${
+          guessIsCorrect ? "bg-[#d4ffd4] text-black" : "bg-[#ffd4d4] text-black"
         }`}
       >
         <span className="text-xs font-semibold tracking-wide uppercase">
@@ -32,17 +34,24 @@ function GuessInfoCard({
         </span>
 
         {text && (
-          <span className="mt-1 text-center text-base leading-snug font-semibold break-words">
+          <span
+            className={`overflow-hidden text-base leading-snug font-semibold ${
+              title.toLowerCase() === "title"
+                ? "break-words whitespace-normal"
+                : "text-ellipsis whitespace-nowrap"
+            }`}
+          >
             {title.toLowerCase() === "Published Year".toLowerCase()
               ? text + (isCorrectYearMoreRecent ? " ↑" : " ↓")
               : text}
           </span>
         )}
+
         {bookCover && (
           <img
             src={bookCover}
             alt={title}
-            className="mt-2 h-32 w-24 rounded-lg object-cover"
+            className="mx-auto max-h-40 w-auto rounded-lg object-contain"
           />
         )}
       </div>
