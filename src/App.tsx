@@ -20,8 +20,6 @@ function App() {
   const [guess, setGuess] = useState<string>("");
   const [guesses, setGuesses] = useState<GuessRecord[]>([]);
 
-  const curentBookGuess: Book[] = allBooks.filter((g) => g.title === guess);
-
   function getRndInteger(min: number, max: number) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
@@ -30,13 +28,15 @@ function App() {
     return allBooks[getRndInteger(0, allBooks.length - 1)];
   });
 
-  function handleGuessSubmit() {
-    if (curentBookGuess.length === 0) {
+  function handleGuessSubmit(_e: React.FormEvent<HTMLFormElement>, guessValue: string) {
+    const currentBookGuess = allBooks.filter((g) => g.title === guessValue);
+
+    if (currentBookGuess.length === 0) {
       alert("Book not found. Please enter a valid title.");
       return;
     }
 
-    const selectedBook = curentBookGuess[0];
+    const selectedBook = currentBookGuess[0];
     const isTitleCorrect = selectedBook.title === correctBook?.title;
     const isYearCorrect =
       selectedBook.publishedYear === correctBook?.publishedYear;

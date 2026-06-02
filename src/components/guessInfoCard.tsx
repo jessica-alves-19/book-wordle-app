@@ -42,7 +42,7 @@ function GuessInfoCard({
           <img
             src={bookCover}
             alt={title}
-            className="mt-2 h-32 w-24 object-cover"
+            className="mt-2 h-32 w-24 rounded-lg object-cover"
           />
         )}
       </div>
