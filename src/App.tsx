@@ -28,7 +28,10 @@ function App() {
     return allBooks[getRndInteger(0, allBooks.length - 1)];
   });
 
-  function handleGuessSubmit(_e: React.FormEvent<HTMLFormElement>, guessValue: string) {
+  function handleGuessSubmit(
+    _e: React.FormEvent<HTMLFormElement>,
+    guessValue: string,
+  ) {
     const currentBookGuess = allBooks.filter((g) => g.title === guessValue);
 
     if (currentBookGuess.length === 0) {
@@ -62,7 +65,6 @@ function App() {
     }
 
     setGuesses((prev) => [
-      ...prev,
       {
         book: selectedBook,
         isTitleCorrect,
@@ -72,12 +74,19 @@ function App() {
         isGenreCorrect,
         genreMatches,
       },
+      ...prev,
     ]);
     setGuess("");
   }
 
+  const guessCount = Math.min(guesses.length, 10);
+
   return (
     <div className="relative z-10 mx-auto max-w-5xl px-6 py-10">
+      <div className="mb-6 rounded-[32px] border border-blue-400/20 bg-[#09182b]/80 px-5 py-4 text-center text-sm text-blue-100 shadow-inner backdrop-blur-xl">
+        <span className="font-semibold text-white">Guesses:</span> {guessCount}{" "}
+        / 10
+      </div>
       <GuessSearchInput
         guess={guess}
         setGuess={setGuess}

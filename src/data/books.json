@@ -1,5 +1,95 @@
 [
   {
+    "id": "MRoMUV2kLZEC",
+    "title": "Mysteries",
+    "authors": [
+      "Knut Hamsun"
+    ],
+    "publishedYear": 2001,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 356,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=MRoMUV2kLZEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=MRoMUV2kLZEC&dq=subject:fiction&hl=&cd=1&source=gbs_api"
+  },
+  {
+    "id": "icKmd-tlvPMC",
+    "title": "Journey to the Center of the Earth",
+    "authors": [
+      "Jules Verne"
+    ],
+    "publishedYear": 2006,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 242,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=icKmd-tlvPMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=icKmd-tlvPMC&printsec=frontcover&dq=subject:fiction&hl=&cd=2&source=gbs_api"
+  },
+  {
+    "id": "U-1LyAaWtCoC",
+    "title": "Tess of the D'Urbervilles",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "publishedYear": 1992,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 388,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=U-1LyAaWtCoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=U-1LyAaWtCoC&printsec=frontcover&dq=subject:fiction&hl=&cd=3&source=gbs_api"
+  },
+  {
+    "id": "yruzAAAAIAAJ",
+    "title": "Self's Deception",
+    "authors": [
+      "Bernhard Schlink"
+    ],
+    "publishedYear": 2007,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 356,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=yruzAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=yruzAAAAIAAJ&dq=subject:fiction&hl=&cd=4&source=gbs_api"
+  },
+  {
+    "id": "g_RaAAAAMAAJ",
+    "title": "That Hideous Strength",
+    "authors": [
+      "Clive Staples Lewis"
+    ],
+    "publishedYear": 1945,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 488,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=g_RaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=g_RaAAAAMAAJ&dq=subject:fiction&hl=&cd=5&source=gbs_api"
+  },
+  {
+    "id": "aGRkAAAAMAAJ",
+    "title": "Chaka",
+    "authors": [
+      "Thomas Mofolo"
+    ],
+    "publishedYear": 1981,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 198,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=aGRkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=aGRkAAAAMAAJ&dq=subject:fiction&hl=&cd=6&source=gbs_api"
+  },
+  {
     "id": "oNY0DwAAQBAJ",
     "title": "There There",
     "authors": [
@@ -12,7 +102,7 @@
     "pageCount": 260,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=oNY0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=oNY0DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=oNY0DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api"
   },
   {
     "id": "UrrTEQAAQBAJ",
@@ -27,7 +117,7 @@
     "pageCount": 260,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=UrrTEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=UrrTEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=UrrTEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api"
   },
   {
     "id": "v7VPEQAAQBAJ",
@@ -42,22 +132,22 @@
     "pageCount": 136,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=v7VPEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=v7VPEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=v7VPEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api"
   },
   {
-    "id": "3oSqDwAAQBAJ",
-    "title": "Oliver Twist",
+    "id": "x093EAAAQBAJ",
+    "title": "The Festival of Insignificance",
     "authors": [
-      "Charles Dickens"
+      "Milan Kundera"
     ],
-    "publishedYear": 2019,
+    "publishedYear": 2023,
     "categories": [
       "Fiction"
     ],
-    "pageCount": 220,
+    "pageCount": 94,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=3oSqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=3oSqDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=x093EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=x093EAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=41&source=gbs_api"
   },
   {
     "id": "Zotf0QEACAAJ",
@@ -72,7 +162,7 @@
     "pageCount": null,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=Zotf0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Zotf0QEACAAJ&dq=subject:fiction&hl=&cd=41&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=Zotf0QEACAAJ&dq=subject:fiction&hl=&cd=42&source=gbs_api"
   },
   {
     "id": "iqZnwQEACAAJ",
@@ -87,7 +177,7 @@
     "pageCount": 574,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=iqZnwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=iqZnwQEACAAJ&dq=subject:fiction&hl=&cd=43&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=iqZnwQEACAAJ&dq=subject:fiction&hl=&cd=44&source=gbs_api"
   },
   {
     "id": "W6FQ4_wJSFEC",
@@ -102,7 +192,7 @@
     "pageCount": 388,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=W6FQ4_wJSFEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=W6FQ4_wJSFEC&printsec=frontcover&dq=subject:fiction&hl=&cd=44&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=W6FQ4_wJSFEC&printsec=frontcover&dq=subject:fiction&hl=&cd=45&source=gbs_api"
   },
   {
     "id": "5ntnDwAAQBAJ",
@@ -117,7 +207,22 @@
     "pageCount": 481,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=5ntnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=5ntnDwAAQBAJ&dq=subject:fiction&hl=&cd=45&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=5ntnDwAAQBAJ&dq=subject:fiction&hl=&cd=46&source=gbs_api"
+  },
+  {
+    "id": "zYxERwAACAAJ",
+    "title": "The Life and Adventures of Robinson Crusoe, of York, Mariner",
+    "authors": [
+      "Daniel Defoe"
+    ],
+    "publishedYear": 2007,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 260,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=zYxERwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=zYxERwAACAAJ&dq=subject:fiction&hl=&cd=48&source=gbs_api"
   },
   {
     "id": "X67MjgEACAAJ",
@@ -150,6 +255,21 @@
     "previewLink": "http://books.google.pt/books?id=d4rwBgAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=81&source=gbs_api"
   },
   {
+    "id": "Eb0fAQAAIAAJ",
+    "title": "Nuestra Señora de la Noche",
+    "authors": [
+      "Mayra Santos-Febres"
+    ],
+    "publishedYear": 2006,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 368,
+    "language": "es",
+    "thumbnail": "http://books.google.com/books/content?id=Eb0fAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Eb0fAQAAIAAJ&dq=subject:fiction&hl=&cd=82&source=gbs_api"
+  },
+  {
     "id": "TnHszgEACAAJ",
     "title": "The Great Gatsby",
     "authors": [
@@ -165,49 +285,64 @@
     "previewLink": "http://books.google.pt/books?id=TnHszgEACAAJ&dq=subject:fiction&hl=&cd=83&source=gbs_api"
   },
   {
-    "id": "e1ZZHkzMb6sC",
-    "title": "The Guns of Navarone",
+    "id": "J_Kw1oREJcUC",
+    "title": "Dreamcatcher",
     "authors": [
-      "Alistair MacLean"
+      "Stephen King"
     ],
-    "publishedYear": 2010,
+    "publishedYear": 2001,
     "categories": [
       "Fiction"
     ],
-    "pageCount": 37,
+    "pageCount": 704,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=e1ZZHkzMb6sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=e1ZZHkzMb6sC&printsec=frontcover&dq=subject:fiction&hl=&cd=84&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=J_Kw1oREJcUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=J_Kw1oREJcUC&printsec=frontcover&dq=subject:fiction&hl=&cd=85&source=gbs_api"
   },
   {
-    "id": "jx0ZEAAAQBAJ",
-    "title": "The Wind in the Willows",
+    "id": "BcCevp5-L6oC",
+    "title": "The Swineherd",
     "authors": [
-      "Kenneth Grahame"
+      "Hans Christian Andersen"
     ],
-    "publishedYear": 2015,
+    "publishedYear": 1995,
     "categories": [
       "Fiction"
     ],
-    "pageCount": 194,
+    "pageCount": 36,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=jx0ZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=jx0ZEAAAQBAJ&dq=subject:fiction&hl=&cd=85&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=BcCevp5-L6oC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=BcCevp5-L6oC&dq=subject:fiction&hl=&cd=86&source=gbs_api"
   },
   {
-    "id": "ueRzTEnB96wC",
-    "title": "Tales from Earthsea",
+    "id": "NM5PqgKd2dsC",
+    "title": "The Plague of Fantasies",
     "authors": [
-      "Ursula K. Le Guin"
+      "Slavoj Žižek"
     ],
-    "publishedYear": 2012,
+    "publishedYear": 1997,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 262,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=NM5PqgKd2dsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=NM5PqgKd2dsC&printsec=frontcover&dq=subject:fantasy&hl=&cd=1&source=gbs_api"
+  },
+  {
+    "id": "uL7TjS03ixcC",
+    "title": "Moominpappa at Sea",
+    "authors": [
+      "Tove Jansson"
+    ],
+    "publishedYear": 1977,
     "categories": [
       "Juvenile Fiction"
     ],
-    "pageCount": 417,
+    "pageCount": 196,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=ueRzTEnB96wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=ueRzTEnB96wC&printsec=frontcover&dq=subject:fantasy&hl=&cd=2&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=uL7TjS03ixcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=uL7TjS03ixcC&dq=subject:fantasy&hl=&cd=2&source=gbs_api"
   },
   {
     "id": "FD72ekYZqIkC",
@@ -222,7 +357,52 @@
     "pageCount": 267,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=FD72ekYZqIkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=FD72ekYZqIkC&printsec=frontcover&dq=subject:fantasy&hl=&cd=4&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=FD72ekYZqIkC&printsec=frontcover&dq=subject:fantasy&hl=&cd=3&source=gbs_api"
+  },
+  {
+    "id": "Fc4vX8-vQPgC",
+    "title": "Tales from Earthsea",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "publishedYear": 2002,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 340,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=Fc4vX8-vQPgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Fc4vX8-vQPgC&dq=subject:fantasy&hl=&cd=4&source=gbs_api"
+  },
+  {
+    "id": "5boCzgbqs8kC",
+    "title": "No. 44, the Mysterious Stranger",
+    "authors": [
+      "Mark Twain"
+    ],
+    "publishedYear": 1982,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 212,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=5boCzgbqs8kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=5boCzgbqs8kC&printsec=frontcover&dq=subject:fantasy&hl=&cd=5&source=gbs_api"
+  },
+  {
+    "id": "8UJaAAAAYAAJ",
+    "title": "Harry Potter y la piedra filosofal",
+    "authors": [
+      "J. K. Rowling"
+    ],
+    "publishedYear": 2001,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 274,
+    "language": "es",
+    "thumbnail": "http://books.google.com/books/content?id=8UJaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=8UJaAAAAYAAJ&dq=subject:fantasy&hl=&cd=6&source=gbs_api"
   },
   {
     "id": "_GBMEAAAQBAJ",
@@ -237,7 +417,112 @@
     "pageCount": 448,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=_GBMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=_GBMEAAAQBAJ&printsec=frontcover&dq=subject:fantasy&hl=&cd=6&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=_GBMEAAAQBAJ&printsec=frontcover&dq=subject:fantasy&hl=&cd=7&source=gbs_api"
+  },
+  {
+    "id": "Pnqx6B2lF60C",
+    "title": "The Silver Chair",
+    "authors": [
+      "Clive Staples Lewis"
+    ],
+    "publishedYear": 1998,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 260,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=Pnqx6B2lF60C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Pnqx6B2lF60C&dq=subject:fantasy&hl=&cd=8&source=gbs_api"
+  },
+  {
+    "id": "tReilyB13PgC",
+    "title": "The Horse and His Boy",
+    "authors": [
+      "Clive Staples Lewis"
+    ],
+    "publishedYear": 1954,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 216,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=tReilyB13PgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=tReilyB13PgC&dq=subject:fantasy&hl=&cd=9&source=gbs_api"
+  },
+  {
+    "id": "Mo7D3Je7_DMC",
+    "title": "The Wind in the Willows",
+    "authors": [
+      "Kenneth Grahame"
+    ],
+    "publishedYear": 1993,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 202,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=Mo7D3Je7_DMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Mo7D3Je7_DMC&printsec=frontcover&dq=subject:fantasy&hl=&cd=10&source=gbs_api"
+  },
+  {
+    "id": "NsFaAAAAYAAJ",
+    "title": "The Brothers Lionheart",
+    "authors": [
+      "Astrid Lindgren"
+    ],
+    "publishedYear": 1985,
+    "categories": [
+      "Juvenile Nonfiction"
+    ],
+    "pageCount": 196,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=NsFaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=NsFaAAAAYAAJ&dq=subject:fantasy&hl=&cd=43&source=gbs_api"
+  },
+  {
+    "id": "LA1jAwAAQBAJ",
+    "title": "Tales from Moominvalley",
+    "authors": [
+      "Tove Jansson"
+    ],
+    "publishedYear": 2010,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 191,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=LA1jAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=LA1jAwAAQBAJ&dq=subject:fantasy&hl=&cd=44&source=gbs_api"
+  },
+  {
+    "id": "GZAoAQAAIAAJ",
+    "title": "Harry Potter and the Deathly Hallows",
+    "authors": [
+      "J. K. Rowling"
+    ],
+    "publishedYear": 2007,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 792,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=GZAoAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=GZAoAQAAIAAJ&dq=subject:fantasy&hl=&cd=45&source=gbs_api"
+  },
+  {
+    "id": "-bACcU2GBvQC",
+    "title": "House of Many Ways",
+    "authors": [
+      "Diana Wynne Jones"
+    ],
+    "publishedYear": 2008,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 422,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=-bACcU2GBvQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=-bACcU2GBvQC&dq=subject:fantasy&hl=&cd=46&source=gbs_api"
   },
   {
     "id": "GMUJCAAAQBAJ",
@@ -252,37 +537,67 @@
     "pageCount": 433,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=GMUJCAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=GMUJCAAAQBAJ&dq=subject:fantasy&hl=&cd=41&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=GMUJCAAAQBAJ&dq=subject:fantasy&hl=&cd=47&source=gbs_api"
   },
   {
-    "id": "pa4LUt0FCB0C",
-    "title": "The Fantastic Flying Books of Mr. Morris Lessmore",
+    "id": "0ovOTsTs22AC",
+    "title": "Eragon",
     "authors": [
-      "William Joyce"
+      "Christopher Paolini"
     ],
-    "publishedYear": 2012,
+    "publishedYear": 2006,
     "categories": [
       "Juvenile Fiction"
     ],
-    "pageCount": 56,
+    "pageCount": 770,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=pa4LUt0FCB0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=pa4LUt0FCB0C&printsec=frontcover&dq=subject:fantasy&hl=&cd=48&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=0ovOTsTs22AC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=0ovOTsTs22AC&dq=subject:fantasy&hl=&cd=48&source=gbs_api"
   },
   {
-    "id": "jCWUtgAACAAJ",
-    "title": "The Moomins and the Great Flood",
+    "id": "xUguBQAAQBAJ",
+    "title": "City of Bones",
     "authors": [
-      "Tove Jansson"
+      "Cassandra Clare"
     ],
-    "publishedYear": 2012,
+    "publishedYear": 2008,
     "categories": [
-      "Children's stories"
+      "Juvenile Fiction"
     ],
-    "pageCount": null,
+    "pageCount": 528,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=jCWUtgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=jCWUtgAACAAJ&dq=subject:fantasy&hl=&cd=50&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=xUguBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=xUguBQAAQBAJ&printsec=frontcover&dq=subject:fantasy&hl=&cd=49&source=gbs_api"
+  },
+  {
+    "id": "R1YX6TzrLyAC",
+    "title": "Charlie and the Chocolate Factory",
+    "authors": [
+      "Roald Dahl"
+    ],
+    "publishedYear": 1998,
+    "categories": [
+      "Behavior"
+    ],
+    "pageCount": 180,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=R1YX6TzrLyAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=R1YX6TzrLyAC&dq=subject:fantasy&hl=&cd=50&source=gbs_api"
+  },
+  {
+    "id": "X1_hAAAAMAAJ",
+    "title": "The Cat who Wished to be a Man",
+    "authors": [
+      "Lloyd Alexander"
+    ],
+    "publishedYear": 1973,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 128,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=X1_hAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=X1_hAAAAMAAJ&dq=subject:fantasy&hl=&cd=83&source=gbs_api"
   },
   {
     "id": "u4LAAwAAQBAJ",
@@ -297,7 +612,52 @@
     "pageCount": 497,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=u4LAAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=u4LAAwAAQBAJ&dq=subject:fantasy&hl=&cd=81&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=u4LAAwAAQBAJ&dq=subject:fantasy&hl=&cd=84&source=gbs_api"
+  },
+  {
+    "id": "QiXuAAAAMAAJ",
+    "title": "The Fourth Bear",
+    "authors": [
+      "Jasper Fforde"
+    ],
+    "publishedYear": 2006,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 408,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=QiXuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=QiXuAAAAMAAJ&dq=subject:fantasy&hl=&cd=85&source=gbs_api"
+  },
+  {
+    "id": "7SJk2vs9C7wC",
+    "title": "The Magicians of Caprona",
+    "authors": [
+      "Diana Wynne Jones"
+    ],
+    "publishedYear": 2000,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 266,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=7SJk2vs9C7wC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=7SJk2vs9C7wC&dq=subject:fantasy&hl=&cd=86&source=gbs_api"
+  },
+  {
+    "id": "OWIauAEACAAJ",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "authors": [
+      "J. K. Rowling"
+    ],
+    "publishedYear": 2005,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 652,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=OWIauAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=OWIauAEACAAJ&dq=subject:fantasy&hl=&cd=87&source=gbs_api"
   },
   {
     "id": "IY2uzQEACAAJ",
@@ -312,7 +672,157 @@
     "pageCount": 304,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=IY2uzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=IY2uzQEACAAJ&dq=subject:fantasy&hl=&cd=86&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=IY2uzQEACAAJ&dq=subject:fantasy&hl=&cd=88&source=gbs_api"
+  },
+  {
+    "id": "V94zd80Y4WIC",
+    "title": "Through the Looking-Glass",
+    "authors": [
+      "Lewis Carroll"
+    ],
+    "publishedYear": 1993,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 248,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=V94zd80Y4WIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=V94zd80Y4WIC&dq=subject:fantasy&hl=&cd=89&source=gbs_api"
+  },
+  {
+    "id": "h4AC2DtqylcC",
+    "title": "The Wizard of Oz",
+    "authors": [
+      "Lyman Frank Baum"
+    ],
+    "publishedYear": 1992,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 200,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=h4AC2DtqylcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=h4AC2DtqylcC&dq=subject:fantasy&hl=&cd=90&source=gbs_api"
+  },
+  {
+    "id": "oDL5W9sQWJMC",
+    "title": "Malafrena",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "publishedYear": 1980,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 358,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=oDL5W9sQWJMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=oDL5W9sQWJMC&dq=subject:romance&hl=&cd=1&source=gbs_api"
+  },
+  {
+    "id": "9vVlAAAAMAAJ",
+    "title": "Toxic Bachelors",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "publishedYear": 2005,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 344,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=9vVlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=9vVlAAAAMAAJ&dq=subject:romance&hl=&cd=2&source=gbs_api"
+  },
+  {
+    "id": "FTDuAAAAMAAJ",
+    "title": "Sons and Lovers",
+    "authors": [
+      "David Herbert Lawrence"
+    ],
+    "publishedYear": 1977,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 650,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=FTDuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=FTDuAAAAMAAJ&dq=subject:romance&hl=&cd=3&source=gbs_api"
+  },
+  {
+    "id": "EvqJCGeqKhsC",
+    "title": "Pride and Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "publishedYear": 1980,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 388,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=EvqJCGeqKhsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=EvqJCGeqKhsC&dq=subject:romance&hl=&cd=4&source=gbs_api"
+  },
+  {
+    "id": "dh6-QgAACAAJ",
+    "title": "Tara Road",
+    "authors": [
+      "Maeve Binchy"
+    ],
+    "publishedYear": 1999,
+    "categories": [
+      "Detective and mystery stories"
+    ],
+    "pageCount": 502,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=dh6-QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=dh6-QgAACAAJ&dq=subject:romance&hl=&cd=5&source=gbs_api"
+  },
+  {
+    "id": "X9FlAAAAMAAJ",
+    "title": "Marriage Most Scandalous",
+    "authors": [
+      "Johanna Lindsey"
+    ],
+    "publishedYear": 2005,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 344,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=X9FlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=X9FlAAAAMAAJ&dq=subject:romance&hl=&cd=6&source=gbs_api"
+  },
+  {
+    "id": "Y12-OQ5BDjcC",
+    "title": "Northern Lights",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "publishedYear": 2004,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 580,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=Y12-OQ5BDjcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Y12-OQ5BDjcC&dq=subject:romance&hl=&cd=7&source=gbs_api"
+  },
+  {
+    "id": "3T_6_VUzlRMC",
+    "title": "September",
+    "authors": [
+      "Rosamunde Pilcher"
+    ],
+    "publishedYear": 1991,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 626,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=3T_6_VUzlRMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=3T_6_VUzlRMC&dq=subject:romance&hl=&cd=8&source=gbs_api"
   },
   {
     "id": "SxPUCwAAQBAJ",
@@ -327,7 +837,70 @@
     "pageCount": 402,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=SxPUCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=SxPUCwAAQBAJ&dq=subject:romance&hl=&cd=8&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=SxPUCwAAQBAJ&dq=subject:romance&hl=&cd=9&source=gbs_api"
+  },
+  {
+    "id": "OShhkoZC_9wC",
+    "title": "A Loving Scoundrel",
+    "authors": [
+      "Johanna Lindsey"
+    ],
+    "publishedYear": 2004,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 528,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=OShhkoZC_9wC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=OShhkoZC_9wC&dq=subject:romance&hl=&cd=10&source=gbs_api"
+  },
+  {
+    "id": "xW0pLmS9i5gC",
+    "title": "The Bachelor List",
+    "authors": [
+      "Jane Feather"
+    ],
+    "publishedYear": 2004,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 343,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=xW0pLmS9i5gC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=xW0pLmS9i5gC&dq=subject:romance&hl=&cd=41&source=gbs_api"
+  },
+  {
+    "id": "gucbAQAAIAAJ",
+    "title": "Death of an Ancient King",
+    "authors": [
+      "Laurent Gaudé"
+    ],
+    "publishedYear": 2004,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 264,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=gucbAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=gucbAQAAIAAJ&dq=subject:romance&hl=&cd=43&source=gbs_api"
+  },
+  {
+    "id": "MbbkFOnP7OkC",
+    "title": "A Holiday of Love",
+    "authors": [
+      "Jude Deveraux",
+      "Arnette Lamb",
+      "Jill Barnett",
+      "Judith McNaught"
+    ],
+    "publishedYear": 2005,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 386,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=MbbkFOnP7OkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=MbbkFOnP7OkC&printsec=frontcover&dq=subject:romance&hl=&cd=44&source=gbs_api"
   },
   {
     "id": "yhNNrgEACAAJ",
@@ -342,7 +915,52 @@
     "pageCount": null,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=yhNNrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=yhNNrgEACAAJ&dq=subject:romance&hl=&cd=44&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=yhNNrgEACAAJ&dq=subject:romance&hl=&cd=45&source=gbs_api"
+  },
+  {
+    "id": "aDYbgk-OCR4C",
+    "title": "Fine Things",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "publishedYear": 1988,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 415,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=aDYbgk-OCR4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=aDYbgk-OCR4C&dq=subject:romance&hl=&cd=46&source=gbs_api"
+  },
+  {
+    "id": "7nHB4OSqfbIC",
+    "title": "The Rana Look",
+    "authors": [
+      "Sandra Brown"
+    ],
+    "publishedYear": 2002,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 232,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=7nHB4OSqfbIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=7nHB4OSqfbIC&dq=subject:romance&hl=&cd=48&source=gbs_api"
+  },
+  {
+    "id": "UcgtbY_Mz6AC",
+    "title": "The Cottage",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "publishedYear": 2002,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 502,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=UcgtbY_Mz6AC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=UcgtbY_Mz6AC&dq=subject:romance&hl=&cd=49&source=gbs_api"
   },
   {
     "id": "2ntOtAEACAAJ",
@@ -357,7 +975,37 @@
     "pageCount": null,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=2ntOtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=2ntOtAEACAAJ&dq=subject:romance&hl=&cd=49&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=2ntOtAEACAAJ&dq=subject:romance&hl=&cd=50&source=gbs_api"
+  },
+  {
+    "id": "wAp-p3golOkC",
+    "title": "The Legacy",
+    "authors": [
+      "Linda Lael Miller"
+    ],
+    "publishedYear": 1994,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 2,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=wAp-p3golOkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=wAp-p3golOkC&dq=subject:romance&hl=&cd=81&source=gbs_api"
+  },
+  {
+    "id": "dPuLAAAACAAJ",
+    "title": "Charmed",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "publishedYear": 2005,
+    "categories": [
+      "Love stories"
+    ],
+    "pageCount": 559,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=dPuLAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=dPuLAAAACAAJ&dq=subject:romance&hl=&cd=82&source=gbs_api"
   },
   {
     "id": "GXxrzQEACAAJ",
@@ -372,7 +1020,22 @@
     "pageCount": 336,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=GXxrzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=GXxrzQEACAAJ&dq=subject:romance&hl=&cd=82&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=GXxrzQEACAAJ&dq=subject:romance&hl=&cd=83&source=gbs_api"
+  },
+  {
+    "id": "1tc7LUwxVfcC",
+    "title": "The Princess Diaries",
+    "authors": [
+      "Meg Cabot"
+    ],
+    "publishedYear": 2001,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 322,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=1tc7LUwxVfcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=1tc7LUwxVfcC&dq=subject:romance&hl=&cd=84&source=gbs_api"
   },
   {
     "id": "66jK6yjlYQ0C",
@@ -387,7 +1050,7 @@
     "pageCount": 207,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=66jK6yjlYQ0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=66jK6yjlYQ0C&dq=subject:romance&hl=&cd=84&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=66jK6yjlYQ0C&dq=subject:romance&hl=&cd=85&source=gbs_api"
   },
   {
     "id": "JOMBDAAAQBAJ",
@@ -402,7 +1065,7 @@
     "pageCount": 402,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=JOMBDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=JOMBDAAAQBAJ&dq=subject:romance&hl=&cd=85&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=JOMBDAAAQBAJ&dq=subject:romance&hl=&cd=86&source=gbs_api"
   },
   {
     "id": "oQ0hCgAAQBAJ",
@@ -417,7 +1080,7 @@
     "pageCount": 330,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=oQ0hCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=oQ0hCgAAQBAJ&printsec=frontcover&dq=subject:romance&hl=&cd=86&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=oQ0hCgAAQBAJ&printsec=frontcover&dq=subject:romance&hl=&cd=87&source=gbs_api"
   },
   {
     "id": "tO0dtQEACAAJ",
@@ -432,7 +1095,7 @@
     "pageCount": null,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=tO0dtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=tO0dtQEACAAJ&dq=subject:romance&hl=&cd=87&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=tO0dtQEACAAJ&dq=subject:romance&hl=&cd=88&source=gbs_api"
   },
   {
     "id": "Kax7AAAAQBAJ",
@@ -447,22 +1110,52 @@
     "pageCount": 337,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=Kax7AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Kax7AAAAQBAJ&printsec=frontcover&dq=subject:romance&hl=&cd=88&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=Kax7AAAAQBAJ&printsec=frontcover&dq=subject:romance&hl=&cd=89&source=gbs_api"
   },
   {
-    "id": "5iqA35LRO5gC",
-    "title": "The Dogs and the Wolves",
+    "id": "afxEU2jcPn0C",
+    "title": "Above and Beyond",
     "authors": [
-      "Irène Némirovsky"
+      "Sandra Brown"
     ],
-    "publishedYear": 2010,
+    "publishedYear": 2004,
     "categories": [
       "Fiction"
     ],
-    "pageCount": 227,
+    "pageCount": 244,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=5iqA35LRO5gC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=5iqA35LRO5gC&dq=subject:romance&hl=&cd=90&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=afxEU2jcPn0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=afxEU2jcPn0C&dq=subject:romance&hl=&cd=90&source=gbs_api"
+  },
+  {
+    "id": "xIU9d6W3vEkC",
+    "title": "The Philosophy of Science Fiction Film",
+    "authors": [
+      "Steven Sanders"
+    ],
+    "publishedYear": 2007,
+    "categories": [
+      "Performing Arts"
+    ],
+    "pageCount": 241,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=xIU9d6W3vEkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=xIU9d6W3vEkC&pg=PA2&dq=subject:science+fiction&hl=&cd=1&source=gbs_api"
+  },
+  {
+    "id": "uefwmdROKTAC",
+    "title": "Science Fact and Science Fiction",
+    "authors": [
+      "Brian M. Stableford"
+    ],
+    "publishedYear": 2006,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 758,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=uefwmdROKTAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=uefwmdROKTAC&pg=PA227&dq=subject:science+fiction&hl=&cd=2&source=gbs_api"
   },
   {
     "id": "pLvEEQAAQBAJ",
@@ -495,6 +1188,235 @@
     "previewLink": "http://books.google.pt/books?id=sbv3E9-vueUC&pg=PA11&dq=subject:science+fiction&hl=&cd=4&source=gbs_api"
   },
   {
+    "id": "O72EoPJN4mUC",
+    "title": "Science Fiction",
+    "authors": [
+      "Isaac Asimov",
+      "Greg Walz-Chojnacki",
+      "Francis Reddy"
+    ],
+    "publishedYear": 1995,
+    "categories": [
+      "Juvenile Nonfiction"
+    ],
+    "pageCount": 38,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=O72EoPJN4mUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=O72EoPJN4mUC&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=5&source=gbs_api"
+  },
+  {
+    "id": "opEUAQAAIAAJ",
+    "title": "Fiction in American Magazines Before 1800",
+    "authors": [
+      "Edward W. R. Pitcher"
+    ],
+    "publishedYear": 1993,
+    "categories": [
+      "Language Arts & Disciplines"
+    ],
+    "pageCount": 344,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=opEUAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=opEUAQAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=6&source=gbs_api"
+  },
+  {
+    "id": "AzFaAAAAMAAJ",
+    "title": "The Supernatural and English Fiction",
+    "authors": [
+      "Glen Cavaliero"
+    ],
+    "publishedYear": 1995,
+    "categories": [
+      "History"
+    ],
+    "pageCount": 296,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=AzFaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=AzFaAAAAMAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=7&source=gbs_api"
+  },
+  {
+    "id": "UbULAQAAMAAJ",
+    "title": "Music in Contemporary British Fiction",
+    "authors": [
+      "Gerry Smyth"
+    ],
+    "publishedYear": 2008,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 264,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=UbULAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=UbULAQAAMAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=8&source=gbs_api"
+  },
+  {
+    "id": "S8wUAQAAIAAJ",
+    "title": "British Fantasy and Science-fiction Writers Before World War I",
+    "authors": [
+      "Darren Harris-Fain"
+    ],
+    "publishedYear": 1997,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 392,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=S8wUAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=S8wUAQAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=9&source=gbs_api"
+  },
+  {
+    "id": "BiNfAAAAMAAJ",
+    "title": "History and Fiction in Galdós's Narratives",
+    "authors": [
+      "Geoffrey Ribbans"
+    ],
+    "publishedYear": 1993,
+    "categories": [
+      "Literary Criticism"
+    ],
+    "pageCount": 336,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=BiNfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=BiNfAAAAMAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=10&source=gbs_api"
+  },
+  {
+    "id": "iGgcAQAAIAAJ",
+    "title": "Practising Science Communication in the Information Age",
+    "authors": [
+      "Richard Holliman"
+    ],
+    "publishedYear": 2009,
+    "categories": [
+      "Language Arts & Disciplines"
+    ],
+    "pageCount": 268,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=iGgcAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=iGgcAQAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=41&source=gbs_api"
+  },
+  {
+    "id": "GzesAAAAIAAJ",
+    "title": "Research Studies",
+    "authors": [
+      "Washington State University"
+    ],
+    "publishedYear": 1977,
+    "categories": [
+      "Europe"
+    ],
+    "pageCount": 296,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=GzesAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=GzesAAAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=45&source=gbs_api"
+  },
+  {
+    "id": "6mZDAQAAMAAJ",
+    "title": "Transactions",
+    "authors": [
+      "Leicester Literary & Philosophical Society"
+    ],
+    "publishedYear": 1889,
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 1242,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=6mZDAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=6mZDAQAAMAAJ&pg=RA14-PA92&dq=subject:science+fiction&hl=&cd=47&source=gbs_api"
+  },
+  {
+    "id": "YH0YAQAAIAAJ",
+    "title": "Concise Encyclopedia of Philosophy of Language",
+    "authors": [
+      "P. Lamarque",
+      "R. E. Asher"
+    ],
+    "publishedYear": 1997,
+    "categories": [
+      "Language Arts & Disciplines"
+    ],
+    "pageCount": 632,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=YH0YAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=YH0YAQAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=48&source=gbs_api"
+  },
+  {
+    "id": "4VwoAAAAMAAJ",
+    "title": "Déliberations Et Mémoires de la Société Royale Du Canada",
+    "authors": [
+      "Royal Society of Canada"
+    ],
+    "publishedYear": 1894,
+    "categories": [
+      "Humanities"
+    ],
+    "pageCount": 610,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=4VwoAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=4VwoAAAAMAAJ&pg=RA1-PA20&dq=subject:science+fiction&hl=&cd=49&source=gbs_api"
+  },
+  {
+    "id": "RwE8AAAAIAAJ",
+    "title": "Teaching Children Science: an Inquiry Approach",
+    "authors": [
+      "Louis I. Kuslan",
+      "A. Harris Stone"
+    ],
+    "publishedYear": 1968,
+    "categories": [
+      "Learning by discovery"
+    ],
+    "pageCount": 488,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=RwE8AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=RwE8AAAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=50&source=gbs_api"
+  },
+  {
+    "id": "hugPAQAAMAAJ",
+    "title": "The Last Frontier",
+    "authors": [
+      "Karl Siegfried Guthke"
+    ],
+    "publishedYear": 1990,
+    "categories": [
+      "Literary Criticism"
+    ],
+    "pageCount": 424,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=hugPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=hugPAQAAMAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=82&source=gbs_api"
+  },
+  {
+    "id": "toMPAAAAYAAJ",
+    "title": "Practices of the Sentimental Imagination",
+    "authors": [
+      "Jonathan E. Zwicker"
+    ],
+    "publishedYear": 2006,
+    "categories": [
+      "Education"
+    ],
+    "pageCount": 296,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=toMPAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=toMPAAAAYAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=83&source=gbs_api"
+  },
+  {
+    "id": "67EPAQAAIAAJ",
+    "title": "Tsunamis",
+    "authors": [
+      "Horace M. Karling"
+    ],
+    "publishedYear": 2005,
+    "categories": [
+      "Nature"
+    ],
+    "pageCount": 218,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=67EPAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=67EPAQAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=84&source=gbs_api"
+  },
+  {
     "id": "M7FXAAAAYAAJ",
     "title": "Women and Gaming",
     "authors": [
@@ -508,7 +1430,158 @@
     "pageCount": 224,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=M7FXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=M7FXAAAAYAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=82&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=M7FXAAAAYAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=85&source=gbs_api"
+  },
+  {
+    "id": "QTB1AAAAMAAJ",
+    "title": "The Writing on the Cloud",
+    "authors": [
+      "Alison M. Scott",
+      "Christopher D. Geist"
+    ],
+    "publishedYear": 1997,
+    "categories": [
+      "History"
+    ],
+    "pageCount": 264,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=QTB1AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=QTB1AAAAMAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=87&source=gbs_api"
+  },
+  {
+    "id": "i9jYAAAAMAAJ",
+    "title": "Gay and Gaia",
+    "authors": [
+      "Daniel Teberg Spencer"
+    ],
+    "publishedYear": 1996,
+    "categories": [
+      "Philosophy"
+    ],
+    "pageCount": 472,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=i9jYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=i9jYAAAAMAAJ&pg=PA26&dq=subject:science+fiction&hl=&cd=88&source=gbs_api"
+  },
+  {
+    "id": "uk4qAQAAIAAJ",
+    "title": "Red Cosmos",
+    "authors": [
+      "James T. Andrews"
+    ],
+    "publishedYear": 2009,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 182,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=uk4qAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=uk4qAQAAIAAJ&pg=PA66&dq=subject:science+fiction&hl=&cd=89&source=gbs_api"
+  },
+  {
+    "id": "FZRJAAAAYAAJ",
+    "title": "Appletons' Popular Science Monthly",
+    "authors": [
+      "William Jay Youmans"
+    ],
+    "publishedYear": 1898,
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 898,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=FZRJAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=FZRJAAAAYAAJ&pg=PA356&dq=subject:science+fiction&hl=&cd=90&source=gbs_api"
+  },
+  {
+    "id": "afSBdDkZTgkC",
+    "title": "The Holcroft Covenant",
+    "authors": [
+      "Robert Ludlum"
+    ],
+    "publishedYear": 1978,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 514,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=afSBdDkZTgkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=afSBdDkZTgkC&dq=subject:thriller&hl=&cd=1&source=gbs_api"
+  },
+  {
+    "id": "J7ywAAAAIAAJ",
+    "title": "The Dark Half",
+    "authors": [
+      "Stephen King"
+    ],
+    "publishedYear": 1989,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 454,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=J7ywAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=J7ywAAAAIAAJ&dq=subject:thriller&hl=&cd=2&source=gbs_api"
+  },
+  {
+    "id": "Nq5aAAAAMAAJ",
+    "title": "The Testament",
+    "authors": [
+      "John Grisham"
+    ],
+    "publishedYear": 1999,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 452,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=Nq5aAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Nq5aAAAAMAAJ&dq=subject:thriller&hl=&cd=3&source=gbs_api"
+  },
+  {
+    "id": "UGUahZnpa0MC",
+    "title": "The Visitor",
+    "authors": [
+      "Lee Child"
+    ],
+    "publishedYear": 2001,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 516,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=UGUahZnpa0MC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=UGUahZnpa0MC&dq=subject:thriller&hl=&cd=4&source=gbs_api"
+  },
+  {
+    "id": "2TWvWe5qRVUC",
+    "title": "White Fang",
+    "authors": [
+      "Jack London"
+    ],
+    "publishedYear": 2006,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 371,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=2TWvWe5qRVUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=2TWvWe5qRVUC&printsec=frontcover&dq=subject:thriller&hl=&cd=5&source=gbs_api"
+  },
+  {
+    "id": "g40bVuX9wmYC",
+    "title": "The Da Vinci Code",
+    "authors": [
+      "Dan Brown"
+    ],
+    "publishedYear": 2003,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 468,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=g40bVuX9wmYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=g40bVuX9wmYC&dq=subject:thriller&hl=&cd=6&source=gbs_api"
   },
   {
     "id": "L83TtpJ57-wC",
@@ -523,7 +1596,22 @@
     "pageCount": 264,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=L83TtpJ57-wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=L83TtpJ57-wC&printsec=frontcover&dq=subject:thriller&hl=&cd=6&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=L83TtpJ57-wC&printsec=frontcover&dq=subject:thriller&hl=&cd=7&source=gbs_api"
+  },
+  {
+    "id": "yoUFRQAACAAJ",
+    "title": "The Shadow of the Wind",
+    "authors": [
+      "Carlos Ruiz Zafón"
+    ],
+    "publishedYear": 2004,
+    "categories": [
+      "Barcelona (Spain)"
+    ],
+    "pageCount": 521,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=yoUFRQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=yoUFRQAACAAJ&dq=subject:thriller&hl=&cd=8&source=gbs_api"
   },
   {
     "id": "MBtctNppOJAC",
@@ -541,19 +1629,65 @@
     "previewLink": "http://books.google.pt/books?id=MBtctNppOJAC&dq=subject:thriller&hl=&cd=9&source=gbs_api"
   },
   {
-    "id": "lG-0tQEACAAJ",
-    "title": "The Stranger Diaries",
+    "id": "fw3qDy_TSk4C",
+    "title": "The Jester",
     "authors": [
-      "Elly Griffiths"
+      "James Patterson",
+      "Andrew Gross"
     ],
-    "publishedYear": 2019,
+    "publishedYear": 2003,
     "categories": [
       "Fiction"
     ],
-    "pageCount": null,
+    "pageCount": 412,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=lG-0tQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=lG-0tQEACAAJ&dq=subject:thriller&hl=&cd=41&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=fw3qDy_TSk4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=fw3qDy_TSk4C&dq=subject:thriller&hl=&cd=10&source=gbs_api"
+  },
+  {
+    "id": "6gImDwAAQBAJ",
+    "title": "The Camel Club",
+    "authors": [
+      "David Baldacci"
+    ],
+    "publishedYear": 2005,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 705,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=6gImDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=6gImDwAAQBAJ&dq=subject:thriller&hl=&cd=42&source=gbs_api"
+  },
+  {
+    "id": "Z0-oxxP9qBQC",
+    "title": "The Traveller",
+    "authors": [
+      "John Twelve Hawks"
+    ],
+    "publishedYear": 2005,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 468,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=Z0-oxxP9qBQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Z0-oxxP9qBQC&dq=subject:thriller&hl=&cd=43&source=gbs_api"
+  },
+  {
+    "id": "WE0gAQAAIAAJ",
+    "title": "Revenge",
+    "authors": [
+      "Stephen Fry"
+    ],
+    "publishedYear": 2002,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 344,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=WE0gAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=WE0gAQAAIAAJ&dq=subject:thriller&hl=&cd=44&source=gbs_api"
   },
   {
     "id": "0UVGCwAAQBAJ",
@@ -568,7 +1702,7 @@
     "pageCount": 356,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=0UVGCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=0UVGCwAAQBAJ&printsec=frontcover&dq=subject:thriller&hl=&cd=44&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=0UVGCwAAQBAJ&printsec=frontcover&dq=subject:thriller&hl=&cd=45&source=gbs_api"
   },
   {
     "id": "ZMLkjwEACAAJ",
@@ -583,22 +1717,22 @@
     "pageCount": null,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=ZMLkjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=ZMLkjwEACAAJ&dq=subject:thriller&hl=&cd=45&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=ZMLkjwEACAAJ&dq=subject:thriller&hl=&cd=46&source=gbs_api"
   },
   {
-    "id": "nt2gYevSZrMC",
-    "title": "The Harbinger",
+    "id": "LTUjHQAACAAJ",
+    "title": "The Moscow Club",
     "authors": [
-      "Jonathan Cahn"
+      "Joseph Finder"
     ],
-    "publishedYear": 2011,
+    "publishedYear": 2005,
     "categories": [
-      "Fiction"
+      "Coups d'état"
     ],
-    "pageCount": 274,
+    "pageCount": 540,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=nt2gYevSZrMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=nt2gYevSZrMC&printsec=frontcover&dq=subject:thriller&hl=&cd=47&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=LTUjHQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=LTUjHQAACAAJ&dq=subject:thriller&hl=&cd=47&source=gbs_api"
   },
   {
     "id": "mImgMQEACAAJ",
@@ -616,6 +1750,21 @@
     "previewLink": "http://books.google.pt/books?id=mImgMQEACAAJ&dq=subject:thriller&hl=&cd=48&source=gbs_api"
   },
   {
+    "id": "ipBLuwEACAAJ",
+    "title": "Nine Perfect Strangers",
+    "authors": [
+      "Liane Moriarty"
+    ],
+    "publishedYear": 2019,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": null,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=ipBLuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=ipBLuwEACAAJ&dq=subject:thriller&hl=&cd=49&source=gbs_api"
+  },
+  {
     "id": "Fz-rMQEACAAJ",
     "title": "Area 7",
     "authors": [
@@ -628,7 +1777,52 @@
     "pageCount": 550,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=Fz-rMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Fz-rMQEACAAJ&dq=subject:thriller&hl=&cd=49&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=Fz-rMQEACAAJ&dq=subject:thriller&hl=&cd=50&source=gbs_api"
+  },
+  {
+    "id": "_bLFrQEACAAJ",
+    "title": "A Song of Shadows",
+    "authors": [
+      "John Connolly"
+    ],
+    "publishedYear": 2015,
+    "categories": [
+      "Parker, Charlie \"Bird\" (Fictitious character)"
+    ],
+    "pageCount": 441,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=_bLFrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=_bLFrQEACAAJ&dq=subject:thriller&hl=&cd=81&source=gbs_api"
+  },
+  {
+    "id": "XyBLxBf3zc4C",
+    "title": "Life Penalty",
+    "authors": [
+      "Joy Fielding"
+    ],
+    "publishedYear": 1985,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 352,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=XyBLxBf3zc4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=XyBLxBf3zc4C&dq=subject:thriller&hl=&cd=82&source=gbs_api"
+  },
+  {
+    "id": "W1OhAQAACAAJ",
+    "title": "Tokyo",
+    "authors": [
+      "Mo Hayder"
+    ],
+    "publishedYear": 2004,
+    "categories": [
+      "British"
+    ],
+    "pageCount": 362,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=W1OhAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=W1OhAQAACAAJ&dq=subject:thriller&hl=&cd=83&source=gbs_api"
   },
   {
     "id": "-cfAjwEACAAJ",
@@ -646,6 +1840,21 @@
     "previewLink": "http://books.google.pt/books?id=-cfAjwEACAAJ&dq=subject:thriller&hl=&cd=84&source=gbs_api"
   },
   {
+    "id": "Hc3HpT92oXQC",
+    "title": "Harvest",
+    "authors": [
+      "Tess Gerritsen"
+    ],
+    "publishedYear": 2009,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 516,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=Hc3HpT92oXQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Hc3HpT92oXQC&dq=subject:thriller&hl=&cd=85&source=gbs_api"
+  },
+  {
     "id": "BR-9jwEACAAJ",
     "title": "Found",
     "authors": [
@@ -659,6 +1868,36 @@
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=BR-9jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "previewLink": "http://books.google.pt/books?id=BR-9jwEACAAJ&dq=subject:thriller&hl=&cd=86&source=gbs_api"
+  },
+  {
+    "id": "FbPMxwEACAAJ",
+    "title": "Scarecrow",
+    "authors": [
+      "Matthew Reilly"
+    ],
+    "publishedYear": 2005,
+    "categories": [
+      "Americans"
+    ],
+    "pageCount": 464,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=FbPMxwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=FbPMxwEACAAJ&dq=subject:thriller&hl=&cd=87&source=gbs_api"
+  },
+  {
+    "id": "1uC0nhWhrOsC",
+    "title": "Patriot Games",
+    "authors": [
+      "Tom Clancy"
+    ],
+    "publishedYear": 1988,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 10,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=1uC0nhWhrOsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=1uC0nhWhrOsC&dq=subject:thriller&hl=&cd=88&source=gbs_api"
   },
   {
     "id": "9s3aCwAAQBAJ",
@@ -677,49 +1916,397 @@
     "previewLink": "http://books.google.pt/books?id=9s3aCwAAQBAJ&dq=subject:thriller&hl=&cd=89&source=gbs_api"
   },
   {
-    "id": "t_fvugAACAAJ",
-    "title": "Pines",
+    "id": "wAshCgAAQBAJ",
+    "title": "The Silence that Speaks",
     "authors": [
-      "Blake Crouch"
+      "Andrea Kane"
     ],
-    "publishedYear": 2012,
-    "categories": [
-      "Accident victims"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=t_fvugAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=t_fvugAACAAJ&dq=subject:thriller&hl=&cd=90&source=gbs_api"
-  },
-  {
-    "id": "MF4qDwAAQBAJ",
-    "title": "The Seventh Function of Language",
-    "authors": [
-      "Laurent Binet"
-    ],
-    "publishedYear": 2017,
+    "publishedYear": 2015,
     "categories": [
       "Fiction"
     ],
-    "pageCount": 369,
+    "pageCount": 331,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=MF4qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=MF4qDwAAQBAJ&dq=subject:mystery&hl=&cd=46&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=wAshCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=wAshCgAAQBAJ&printsec=frontcover&dq=subject:thriller&hl=&cd=90&source=gbs_api"
   },
   {
-    "id": "jxaZpwAACAAJ",
-    "title": "Endless Night",
+    "id": "NGoFudTo7YsC",
+    "title": "Cards on the Table",
     "authors": [
       "Agatha Christie"
     ],
-    "publishedYear": 2012,
+    "publishedYear": 1993,
     "categories": [
-      "Avarice"
+      "Fiction"
+    ],
+    "pageCount": 228,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=NGoFudTo7YsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=NGoFudTo7YsC&dq=subject:mystery&hl=&cd=2&source=gbs_api"
+  },
+  {
+    "id": "QgJKelQyJAUC",
+    "title": "Dead Souls",
+    "authors": [
+      "Ian Rankin"
+    ],
+    "publishedYear": 2000,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 452,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=QgJKelQyJAUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=QgJKelQyJAUC&dq=subject:mystery&hl=&cd=4&source=gbs_api"
+  },
+  {
+    "id": "BKjCQgAACAAJ",
+    "title": "The ABC Murders",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "publishedYear": 1993,
+    "categories": [
+      "Detective and mystery stories, English"
+    ],
+    "pageCount": 224,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=BKjCQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=BKjCQgAACAAJ&dq=subject:mystery&hl=&cd=5&source=gbs_api"
+  },
+  {
+    "id": "SCHqme8AluYC",
+    "title": "The Invisible Man",
+    "authors": [
+      "Len Jenkin",
+      "Herbert George Wells"
+    ],
+    "publishedYear": 2000,
+    "categories": [
+      "Drama"
+    ],
+    "pageCount": 78,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=SCHqme8AluYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=SCHqme8AluYC&printsec=frontcover&dq=subject:mystery&hl=&cd=6&source=gbs_api"
+  },
+  {
+    "id": "e1BlAAAAMAAJ",
+    "title": "The Shape of Water",
+    "authors": [
+      "Andrea Camilleri"
+    ],
+    "publishedYear": 2002,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 240,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=e1BlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=e1BlAAAAMAAJ&dq=subject:mystery&hl=&cd=7&source=gbs_api"
+  },
+  {
+    "id": "2zs_gq_DPC4C",
+    "title": "The Golden Ball and Other Stories",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "publishedYear": 1984,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 244,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=2zs_gq_DPC4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=2zs_gq_DPC4C&dq=subject:mystery&hl=&cd=8&source=gbs_api"
+  },
+  {
+    "id": "k5JvQgAACAAJ",
+    "title": "The Dogs of Riga",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "publishedYear": 2001,
+    "categories": [
+      "Detective and mystery stories"
+    ],
+    "pageCount": 326,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=k5JvQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=k5JvQgAACAAJ&dq=subject:mystery&hl=&cd=9&source=gbs_api"
+  },
+  {
+    "id": "c28NO1HynT0C",
+    "title": "Missing Joseph",
+    "authors": [
+      "Elizabeth George"
+    ],
+    "publishedYear": 1993,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 612,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=c28NO1HynT0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=c28NO1HynT0C&dq=subject:mystery&hl=&cd=10&source=gbs_api"
+  },
+  {
+    "id": "IYZRU3i0m-QC",
+    "title": "The Rule of Four",
+    "authors": [
+      "Ian Caldwell",
+      "Dustin Thomason"
+    ],
+    "publishedYear": 2005,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 626,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=IYZRU3i0m-QC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=IYZRU3i0m-QC&dq=subject:mystery&hl=&cd=41&source=gbs_api"
+  },
+  {
+    "id": "PDtbAAAACAAJ",
+    "title": "Hercule Poirot's Christmas",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "publishedYear": 1987,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 384,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=PDtbAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=PDtbAAAACAAJ&dq=subject:mystery&hl=&cd=42&source=gbs_api"
+  },
+  {
+    "id": "f9_4Kq8pPQwC",
+    "title": "The Harlequin Tea Set and Other Stories",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "publishedYear": 1998,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 228,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=f9_4Kq8pPQwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=f9_4Kq8pPQwC&dq=subject:mystery&hl=&cd=43&source=gbs_api"
+  },
+  {
+    "id": "sJ93PwAACAAJ",
+    "title": "From Doon with Death",
+    "authors": [
+      "Ruth Rendell"
+    ],
+    "publishedYear": 2005,
+    "categories": [
+      "Detective and mystery stories"
+    ],
+    "pageCount": 184,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=sJ93PwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=sJ93PwAACAAJ&dq=subject:mystery&hl=&cd=44&source=gbs_api"
+  },
+  {
+    "id": "ix-8QwAACAAJ",
+    "title": "The Girl with the Dragon Tattoo",
+    "authors": [
+      "Stieg Larsson",
+      "Reg Keeland (translator.)"
+    ],
+    "publishedYear": 2008,
+    "categories": [
+      "Computer hackers"
+    ],
+    "pageCount": 532,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=ix-8QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=ix-8QwAACAAJ&dq=subject:mystery&hl=&cd=45&source=gbs_api"
+  },
+  {
+    "id": "_k5PUIaonrQC",
+    "title": "Paper Money",
+    "authors": [
+      "Ken Follett"
+    ],
+    "publishedYear": 1987,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 260,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=_k5PUIaonrQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=_k5PUIaonrQC&dq=subject:mystery&hl=&cd=46&source=gbs_api"
+  },
+  {
+    "id": "jTtSAQAAIAAJ",
+    "title": "Discerning the Mystery",
+    "authors": [
+      "Andrew Louth"
+    ],
+    "publishedYear": 1983,
+    "categories": [
+      "Language Arts & Disciplines"
+    ],
+    "pageCount": 176,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=jTtSAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=jTtSAQAAIAAJ&dq=subject:mystery&hl=&cd=47&source=gbs_api"
+  },
+  {
+    "id": "cFmgPwAACAAJ",
+    "title": "And Then There Were None",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "publishedYear": 2000,
+    "categories": [
+      "Detective and mystery stories"
     ],
     "pageCount": null,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=jxaZpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=jxaZpwAACAAJ&dq=subject:mystery&hl=&cd=47&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=cFmgPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=cFmgPwAACAAJ&dq=subject:mystery&hl=&cd=48&source=gbs_api"
+  },
+  {
+    "id": "ESi5-3eabwMC",
+    "title": "Faithless",
+    "authors": [
+      "Karin Slaughter"
+    ],
+    "publishedYear": 2006,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 578,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=ESi5-3eabwMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=ESi5-3eabwMC&dq=subject:mystery&hl=&cd=49&source=gbs_api"
+  },
+  {
+    "id": "a8CJNAEACAAJ",
+    "title": "Moby Dick. Con CD",
+    "authors": [
+      "Herman Melville"
+    ],
+    "publishedYear": 2007,
+    "categories": [
+      "Education"
+    ],
+    "pageCount": 128,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=a8CJNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=a8CJNAEACAAJ&dq=subject:mystery&hl=&cd=81&source=gbs_api"
+  },
+  {
+    "id": "x9RHJ8_BfpwC",
+    "title": "A Murder is Announced",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "publishedYear": 1986,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 244,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=x9RHJ8_BfpwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=x9RHJ8_BfpwC&dq=subject:mystery&hl=&cd=82&source=gbs_api"
+  },
+  {
+    "id": "mh4X2GrTxzAC",
+    "title": "The Teen Model Mystery",
+    "authors": [
+      "Carolyn Keene"
+    ],
+    "publishedYear": 1995,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 164,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=mh4X2GrTxzAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=mh4X2GrTxzAC&printsec=frontcover&dq=subject:mystery&hl=&cd=83&source=gbs_api"
+  },
+  {
+    "id": "OHqsQwFrKO0C",
+    "title": "Loves Music, Loves to Dance",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "publishedYear": 1992,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 339,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=OHqsQwFrKO0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=OHqsQwFrKO0C&printsec=frontcover&dq=subject:mystery&hl=&cd=84&source=gbs_api"
+  },
+  {
+    "id": "DEZ-wQEACAAJ",
+    "title": "Death Comes as the End",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "publishedYear": 1993,
+    "categories": [
+      "Detective and mystery stories"
+    ],
+    "pageCount": 219,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=DEZ-wQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=DEZ-wQEACAAJ&dq=subject:mystery&hl=&cd=85&source=gbs_api"
+  },
+  {
+    "id": "T91NBAAAQBAJ",
+    "title": "The Deadly Dance",
+    "authors": [
+      "M. C. Beaton"
+    ],
+    "publishedYear": 2004,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 301,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=T91NBAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=T91NBAAAQBAJ&dq=subject:mystery&hl=&cd=87&source=gbs_api"
+  },
+  {
+    "id": "xrLxKgpvtbwC",
+    "title": "Andes Rising",
+    "authors": [
+      "James Munves"
+    ],
+    "publishedYear": 1999,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 210,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=xrLxKgpvtbwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=xrLxKgpvtbwC&printsec=frontcover&dq=subject:mystery&hl=&cd=88&source=gbs_api"
+  },
+  {
+    "id": "TtY_y0Fot-QC",
+    "title": "Agatha Raisin and the Fairies of Fryfam",
+    "authors": [
+      "M. C. Beaton"
+    ],
+    "publishedYear": 2001,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 230,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=TtY_y0Fot-QC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=TtY_y0Fot-QC&dq=subject:mystery&hl=&cd=89&source=gbs_api"
   },
   {
     "id": "953GnAEACAAJ",
@@ -734,22 +2321,22 @@
     "pageCount": 372,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=953GnAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=953GnAEACAAJ&dq=subject:mystery&hl=&cd=86&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=953GnAEACAAJ&dq=subject:mystery&hl=&cd=90&source=gbs_api"
   },
   {
-    "id": "oGdOBAAAQBAJ",
-    "title": "Windigo Island",
+    "id": "Irw7sl0ohTwC",
+    "title": "An Echo in the Darkness",
     "authors": [
-      "William Kent Krueger"
+      "Francine Rivers"
     ],
-    "publishedYear": 2014,
+    "publishedYear": 2002,
     "categories": [
       "Fiction"
     ],
-    "pageCount": 352,
+    "pageCount": 482,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=oGdOBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=oGdOBAAAQBAJ&printsec=frontcover&dq=subject:mystery&hl=&cd=89&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=Irw7sl0ohTwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Irw7sl0ohTwC&pg=PR11&dq=subject:historical+fiction&hl=&cd=1&source=gbs_api"
   },
   {
     "id": "S2_dEAAAQBAJ",
@@ -782,6 +2369,21 @@
     "previewLink": "http://books.google.pt/books?id=u9O5BAAAQBAJ&pg=PP4&dq=subject:historical+fiction&hl=&cd=3&source=gbs_api"
   },
   {
+    "id": "8FtWAAAAMAAJ",
+    "title": "Psychopathology",
+    "authors": [
+      "John Ernest Nicole"
+    ],
+    "publishedYear": 1934,
+    "categories": [
+      "Historical"
+    ],
+    "pageCount": 308,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=8FtWAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=8FtWAAAAMAAJ&q=subject:historical+fiction&dq=subject:historical+fiction&hl=&cd=4&source=gbs_api"
+  },
+  {
     "id": "LKCdiQb_SxIC",
     "title": "Allegiance",
     "authors": [
@@ -812,19 +2414,64 @@
     "previewLink": "http://books.google.pt/books?id=Xrz6AorNQMMC&pg=PP8&dq=subject:historical+fiction&hl=&cd=6&source=gbs_api"
   },
   {
-    "id": "RSKIzgEACAAJ",
-    "title": "The Rose Rent",
+    "id": "I77yGAAACAAJ",
+    "title": "The Blood of Flowers",
     "authors": [
-      "Ellis Peters"
+      "Anita Amirrezvani"
     ],
-    "publishedYear": 2021,
+    "publishedYear": 2007,
     "categories": [
-      "Fiction"
+      "American fiction"
     ],
     "pageCount": null,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=RSKIzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=RSKIzgEACAAJ&dq=subject:historical+fiction&hl=&cd=41&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=I77yGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=I77yGAAACAAJ&dq=subject:historical+fiction&hl=&cd=7&source=gbs_api"
+  },
+  {
+    "id": "Zj0eAQAAIAAJ",
+    "title": "Ulysses",
+    "authors": [
+      "James Joyce"
+    ],
+    "publishedYear": 1992,
+    "categories": [
+      "Comics & Graphic Novels"
+    ],
+    "pageCount": 1120,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=Zj0eAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Zj0eAQAAIAAJ&q=subject:historical+fiction&dq=subject:historical+fiction&hl=&cd=8&source=gbs_api"
+  },
+  {
+    "id": "p09bAAAAMAAJ",
+    "title": "The Dark Room",
+    "authors": [
+      "Rachel Seiffert"
+    ],
+    "publishedYear": 2001,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 414,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=p09bAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=p09bAAAAMAAJ&q=subject:historical+fiction&dq=subject:historical+fiction&hl=&cd=9&source=gbs_api"
+  },
+  {
+    "id": "sfMaAAAAYAAJ",
+    "title": "Sex and Sex Worship (phallic Worship)",
+    "authors": [
+      "Otto Augustus Wall"
+    ],
+    "publishedYear": 1920,
+    "categories": [
+      "Historical"
+    ],
+    "pageCount": 632,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=sfMaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=sfMaAAAAYAAJ&q=subject:historical+fiction&dq=subject:historical+fiction&hl=&cd=10&source=gbs_api"
   },
   {
     "id": "3zv5rQEACAAJ",
@@ -839,7 +2486,22 @@
     "pageCount": null,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=3zv5rQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=3zv5rQEACAAJ&dq=subject:historical+fiction&hl=&cd=42&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=3zv5rQEACAAJ&dq=subject:historical+fiction&hl=&cd=41&source=gbs_api"
+  },
+  {
+    "id": "RSKIzgEACAAJ",
+    "title": "The Rose Rent",
+    "authors": [
+      "Ellis Peters"
+    ],
+    "publishedYear": 2021,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": null,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=RSKIzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=RSKIzgEACAAJ&dq=subject:historical+fiction&hl=&cd=42&source=gbs_api"
   },
   {
     "id": "SB9utQAACAAJ",
@@ -857,19 +2519,49 @@
     "previewLink": "http://books.google.pt/books?id=SB9utQAACAAJ&dq=subject:historical+fiction&hl=&cd=43&source=gbs_api"
   },
   {
-    "id": "9tp9swEACAAJ",
-    "title": "Whistler's Bones",
+    "id": "fNbYvqPdoQ4C",
+    "title": "The Living is Easy",
     "authors": [
-      "Greg Barron"
+      "Dorothy West"
     ],
-    "publishedYear": 2017,
+    "publishedYear": 1982,
     "categories": [
       "Fiction"
     ],
-    "pageCount": 306,
+    "pageCount": 380,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=9tp9swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=9tp9swEACAAJ&dq=subject:historical+fiction&hl=&cd=50&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=fNbYvqPdoQ4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=fNbYvqPdoQ4C&printsec=frontcover&dq=subject:historical+fiction&hl=&cd=47&source=gbs_api"
+  },
+  {
+    "id": "D30QmAEACAAJ",
+    "title": "Odysseus",
+    "authors": [
+      "Valerio Massimo Manfredi"
+    ],
+    "publishedYear": 2013,
+    "categories": [
+      "Adventure stories"
+    ],
+    "pageCount": 372,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=D30QmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=D30QmAEACAAJ&dq=subject:historical+fiction&hl=&cd=81&source=gbs_api"
+  },
+  {
+    "id": "azarjwEACAAJ",
+    "title": "The Governor's House",
+    "authors": [
+      "J. H. Fletcher"
+    ],
+    "publishedYear": 2016,
+    "categories": [
+      "Australian fiction"
+    ],
+    "pageCount": 481,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=azarjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=azarjwEACAAJ&dq=subject:historical+fiction&hl=&cd=82&source=gbs_api"
   },
   {
     "id": "Sfv4zgEACAAJ",
@@ -887,34 +2579,19 @@
     "previewLink": "http://books.google.pt/books?id=Sfv4zgEACAAJ&dq=subject:historical+fiction&hl=&cd=83&source=gbs_api"
   },
   {
-    "id": "azarjwEACAAJ",
-    "title": "The Governor's House",
+    "id": "k684HAAACAAJ",
+    "title": "Mr. Timothy",
     "authors": [
-      "J. H. Fletcher"
+      "Louis Bayard"
     ],
-    "publishedYear": 2016,
+    "publishedYear": 2005,
     "categories": [
-      "Australian fiction"
+      "Detective and mystery stories"
     ],
-    "pageCount": 481,
+    "pageCount": 384,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=azarjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=azarjwEACAAJ&dq=subject:historical+fiction&hl=&cd=84&source=gbs_api"
-  },
-  {
-    "id": "D30QmAEACAAJ",
-    "title": "Odysseus",
-    "authors": [
-      "Valerio Massimo Manfredi"
-    ],
-    "publishedYear": 2013,
-    "categories": [
-      "Adventure stories"
-    ],
-    "pageCount": 372,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=D30QmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=D30QmAEACAAJ&dq=subject:historical+fiction&hl=&cd=85&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=k684HAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=k684HAAACAAJ&dq=subject:historical+fiction&hl=&cd=84&source=gbs_api"
   },
   {
     "id": "PBftzgEACAAJ",
@@ -929,7 +2606,22 @@
     "pageCount": null,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=PBftzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=PBftzgEACAAJ&dq=subject:historical+fiction&hl=&cd=89&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=PBftzgEACAAJ&dq=subject:historical+fiction&hl=&cd=86&source=gbs_api"
+  },
+  {
+    "id": "AQV-zwEACAAJ",
+    "title": "The Confessions of Young Nero",
+    "authors": [
+      "Margaret George"
+    ],
+    "publishedYear": 2017,
+    "categories": [
+      "Emperors"
+    ],
+    "pageCount": null,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=AQV-zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=AQV-zwEACAAJ&dq=subject:historical+fiction&hl=&cd=87&source=gbs_api"
   },
   {
     "id": "bOAREQAAQBAJ",
@@ -944,7 +2636,53 @@
     "pageCount": null,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=bOAREQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=bOAREQAAQBAJ&dq=subject:historical+fiction&hl=&cd=90&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=bOAREQAAQBAJ&dq=subject:historical+fiction&hl=&cd=89&source=gbs_api"
+  },
+  {
+    "id": "4_2OPwAACAAJ",
+    "title": "Crossings",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "publishedYear": 2009,
+    "categories": [
+      "Man-woman relationships"
+    ],
+    "pageCount": null,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=4_2OPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=4_2OPwAACAAJ&dq=subject:historical+fiction&hl=&cd=90&source=gbs_api"
+  },
+  {
+    "id": "w1wpDAAAQBAJ",
+    "title": "A Night to Remember",
+    "authors": [
+      "Walter Lord"
+    ],
+    "publishedYear": 2005,
+    "categories": [
+      "History"
+    ],
+    "pageCount": 209,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=w1wpDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=w1wpDAAAQBAJ&dq=subject:nonfiction&hl=&cd=1&source=gbs_api"
+  },
+  {
+    "id": "VLvMDwAAQBAJ",
+    "title": "Mind Over Mood",
+    "authors": [
+      "Dennis Greenberger",
+      "Christine A. Padesky"
+    ],
+    "publishedYear": 2015,
+    "categories": [
+      "Medical"
+    ],
+    "pageCount": 367,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=VLvMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=VLvMDwAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=2&source=gbs_api"
   },
   {
     "id": "TIucEAAAQBAJ",
@@ -959,7 +2697,39 @@
     "pageCount": 872,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=TIucEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=TIucEAAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=2&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=TIucEAAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=3&source=gbs_api"
+  },
+  {
+    "id": "iM5-tAEACAAJ",
+    "title": "Band of Brothers",
+    "authors": [
+      "Stephen E. Ambrose"
+    ],
+    "publishedYear": 1992,
+    "categories": [
+      "Ardennes, Battle of the, 1944-1945"
+    ],
+    "pageCount": null,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=iM5-tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=iM5-tAEACAAJ&dq=subject:nonfiction&hl=&cd=4&source=gbs_api"
+  },
+  {
+    "id": "MUucJV0dRaIC",
+    "title": "Teach Your Child to Read in 100 Easy Lessons",
+    "authors": [
+      "Phyllis Haddox",
+      "Siegfried Engelmann",
+      "Elaine Bruner"
+    ],
+    "publishedYear": 1986,
+    "categories": [
+      "Education"
+    ],
+    "pageCount": 416,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=MUucJV0dRaIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=MUucJV0dRaIC&printsec=frontcover&dq=subject:nonfiction&hl=&cd=5&source=gbs_api"
   },
   {
     "id": "Xb9wDwAAQBAJ",
@@ -974,7 +2744,22 @@
     "pageCount": 275,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=Xb9wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Xb9wDwAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=5&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=Xb9wDwAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=6&source=gbs_api"
+  },
+  {
+    "id": "1-joVyMeol4C",
+    "title": "Alexander",
+    "authors": [
+      "Peter Tsouras"
+    ],
+    "publishedYear": 2004,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 153,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=1-joVyMeol4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=1-joVyMeol4C&printsec=frontcover&dq=subject:nonfiction&hl=&cd=7&source=gbs_api"
   },
   {
     "id": "uzdtDwAAQBAJ",
@@ -990,53 +2775,37 @@
     "pageCount": 413,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=uzdtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=uzdtDwAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=7&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=uzdtDwAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=8&source=gbs_api"
   },
   {
-    "id": "31Y4vjgcU7kC",
-    "title": "How to Win Friends and Influence People in the Digital Age",
+    "id": "lYwJqWYT3t0C",
+    "title": "The Illustrated Art of War",
     "authors": [
-      "Brent Cole",
-      "Dale Carnegie & Associates"
+      "Sunzi"
     ],
-    "publishedYear": 2011,
+    "publishedYear": 2005,
     "categories": [
       "Business & Economics"
     ],
-    "pageCount": 274,
+    "pageCount": 286,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=31Y4vjgcU7kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=31Y4vjgcU7kC&printsec=frontcover&dq=subject:nonfiction&hl=&cd=9&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=lYwJqWYT3t0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=lYwJqWYT3t0C&printsec=frontcover&dq=subject:nonfiction&hl=&cd=9&source=gbs_api"
   },
   {
-    "id": "RYM4DwAAQBAJ",
-    "title": "Dinner with Darwin",
+    "id": "Val2DwAAQBAJ",
+    "title": "Tao Te Ching (Daodejing)",
     "authors": [
-      "Jonathan Silvertown"
-    ],
-    "publishedYear": 2017,
-    "categories": [
-      "Cooking"
-    ],
-    "pageCount": 241,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=RYM4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=RYM4DwAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=10&source=gbs_api"
-  },
-  {
-    "id": "kw52tAEACAAJ",
-    "title": "Lonely Planet Epic Hikes of the World 1",
-    "authors": [
-      "Lonely Planet"
+      "Laozi"
     ],
     "publishedYear": 2018,
     "categories": [
-      "Sports & Recreation"
+      "Body, Mind & Spirit"
     ],
-    "pageCount": null,
+    "pageCount": 370,
     "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=kw52tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=kw52tAEACAAJ&dq=subject:nonfiction&hl=&cd=41&source=gbs_api"
+    "thumbnail": "http://books.google.com/books/content?id=Val2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=Val2DwAAQBAJ&dq=subject:nonfiction&hl=&cd=10&source=gbs_api"
   },
   {
     "id": "ZmZkBm-AqwIC",
@@ -1054,6 +2823,21 @@
     "previewLink": "http://books.google.pt/books?id=ZmZkBm-AqwIC&dq=subject:nonfiction&hl=&cd=42&source=gbs_api"
   },
   {
+    "id": "RrUNAQAAIAAJ",
+    "title": "The Basic Writings of Sigmund Freud",
+    "authors": [
+      "Sigmund Freud"
+    ],
+    "publishedYear": 1995,
+    "categories": [
+      "Philosophy"
+    ],
+    "pageCount": 1016,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=RrUNAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=RrUNAQAAIAAJ&dq=subject:nonfiction&hl=&cd=43&source=gbs_api"
+  },
+  {
     "id": "EIg2tAEACAAJ",
     "title": "The Dark Net",
     "authors": [
@@ -1066,7 +2850,7 @@
     "pageCount": null,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=EIg2tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=EIg2tAEACAAJ&dq=subject:nonfiction&hl=&cd=45&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=EIg2tAEACAAJ&dq=subject:nonfiction&hl=&cd=44&source=gbs_api"
   },
   {
     "id": "rtuEDwAAQBAJ",
@@ -1081,7 +2865,22 @@
     "pageCount": 322,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=rtuEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=rtuEDwAAQBAJ&dq=subject:nonfiction&hl=&cd=46&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=rtuEDwAAQBAJ&dq=subject:nonfiction&hl=&cd=45&source=gbs_api"
+  },
+  {
+    "id": "kw52tAEACAAJ",
+    "title": "Lonely Planet Epic Hikes of the World 1",
+    "authors": [
+      "Lonely Planet"
+    ],
+    "publishedYear": 2018,
+    "categories": [
+      "Sports & Recreation"
+    ],
+    "pageCount": null,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=kw52tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=kw52tAEACAAJ&dq=subject:nonfiction&hl=&cd=46&source=gbs_api"
   },
   {
     "id": "rrVTDwAAQBAJ",
@@ -1099,6 +2898,21 @@
     "previewLink": "http://books.google.pt/books?id=rrVTDwAAQBAJ&dq=subject:nonfiction&hl=&cd=47&source=gbs_api"
   },
   {
+    "id": "z68yEAAAQBAJ",
+    "title": "In the Closet of The Vatican",
+    "authors": [
+      "Frédéric Martel"
+    ],
+    "publishedYear": 2019,
+    "categories": [
+      "Literary Collections"
+    ],
+    "pageCount": 577,
+    "language": "en",
+    "thumbnail": "http://books.google.com/books/content?id=z68yEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "previewLink": "http://books.google.pt/books?id=z68yEAAAQBAJ&dq=subject:nonfiction&hl=&cd=48&source=gbs_api"
+  },
+  {
     "id": "6HdQDwAAQBAJ",
     "title": "At My Table",
     "authors": [
@@ -1111,22 +2925,7 @@
     "pageCount": 289,
     "language": "en",
     "thumbnail": "http://books.google.com/books/content?id=6HdQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=6HdQDwAAQBAJ&dq=subject:nonfiction&hl=&cd=48&source=gbs_api"
-  },
-  {
-    "id": "9MydDgAAQBAJ",
-    "title": "Making Sense",
-    "authors": [
-      "David Crystal"
-    ],
-    "publishedYear": 2017,
-    "categories": [
-      "Language Arts & Disciplines"
-    ],
-    "pageCount": 302,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=9MydDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=9MydDgAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=49&source=gbs_api"
+    "previewLink": "http://books.google.pt/books?id=6HdQDwAAQBAJ&dq=subject:nonfiction&hl=&cd=49&source=gbs_api"
   },
   {
     "id": "t90nDwAAQBAJ",

@@ -7,7 +7,7 @@ import pLimit from "p-limit";
 
 const API_KEY = process.env.GOOGLE_BOOKS_API_KEY;
 
-// Genres to build your dataset (expand as needed)
+// Genres to build dataset
 const GENRES = [
   "fiction",
   "fantasy",
@@ -98,7 +98,7 @@ function isValidBook(book) {
 function deduplicate(list) {
   const seen = new Set();
   return list.filter((b) => {
-    const key = b.title.toLowerCase() + b.authors[0].toLowerCase();
+    const key = b.title.toLowerCase();
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
@@ -108,13 +108,13 @@ function deduplicate(list) {
 /**
  * Get books from recent years
  */
-function isInYearRange(book) {
+/*function isInYearRange(book) {
   return (
     book.publishedYear &&
     book.publishedYear >= 2010 &&
     book.publishedYear <= new Date().getFullYear()
   );
-}
+}*/
 
 /**
  * Fetch one genre fully (multiple pages)
@@ -155,9 +155,9 @@ async function run() {
 
   console.log(`\n📦 Raw books: ${books.length}`);
 
-  books = books.filter(isInYearRange);
+  //books = books.filter(isInYearRange);
 
-  console.log(`✨ After year filter: ${books.length}`);
+  //console.log(`✨ After year filter: ${books.length}`);
 
   books = deduplicate(books);
 
