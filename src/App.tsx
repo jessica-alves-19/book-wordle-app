@@ -2,8 +2,8 @@ import { useState } from "react";
 import "./App.css";
 import type { Book } from "./utils/types";
 import GuessSearchInput from "./components/inputSearch";
-import books from "./data/books.json";
 import GuessCard from "./components/guessCard";
+import { useBooks } from "./hooks/useBooks";
 
 type GuessRecord = {
   book: Book;
@@ -16,15 +16,17 @@ type GuessRecord = {
 };
 
 function App() {
-  const allBooks: Book[] = books as Book[];
+  const { books: allBooks, loading } = useBooks();
   const [guess, setGuess] = useState<string>("");
   const [guesses, setGuesses] = useState<GuessRecord[]>([]);
+
 
   function getRndInteger(min: number, max: number) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
   const [correctBook] = useState<Book | undefined>(() => {
+    if (allBooks.length === 0) return undefined;
     return allBooks[getRndInteger(0, allBooks.length - 1)];
   });
 
@@ -87,12 +89,18 @@ function App() {
         <span className="font-semibold text-white">Guesses:</span> {guessCount}{" "}
         / 10
       </div>
-      <GuessSearchInput
-        guess={guess}
-        setGuess={setGuess}
-        onSubmit={handleGuessSubmit}
-        allBooks={allBooks}
-      />
+      {loading ? (
+        <div className="mb-6 rounded-[24px] border border-blue-400/20 bg-[#09182b]/70 px-4 py-3 text-center text-sm text-blue-100 backdrop-blur-xl">
+          Loading books...
+        </div>
+      ) : (
+        <GuessSearchInput
+          guess={guess}
+          setGuess={setGuess}
+          onSubmit={handleGuessSubmit}
+          allBooks={allBooks}
+        />
+      )}
       <GuessCard
         guesses={guesses}
         correctedYearGuess={correctBook?.publishedYear || 0}
