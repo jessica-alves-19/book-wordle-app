@@ -1,8 +1,10 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import "./App.css";
 import type { Book } from "./utils/types";
 import GuessSearchInput from "./components/inputSearch";
 import GuessCard from "./components/guessCard";
+
+import ResultModal from "./components/resultModal";
 import { useBooks } from "./hooks/useBooks";
 
 type GuessRecord = {
@@ -15,20 +17,61 @@ type GuessRecord = {
   genreMatches: { genre: string; isCorrect: boolean }[];
 };
 
+type ResultModalState = {
+  isOpen: boolean;
+  title: string;
+  message: string;
+  book?: Book;
+  onConfirm?: () => void;
+  confirmLabel?: string;
+};
+
 function App() {
   const { books: allBooks, loading } = useBooks();
   const [guess, setGuess] = useState<string>("");
   const [guesses, setGuesses] = useState<GuessRecord[]>([]);
+  const [resultModal, setResultModal] = useState<ResultModalState>({
+    isOpen: false,
+    title: "",
+    message: "",
+  });
 
+  const [correctBook, setCorrectBook] = useState<Book | undefined>(undefined);
 
-  function getRndInteger(min: number, max: number) {
-    return Math.floor(Math.random() * (max - min + 1)) + min;
+  const pickRandomBook = ((): (() => Book | undefined) => {
+    return () => {
+      if (allBooks.length === 0) return undefined;
+      return allBooks[Math.floor(Math.random() * allBooks.length)];
+    };
+  })();
+
+  useEffect(() => {
+    if (allBooks.length === 0) return;
+    if (correctBook) return;
+    const t = setTimeout(() => setCorrectBook(pickRandomBook()), 0);
+    return () => clearTimeout(t);
+  }, [allBooks, correctBook, pickRandomBook]);
+
+  function openResultModal(
+    title: string,
+    message: string,
+    book?: Book,
+    onConfirm?: () => void,
+    confirmLabel = "Play again",
+  ) {
+    setResultModal({
+      isOpen: true,
+      title,
+      message,
+      book,
+      onConfirm,
+      confirmLabel,
+    });
   }
 
-  const [correctBook] = useState<Book | undefined>(() => {
-    if (allBooks.length === 0) return undefined;
-    return allBooks[getRndInteger(0, allBooks.length - 1)];
-  });
+  function closeResultModal() {
+    setResultModal((prev) => ({ ...prev, isOpen: false }));
+  }
 
   function handleGuessSubmit(
     _e: React.FormEvent<HTMLFormElement>,
@@ -61,23 +104,48 @@ function App() {
     const isCompletelyCorrect =
       isTitleCorrect && isYearCorrect && isAuthorCorrect && isGenreCorrect;
 
+    const guessRecord: GuessRecord = {
+      book: selectedBook,
+      isTitleCorrect,
+      isYearCorrect,
+      isCorrectYearMoreRecent,
+      isAuthorCorrect,
+      isGenreCorrect,
+      genreMatches,
+    };
+
+    const nextGuessCount = guesses.length + 1;
+
+    setGuesses((prev) => [guessRecord, ...prev]);
+
     if (isCompletelyCorrect) {
-      alert("🎉 Correct! You got it!");
-      window.location.reload();
+      openResultModal(
+        "🎉 Correct!",
+        "You guessed the right book.",
+        correctBook,
+        () => {
+          setGuesses([]);
+          setGuess("");
+          setCorrectBook(pickRandomBook());
+        },
+      );
+      setGuess("");
+      return;
     }
 
-    setGuesses((prev) => [
-      {
-        book: selectedBook,
-        isTitleCorrect,
-        isYearCorrect,
-        isCorrectYearMoreRecent,
-        isAuthorCorrect,
-        isGenreCorrect,
-        genreMatches,
-      },
-      ...prev,
-    ]);
+    if (nextGuessCount >= 10) {
+      openResultModal(
+        "Game over",
+        "You used all 10 guesses. The correct book was:",
+        correctBook,
+        () => {
+          setGuesses([]);
+          setGuess("");
+          setCorrectBook(pickRandomBook());
+        },
+      );
+    }
+
     setGuess("");
   }
 
@@ -104,6 +172,15 @@ function App() {
       <GuessCard
         guesses={guesses}
         correctedYearGuess={correctBook?.publishedYear || 0}
+      />
+      <ResultModal
+        isOpen={resultModal.isOpen}
+        title={resultModal.title}
+        message={resultModal.message}
+        book={resultModal.book}
+        onClose={closeResultModal}
+        onConfirm={resultModal.onConfirm}
+        confirmLabel={resultModal.confirmLabel}
       />
     </div>
   );
