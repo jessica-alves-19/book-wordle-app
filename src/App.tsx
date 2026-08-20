@@ -80,13 +80,16 @@ function App() {
     const currentBookGuess = allBooks.filter((g) => g.title === guessValue);
 
     if (currentBookGuess.length === 0) {
-      alert("Book not found. Please enter a valid title.");
+      openResultModal("Book not found", "Please enter a valid book title.");
+      setGuess("");
       return;
     }
 
     const selectedBook = currentBookGuess[0];
 
-    if (guesses.some((previousGuess) => previousGuess.book.id === selectedBook.id)) {
+    if (
+      guesses.some((previousGuess) => previousGuess.book.id === selectedBook.id)
+    ) {
       openResultModal(
         "Already guessed",
         "You have already guessed this book.",
