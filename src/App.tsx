@@ -85,6 +85,17 @@ function App() {
     }
 
     const selectedBook = currentBookGuess[0];
+
+    if (guesses.some((previousGuess) => previousGuess.book.id === selectedBook.id)) {
+      openResultModal(
+        "Already guessed",
+        "You have already guessed this book.",
+        selectedBook,
+      );
+      setGuess("");
+      return;
+    }
+
     const isTitleCorrect = selectedBook.title === correctBook?.title;
     const isYearCorrect =
       selectedBook.publishedYear === correctBook?.publishedYear;
