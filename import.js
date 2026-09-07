@@ -1,171 +1,262 @@
-import dotenv from "dotenv";
-dotenv.config();
+import fs from "node:fs/promises";
 
-import axios from "axios";
-import fs from "fs";
-import pLimit from "p-limit";
+const API_URL = "https://openlibrary.org/search.json";
 
-const API_KEY = process.env.GOOGLE_BOOKS_API_KEY;
+const MIN_YEAR = 2014;
+const MAX_YEAR = 2026;
 
-// Genres to build dataset
-const GENRES = [
+const CATEGORIES = [
   "fiction",
   "fantasy",
   "romance",
-  "science fiction",
   "thriller",
   "mystery",
-  "historical fiction",
-  "nonfiction",
+  "science fiction",
   "young adult",
+  "horror",
+  "adventure",
 ];
 
-// Limit concurrency so we don’t hit API rate limits
-const limit = pLimit(3);
+const HEADERS = {
+  "User-Agent": "BookWordle/1.0 (jessica.p.f.alves@gmail.com.com)",
+};
 
-// Store results
-let books = [];
+async function fetchBooks(category) {
+  const query = `"${category}"`;
 
-/**
- * Fetch books from Google Books API
- */
-async function fetchBooksByGenre(genre, startIndex = 0) {
-  const url = "https://www.googleapis.com/books/v1/volumes";
+  const params = new URLSearchParams();
 
-  const res = await axios.get(url, {
-    params: {
-      q: `subject:${genre}`,
-      startIndex,
-      maxResults: 10,
-      key: API_KEY,
-    },
+  params.set("q", query);
+  params.set("page", "1");
+  params.set("limit", "100");
+
+  params.set(
+    "fields",
+    [
+      "key",
+      "title",
+      "author_name",
+      "first_publish_year",
+      "cover_i",
+      "edition_count",
+      "ratings_count",
+      "ratings_average",
+      "readinglog_count",
+      "subject",
+    ].join(","),
+  );
+
+  const url = `${API_URL}?${params.toString()}`;
+
+  console.log(`Fetching: ${url}`);
+
+  const response = await fetch(url, {
+    headers: HEADERS,
   });
 
-  console.log("RAW RESPONSE:", res.data);
+  if (!response.ok) {
+    throw new Error(
+      `Open Library returned ${response.status}: ${response.statusText}`,
+    );
+  }
 
-  return res.data.items || [];
+  const data = await response.json();
+
+  return data.docs || [];
 }
 
-/**
- * Normalize Google Books response into clean format
- */
-function normalizeBook(item) {
-  const info = item.volumeInfo;
+function calculatePopularity(book) {
+  let score = 0;
 
-  if (
-    !info ||
-    !info.title ||
-    !info.authors ||
-    !info.imageLinks ||
-    !info.categories
-  )
+  const ratings = book.ratings_count || 0;
+  const readingLog = book.readinglog_count || 0;
+  const editions = book.edition_count || 0;
+  const rating = book.ratings_average || 0;
+
+  // Ratings
+  if (ratings >= 10000) {
+    score += 10;
+  } else if (ratings >= 5000) {
+    score += 8;
+  } else if (ratings >= 1000) {
+    score += 6;
+  } else if (ratings >= 500) {
+    score += 4;
+  } else if (ratings >= 100) {
+    score += 2;
+  }
+
+  // Reading activity
+  if (readingLog >= 10000) {
+    score += 10;
+  } else if (readingLog >= 5000) {
+    score += 8;
+  } else if (readingLog >= 1000) {
+    score += 6;
+  } else if (readingLog >= 500) {
+    score += 4;
+  } else if (readingLog >= 100) {
+    score += 2;
+  }
+
+  // Editions
+  if (editions >= 100) {
+    score += 5;
+  } else if (editions >= 50) {
+    score += 4;
+  } else if (editions >= 20) {
+    score += 2;
+  }
+
+  // Rating
+  if (rating >= 4.5) {
+    score += 4;
+  } else if (rating >= 4.2) {
+    score += 3;
+  } else if (rating >= 4) {
+    score += 2;
+  }
+
+  // Cover
+  if (book.cover_i) {
+    score += 2;
+  }
+
+  return score;
+}
+
+function normalizeBook(book, category) {
+  const year = book.first_publish_year;
+
+  // Only 2014-2026
+  if (!year || year < MIN_YEAR || year > MAX_YEAR) {
     return null;
+  }
+
+  // Must have title
+  if (!book.title) {
+    return null;
+  }
+
+  // Must have author
+  if (!book.author_name?.length) {
+    return null;
+  }
+
+  // Must have cover
+  if (!book.cover_i) {
+    return null;
+  }
+
+  const popularityScore = calculatePopularity(book);
 
   return {
-    id: item.id,
-    title: info.title,
-    authors: info.authors,
-    publishedYear: info.publishedDate
-      ? parseInt(info.publishedDate.slice(0, 4))
-      : null,
-    categories: info.categories || [],
-    pageCount: info.pageCount || null,
-    language: info.language || null,
-    thumbnail: info.imageLinks?.thumbnail || null,
-    previewLink: info.previewLink || null,
+    id: book.key,
+
+    title: book.title,
+
+    authors: book.author_name,
+
+    publishedYear: year,
+
+    cover: `https://covers.openlibrary.org/b/id/${book.cover_i}-L.jpg`,
+
+    coverId: book.cover_i,
+
+    editionCount: book.edition_count || 0,
+
+    ratingsCount: book.ratings_count || 0,
+
+    averageRating: book.ratings_average || null,
+
+    readingLogCount: book.readinglog_count || 0,
+
+    categories: [category],
+
+    popularityScore,
   };
 }
 
-/**
- * Clean invalid books
- */
-function isValidBook(book) {
-  return (
-    book &&
-    book.title &&
-    book.authors &&
-    book.authors.length > 0 &&
-    book.categories &&
-    book.categories.length > 0 &&
-    book.thumbnail &&
-    book.publishedYear
-  );
-}
+function removeDuplicates(books) {
+  const map = new Map();
 
-/**
- * Deduplicate books
- */
-function deduplicate(list) {
-  const seen = new Set();
-  return list.filter((b) => {
-    const key = b.title.toLowerCase();
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
-  });
-}
-
-/**
- * Get books from recent years
- */
-/*function isInYearRange(book) {
-  return (
-    book.publishedYear &&
-    book.publishedYear >= 2010 &&
-    book.publishedYear <= new Date().getFullYear()
-  );
-}*/
-
-/**
- * Fetch one genre fully (multiple pages)
- */
-async function fetchGenre(genre) {
-  console.log(`📚 Fetching genre: ${genre}`);
-
-  let all = [];
-
-  for (let i = 0; i < 120; i += 40) {
-    try {
-      const items = await fetchBooksByGenre(genre, i);
-
-      const normalized = items.map(normalizeBook).filter(isValidBook);
-
-      all.push(...normalized);
-
-      console.log(`   ↳ ${genre} | batch ${i} → ${normalized.length} books`);
-    } catch (err) {
-      console.log(`❌ Error on ${genre} index ${i}`);
+  for (const book of books) {
+    if (!map.has(book.id)) {
+      map.set(book.id, book);
     }
   }
 
-  return all;
+  return [...map.values()];
 }
 
-/**
- * Main importer
- */
 async function run() {
-  console.log("🚀 Starting Google Books import...\n");
+  console.log("📚 Starting Open Library importer...\n");
 
-  const tasks = GENRES.map((g) => limit(() => fetchGenre(g)));
+  let books = [];
 
-  const results = await Promise.all(tasks);
+  for (const category of CATEGORIES) {
+    console.log(`📖 Category: ${category}`);
 
-  books = results.flat();
+    try {
+      const results = await fetchBooks(category);
 
-  console.log(`\n📦 Raw books: ${books.length}`);
+      console.log(`   → Received ${results.length} books`);
 
-  //books = books.filter(isInYearRange);
+      const normalized = results
+        .map((book) => normalizeBook(book, category))
+        .filter(Boolean);
 
-  //console.log(`✨ After year filter: ${books.length}`);
+      console.log(`   → ${normalized.length} books passed year/data filters`);
 
-  books = deduplicate(books);
+      books.push(...normalized);
 
-  console.log(`✨ After dedupe: ${books.length}`);
+      // Wait 1 second between requests
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+    } catch (error) {
+      console.error(`❌ Failed: ${category}`);
+      console.error(error.message);
+    }
+  }
 
-  fs.writeFileSync("books.json", JSON.stringify(books, null, 2));
+  console.log("\n------------------------------");
 
-  console.log("\n✅ Saved to books.json");
+  console.log(`📦 Total books: ${books.length}`);
+
+  // Remove duplicates
+  books = removeDuplicates(books);
+
+  console.log(`🔄 After duplicates: ${books.length}`);
+
+  // Sort by popularity
+  books.sort((a, b) => b.popularityScore - a.popularityScore);
+
+  // IMPORTANT:
+  // Start with a low threshold so we don't accidentally
+  // remove everything.
+  books = books.filter((book) => book.popularityScore >= 2);
+
+  console.log(`🔥 After popularity filter: ${books.length}`);
+
+  // Maximum number of books
+  books = books.slice(0, 5000);
+
+  await fs.writeFile("books.json", JSON.stringify(books, null, 2), "utf8");
+
+  console.log(`\n✅ Final books: ${books.length}`);
+  console.log("💾 Saved to books.json");
+
+  console.log("\n🏆 Top 20:");
+
+  books.slice(0, 20).forEach((book, index) => {
+    console.log(
+      `${index + 1}. ${book.title} — ${book.authors.join(
+        ", ",
+      )} (${book.publishedYear}) | Score: ${book.popularityScore}`,
+    );
+  });
 }
 
-run();
+run().catch((error) => {
+  console.error("❌ Import failed:");
+  console.error(error);
+});

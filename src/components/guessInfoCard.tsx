@@ -42,7 +42,8 @@ function GuessInfoCard({
             }`}
           >
             {title.toLowerCase() === "Published Year".toLowerCase()
-              ? text + (isCorrectYearMoreRecent ? " ↑" : " ↓")
+              ? text +
+                (guessIsCorrect ? "" : isCorrectYearMoreRecent ? " ↑" : " ↓")
               : text}
           </span>
         )}

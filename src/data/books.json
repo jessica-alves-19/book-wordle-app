@@ -1,3083 +1,2225 @@
 [
   {
-    "id": "MRoMUV2kLZEC",
-    "title": "Mysteries",
+    "id": "/works/OL24390422W",
+    "title": "Twisted Love",
     "authors": [
-      "Knut Hamsun"
-    ],
-    "publishedYear": 2001,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 356,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=MRoMUV2kLZEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=MRoMUV2kLZEC&dq=subject:fiction&hl=&cd=1&source=gbs_api"
-  },
-  {
-    "id": "icKmd-tlvPMC",
-    "title": "Journey to the Center of the Earth",
-    "authors": [
-      "Jules Verne"
-    ],
-    "publishedYear": 2006,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 242,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=icKmd-tlvPMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=icKmd-tlvPMC&printsec=frontcover&dq=subject:fiction&hl=&cd=2&source=gbs_api"
-  },
-  {
-    "id": "U-1LyAaWtCoC",
-    "title": "Tess of the D'Urbervilles",
-    "authors": [
-      "Thomas Hardy"
-    ],
-    "publishedYear": 1992,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 388,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=U-1LyAaWtCoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=U-1LyAaWtCoC&printsec=frontcover&dq=subject:fiction&hl=&cd=3&source=gbs_api"
-  },
-  {
-    "id": "yruzAAAAIAAJ",
-    "title": "Self's Deception",
-    "authors": [
-      "Bernhard Schlink"
-    ],
-    "publishedYear": 2007,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 356,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=yruzAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=yruzAAAAIAAJ&dq=subject:fiction&hl=&cd=4&source=gbs_api"
-  },
-  {
-    "id": "g_RaAAAAMAAJ",
-    "title": "That Hideous Strength",
-    "authors": [
-      "Clive Staples Lewis"
-    ],
-    "publishedYear": 1945,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 488,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=g_RaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=g_RaAAAAMAAJ&dq=subject:fiction&hl=&cd=5&source=gbs_api"
-  },
-  {
-    "id": "aGRkAAAAMAAJ",
-    "title": "Chaka",
-    "authors": [
-      "Thomas Mofolo"
-    ],
-    "publishedYear": 1981,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 198,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=aGRkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=aGRkAAAAMAAJ&dq=subject:fiction&hl=&cd=6&source=gbs_api"
-  },
-  {
-    "id": "oNY0DwAAQBAJ",
-    "title": "There There",
-    "authors": [
-      "Tommy Orange"
-    ],
-    "publishedYear": 2018,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 260,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=oNY0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=oNY0DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api"
-  },
-  {
-    "id": "UrrTEQAAQBAJ",
-    "title": "Persuasion",
-    "authors": [
-      "Jane Austen"
-    ],
-    "publishedYear": 2026,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 260,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=UrrTEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=UrrTEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api"
-  },
-  {
-    "id": "v7VPEQAAQBAJ",
-    "title": "The Street of Crocodiles",
-    "authors": [
-      "Bruno Schulz"
-    ],
-    "publishedYear": 2025,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 136,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=v7VPEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=v7VPEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api"
-  },
-  {
-    "id": "x093EAAAQBAJ",
-    "title": "The Festival of Insignificance",
-    "authors": [
-      "Milan Kundera"
-    ],
-    "publishedYear": 2023,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 94,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=x093EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=x093EAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=41&source=gbs_api"
-  },
-  {
-    "id": "Zotf0QEACAAJ",
-    "title": "Hunger",
-    "authors": [
-      "Knut Hamsun"
-    ],
-    "publishedYear": 2025,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Zotf0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Zotf0QEACAAJ&dq=subject:fiction&hl=&cd=42&source=gbs_api"
-  },
-  {
-    "id": "iqZnwQEACAAJ",
-    "title": "Robinson Crusoe",
-    "authors": [
-      "Daniel Defoe"
-    ],
-    "publishedYear": 2019,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 574,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=iqZnwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=iqZnwQEACAAJ&dq=subject:fiction&hl=&cd=44&source=gbs_api"
-  },
-  {
-    "id": "W6FQ4_wJSFEC",
-    "title": "Revelations",
-    "authors": [
-      "Oliver Bowden"
-    ],
-    "publishedYear": 2011,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 388,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=W6FQ4_wJSFEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=W6FQ4_wJSFEC&printsec=frontcover&dq=subject:fiction&hl=&cd=45&source=gbs_api"
-  },
-  {
-    "id": "5ntnDwAAQBAJ",
-    "title": "The Scarred Woman",
-    "authors": [
-      "Jussi Adler-Olsen"
-    ],
-    "publishedYear": 2018,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 481,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=5ntnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=5ntnDwAAQBAJ&dq=subject:fiction&hl=&cd=46&source=gbs_api"
-  },
-  {
-    "id": "zYxERwAACAAJ",
-    "title": "The Life and Adventures of Robinson Crusoe, of York, Mariner",
-    "authors": [
-      "Daniel Defoe"
-    ],
-    "publishedYear": 2007,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 260,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=zYxERwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=zYxERwAACAAJ&dq=subject:fiction&hl=&cd=48&source=gbs_api"
-  },
-  {
-    "id": "X67MjgEACAAJ",
-    "title": "The Life and Adventures of Robinson Crusoe",
-    "authors": [
-      "Daniel Defoe"
-    ],
-    "publishedYear": 2014,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 240,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=X67MjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=X67MjgEACAAJ&dq=subject:fiction&hl=&cd=49&source=gbs_api"
-  },
-  {
-    "id": "d4rwBgAAQBAJ",
-    "title": "The Dragon Blood Collection, Books 1-3",
-    "authors": [
-      "Lindsay Buroker"
-    ],
-    "publishedYear": 2014,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 829,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=d4rwBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=d4rwBgAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=81&source=gbs_api"
-  },
-  {
-    "id": "Eb0fAQAAIAAJ",
-    "title": "Nuestra Señora de la Noche",
-    "authors": [
-      "Mayra Santos-Febres"
-    ],
-    "publishedYear": 2006,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 368,
-    "language": "es",
-    "thumbnail": "http://books.google.com/books/content?id=Eb0fAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Eb0fAQAAIAAJ&dq=subject:fiction&hl=&cd=82&source=gbs_api"
-  },
-  {
-    "id": "TnHszgEACAAJ",
-    "title": "The Great Gatsby",
-    "authors": [
-      "F Fitzgerald Scott"
+      "Ana Huang"
     ],
     "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/12940491-L.jpg",
+    "coverId": 12940491,
+    "editionCount": 18,
+    "ratingsCount": 297,
+    "averageRating": 3.8013468,
+    "readingLogCount": 14701,
     "categories": [
-      "Fiction"
+      "romance"
     ],
-    "pageCount": 238,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=TnHszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=TnHszgEACAAJ&dq=subject:fiction&hl=&cd=83&source=gbs_api"
+    "popularityScore": 14
   },
   {
-    "id": "J_Kw1oREJcUC",
-    "title": "Dreamcatcher",
+    "id": "/works/OL25515697W",
+    "title": "Twisted Games",
     "authors": [
-      "Stephen King"
+      "Ana Huang"
     ],
-    "publishedYear": 2001,
+    "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/12821465-L.jpg",
+    "coverId": 12821465,
+    "editionCount": 11,
+    "ratingsCount": 123,
+    "averageRating": 4.0325203,
+    "readingLogCount": 5711,
     "categories": [
-      "Fiction"
+      "romance"
     ],
-    "pageCount": 704,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=J_Kw1oREJcUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=J_Kw1oREJcUC&printsec=frontcover&dq=subject:fiction&hl=&cd=85&source=gbs_api"
+    "popularityScore": 14
   },
   {
-    "id": "BcCevp5-L6oC",
-    "title": "The Swineherd",
+    "id": "/works/OL20068530W",
+    "title": "Verity",
     "authors": [
-      "Hans Christian Andersen"
+      "Colleen Hoover"
     ],
-    "publishedYear": 1995,
+    "publishedYear": 2018,
+    "cover": "https://covers.openlibrary.org/b/id/8747160-L.jpg",
+    "coverId": 8747160,
+    "editionCount": 23,
+    "ratingsCount": 126,
+    "averageRating": 3.857143,
+    "readingLogCount": 5093,
     "categories": [
-      "Fiction"
+      "thriller"
     ],
-    "pageCount": 36,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=BcCevp5-L6oC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=BcCevp5-L6oC&dq=subject:fiction&hl=&cd=86&source=gbs_api"
+    "popularityScore": 14
   },
   {
-    "id": "NM5PqgKd2dsC",
-    "title": "The Plague of Fantasies",
+    "id": "/works/OL38128674W",
+    "title": "Lights Out",
     "authors": [
-      "Slavoj Žižek"
+      "Navessa Allen"
     ],
-    "publishedYear": 1997,
+    "publishedYear": 2024,
+    "cover": "https://covers.openlibrary.org/b/id/14641117-L.jpg",
+    "coverId": 14641117,
+    "editionCount": 6,
+    "ratingsCount": 32,
+    "averageRating": 4.15625,
+    "readingLogCount": 1357,
     "categories": [
-      "Computers"
+      "romance"
     ],
-    "pageCount": 262,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=NM5PqgKd2dsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=NM5PqgKd2dsC&printsec=frontcover&dq=subject:fantasy&hl=&cd=1&source=gbs_api"
+    "popularityScore": 10
   },
   {
-    "id": "uL7TjS03ixcC",
-    "title": "Moominpappa at Sea",
+    "id": "/works/OL25088743W",
+    "title": "Her Soul to Take",
     "authors": [
-      "Tove Jansson"
+      "Harley Laroux"
     ],
-    "publishedYear": 1977,
+    "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/11968055-L.jpg",
+    "coverId": 11968055,
+    "editionCount": 5,
+    "ratingsCount": 9,
+    "averageRating": 4.5555553,
+    "readingLogCount": 560,
     "categories": [
-      "Juvenile Fiction"
+      "romance"
     ],
-    "pageCount": 196,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=uL7TjS03ixcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=uL7TjS03ixcC&dq=subject:fantasy&hl=&cd=2&source=gbs_api"
+    "popularityScore": 10
   },
   {
-    "id": "FD72ekYZqIkC",
-    "title": "A Wizard of Earthsea",
+    "id": "/works/OL29189552W",
+    "title": "Silent Vows",
     "authors": [
-      "Ursula K. Le Guin"
-    ],
-    "publishedYear": 2012,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 267,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=FD72ekYZqIkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=FD72ekYZqIkC&printsec=frontcover&dq=subject:fantasy&hl=&cd=3&source=gbs_api"
-  },
-  {
-    "id": "Fc4vX8-vQPgC",
-    "title": "Tales from Earthsea",
-    "authors": [
-      "Ursula K. Le Guin"
-    ],
-    "publishedYear": 2002,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 340,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Fc4vX8-vQPgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Fc4vX8-vQPgC&dq=subject:fantasy&hl=&cd=4&source=gbs_api"
-  },
-  {
-    "id": "5boCzgbqs8kC",
-    "title": "No. 44, the Mysterious Stranger",
-    "authors": [
-      "Mark Twain"
-    ],
-    "publishedYear": 1982,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 212,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=5boCzgbqs8kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=5boCzgbqs8kC&printsec=frontcover&dq=subject:fantasy&hl=&cd=5&source=gbs_api"
-  },
-  {
-    "id": "8UJaAAAAYAAJ",
-    "title": "Harry Potter y la piedra filosofal",
-    "authors": [
-      "J. K. Rowling"
-    ],
-    "publishedYear": 2001,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 274,
-    "language": "es",
-    "thumbnail": "http://books.google.com/books/content?id=8UJaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=8UJaAAAAYAAJ&dq=subject:fantasy&hl=&cd=6&source=gbs_api"
-  },
-  {
-    "id": "_GBMEAAAQBAJ",
-    "title": "Skandar and the Unicorn Thief",
-    "authors": [
-      "A.F. Steadman"
+      "Jill Ramsower"
     ],
     "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/13011571-L.jpg",
+    "coverId": 13011571,
+    "editionCount": 13,
+    "ratingsCount": 10,
+    "averageRating": 4.5,
+    "readingLogCount": 571,
     "categories": [
-      "Juvenile Fiction"
+      "romance"
     ],
-    "pageCount": 448,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=_GBMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=_GBMEAAAQBAJ&printsec=frontcover&dq=subject:fantasy&hl=&cd=7&source=gbs_api"
+    "popularityScore": 10
   },
   {
-    "id": "Pnqx6B2lF60C",
-    "title": "The Silver Chair",
+    "id": "/works/OL27245843W",
+    "title": "Twisted Hate",
     "authors": [
-      "Clive Staples Lewis"
+      "Ana Huang"
     ],
-    "publishedYear": 1998,
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/12928487-L.jpg",
+    "coverId": 12928487,
+    "editionCount": 7,
+    "ratingsCount": 105,
+    "averageRating": 3.8,
+    "readingLogCount": 4433,
     "categories": [
-      "Juvenile Fiction"
+      "romance"
     ],
-    "pageCount": 260,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Pnqx6B2lF60C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Pnqx6B2lF60C&dq=subject:fantasy&hl=&cd=8&source=gbs_api"
+    "popularityScore": 10
   },
   {
-    "id": "tReilyB13PgC",
-    "title": "The Horse and His Boy",
+    "id": "/works/OL19661009W",
+    "title": "The Tattooist of Auschwitz: the heart-breaking and unforgettable international bestseller",
     "authors": [
-      "Clive Staples Lewis"
-    ],
-    "publishedYear": 1954,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 216,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=tReilyB13PgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=tReilyB13PgC&dq=subject:fantasy&hl=&cd=9&source=gbs_api"
-  },
-  {
-    "id": "Mo7D3Je7_DMC",
-    "title": "The Wind in the Willows",
-    "authors": [
-      "Kenneth Grahame"
-    ],
-    "publishedYear": 1993,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 202,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Mo7D3Je7_DMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Mo7D3Je7_DMC&printsec=frontcover&dq=subject:fantasy&hl=&cd=10&source=gbs_api"
-  },
-  {
-    "id": "NsFaAAAAYAAJ",
-    "title": "The Brothers Lionheart",
-    "authors": [
-      "Astrid Lindgren"
-    ],
-    "publishedYear": 1985,
-    "categories": [
-      "Juvenile Nonfiction"
-    ],
-    "pageCount": 196,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=NsFaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=NsFaAAAAYAAJ&dq=subject:fantasy&hl=&cd=43&source=gbs_api"
-  },
-  {
-    "id": "LA1jAwAAQBAJ",
-    "title": "Tales from Moominvalley",
-    "authors": [
-      "Tove Jansson"
-    ],
-    "publishedYear": 2010,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 191,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=LA1jAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=LA1jAwAAQBAJ&dq=subject:fantasy&hl=&cd=44&source=gbs_api"
-  },
-  {
-    "id": "GZAoAQAAIAAJ",
-    "title": "Harry Potter and the Deathly Hallows",
-    "authors": [
-      "J. K. Rowling"
-    ],
-    "publishedYear": 2007,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 792,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=GZAoAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=GZAoAQAAIAAJ&dq=subject:fantasy&hl=&cd=45&source=gbs_api"
-  },
-  {
-    "id": "-bACcU2GBvQC",
-    "title": "House of Many Ways",
-    "authors": [
-      "Diana Wynne Jones"
-    ],
-    "publishedYear": 2008,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 422,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=-bACcU2GBvQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=-bACcU2GBvQC&dq=subject:fantasy&hl=&cd=46&source=gbs_api"
-  },
-  {
-    "id": "GMUJCAAAQBAJ",
-    "title": "A Court of Thorns and Roses",
-    "authors": [
-      "Sarah J. Maas"
-    ],
-    "publishedYear": 2015,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 433,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=GMUJCAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=GMUJCAAAQBAJ&dq=subject:fantasy&hl=&cd=47&source=gbs_api"
-  },
-  {
-    "id": "0ovOTsTs22AC",
-    "title": "Eragon",
-    "authors": [
-      "Christopher Paolini"
-    ],
-    "publishedYear": 2006,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 770,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=0ovOTsTs22AC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=0ovOTsTs22AC&dq=subject:fantasy&hl=&cd=48&source=gbs_api"
-  },
-  {
-    "id": "xUguBQAAQBAJ",
-    "title": "City of Bones",
-    "authors": [
-      "Cassandra Clare"
-    ],
-    "publishedYear": 2008,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 528,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=xUguBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=xUguBQAAQBAJ&printsec=frontcover&dq=subject:fantasy&hl=&cd=49&source=gbs_api"
-  },
-  {
-    "id": "R1YX6TzrLyAC",
-    "title": "Charlie and the Chocolate Factory",
-    "authors": [
-      "Roald Dahl"
-    ],
-    "publishedYear": 1998,
-    "categories": [
-      "Behavior"
-    ],
-    "pageCount": 180,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=R1YX6TzrLyAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=R1YX6TzrLyAC&dq=subject:fantasy&hl=&cd=50&source=gbs_api"
-  },
-  {
-    "id": "X1_hAAAAMAAJ",
-    "title": "The Cat who Wished to be a Man",
-    "authors": [
-      "Lloyd Alexander"
-    ],
-    "publishedYear": 1973,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 128,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=X1_hAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=X1_hAAAAMAAJ&dq=subject:fantasy&hl=&cd=83&source=gbs_api"
-  },
-  {
-    "id": "u4LAAwAAQBAJ",
-    "title": "The Kiss of Deception",
-    "authors": [
-      "Mary E. Pearson"
-    ],
-    "publishedYear": 2014,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 497,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=u4LAAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=u4LAAwAAQBAJ&dq=subject:fantasy&hl=&cd=84&source=gbs_api"
-  },
-  {
-    "id": "QiXuAAAAMAAJ",
-    "title": "The Fourth Bear",
-    "authors": [
-      "Jasper Fforde"
-    ],
-    "publishedYear": 2006,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 408,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=QiXuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=QiXuAAAAMAAJ&dq=subject:fantasy&hl=&cd=85&source=gbs_api"
-  },
-  {
-    "id": "7SJk2vs9C7wC",
-    "title": "The Magicians of Caprona",
-    "authors": [
-      "Diana Wynne Jones"
-    ],
-    "publishedYear": 2000,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 266,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=7SJk2vs9C7wC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=7SJk2vs9C7wC&dq=subject:fantasy&hl=&cd=86&source=gbs_api"
-  },
-  {
-    "id": "OWIauAEACAAJ",
-    "title": "Harry Potter and the Half-Blood Prince",
-    "authors": [
-      "J. K. Rowling"
-    ],
-    "publishedYear": 2005,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 652,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=OWIauAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=OWIauAEACAAJ&dq=subject:fantasy&hl=&cd=87&source=gbs_api"
-  },
-  {
-    "id": "IY2uzQEACAAJ",
-    "title": "The Ickabog",
-    "authors": [
-      "J. K. Rowling"
-    ],
-    "publishedYear": 2020,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 304,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=IY2uzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=IY2uzQEACAAJ&dq=subject:fantasy&hl=&cd=88&source=gbs_api"
-  },
-  {
-    "id": "V94zd80Y4WIC",
-    "title": "Through the Looking-Glass",
-    "authors": [
-      "Lewis Carroll"
-    ],
-    "publishedYear": 1993,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 248,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=V94zd80Y4WIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=V94zd80Y4WIC&dq=subject:fantasy&hl=&cd=89&source=gbs_api"
-  },
-  {
-    "id": "h4AC2DtqylcC",
-    "title": "The Wizard of Oz",
-    "authors": [
-      "Lyman Frank Baum"
-    ],
-    "publishedYear": 1992,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 200,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=h4AC2DtqylcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=h4AC2DtqylcC&dq=subject:fantasy&hl=&cd=90&source=gbs_api"
-  },
-  {
-    "id": "oDL5W9sQWJMC",
-    "title": "Malafrena",
-    "authors": [
-      "Ursula K. Le Guin"
-    ],
-    "publishedYear": 1980,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 358,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=oDL5W9sQWJMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=oDL5W9sQWJMC&dq=subject:romance&hl=&cd=1&source=gbs_api"
-  },
-  {
-    "id": "9vVlAAAAMAAJ",
-    "title": "Toxic Bachelors",
-    "authors": [
-      "Danielle Steel"
-    ],
-    "publishedYear": 2005,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 344,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=9vVlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=9vVlAAAAMAAJ&dq=subject:romance&hl=&cd=2&source=gbs_api"
-  },
-  {
-    "id": "FTDuAAAAMAAJ",
-    "title": "Sons and Lovers",
-    "authors": [
-      "David Herbert Lawrence"
-    ],
-    "publishedYear": 1977,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 650,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=FTDuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=FTDuAAAAMAAJ&dq=subject:romance&hl=&cd=3&source=gbs_api"
-  },
-  {
-    "id": "EvqJCGeqKhsC",
-    "title": "Pride and Prejudice",
-    "authors": [
-      "Jane Austen"
-    ],
-    "publishedYear": 1980,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 388,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=EvqJCGeqKhsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=EvqJCGeqKhsC&dq=subject:romance&hl=&cd=4&source=gbs_api"
-  },
-  {
-    "id": "dh6-QgAACAAJ",
-    "title": "Tara Road",
-    "authors": [
-      "Maeve Binchy"
-    ],
-    "publishedYear": 1999,
-    "categories": [
-      "Detective and mystery stories"
-    ],
-    "pageCount": 502,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=dh6-QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=dh6-QgAACAAJ&dq=subject:romance&hl=&cd=5&source=gbs_api"
-  },
-  {
-    "id": "X9FlAAAAMAAJ",
-    "title": "Marriage Most Scandalous",
-    "authors": [
-      "Johanna Lindsey"
-    ],
-    "publishedYear": 2005,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 344,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=X9FlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=X9FlAAAAMAAJ&dq=subject:romance&hl=&cd=6&source=gbs_api"
-  },
-  {
-    "id": "Y12-OQ5BDjcC",
-    "title": "Northern Lights",
-    "authors": [
-      "Nora Roberts"
-    ],
-    "publishedYear": 2004,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 580,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Y12-OQ5BDjcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Y12-OQ5BDjcC&dq=subject:romance&hl=&cd=7&source=gbs_api"
-  },
-  {
-    "id": "3T_6_VUzlRMC",
-    "title": "September",
-    "authors": [
-      "Rosamunde Pilcher"
-    ],
-    "publishedYear": 1991,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 626,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=3T_6_VUzlRMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=3T_6_VUzlRMC&dq=subject:romance&hl=&cd=8&source=gbs_api"
-  },
-  {
-    "id": "SxPUCwAAQBAJ",
-    "title": "Me Before You (Movie Tie-In)",
-    "authors": [
-      "Jojo Moyes"
-    ],
-    "publishedYear": 2016,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 402,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=SxPUCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=SxPUCwAAQBAJ&dq=subject:romance&hl=&cd=9&source=gbs_api"
-  },
-  {
-    "id": "OShhkoZC_9wC",
-    "title": "A Loving Scoundrel",
-    "authors": [
-      "Johanna Lindsey"
-    ],
-    "publishedYear": 2004,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 528,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=OShhkoZC_9wC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=OShhkoZC_9wC&dq=subject:romance&hl=&cd=10&source=gbs_api"
-  },
-  {
-    "id": "xW0pLmS9i5gC",
-    "title": "The Bachelor List",
-    "authors": [
-      "Jane Feather"
-    ],
-    "publishedYear": 2004,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 343,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=xW0pLmS9i5gC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=xW0pLmS9i5gC&dq=subject:romance&hl=&cd=41&source=gbs_api"
-  },
-  {
-    "id": "gucbAQAAIAAJ",
-    "title": "Death of an Ancient King",
-    "authors": [
-      "Laurent Gaudé"
-    ],
-    "publishedYear": 2004,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 264,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=gucbAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=gucbAQAAIAAJ&dq=subject:romance&hl=&cd=43&source=gbs_api"
-  },
-  {
-    "id": "MbbkFOnP7OkC",
-    "title": "A Holiday of Love",
-    "authors": [
-      "Jude Deveraux",
-      "Arnette Lamb",
-      "Jill Barnett",
-      "Judith McNaught"
-    ],
-    "publishedYear": 2005,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 386,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=MbbkFOnP7OkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=MbbkFOnP7OkC&printsec=frontcover&dq=subject:romance&hl=&cd=44&source=gbs_api"
-  },
-  {
-    "id": "yhNNrgEACAAJ",
-    "title": "The Storm Sister",
-    "authors": [
-      "Lucinda Riley"
-    ],
-    "publishedYear": 2015,
-    "categories": [
-      "Adopted children"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=yhNNrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=yhNNrgEACAAJ&dq=subject:romance&hl=&cd=45&source=gbs_api"
-  },
-  {
-    "id": "aDYbgk-OCR4C",
-    "title": "Fine Things",
-    "authors": [
-      "Danielle Steel"
-    ],
-    "publishedYear": 1988,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 415,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=aDYbgk-OCR4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=aDYbgk-OCR4C&dq=subject:romance&hl=&cd=46&source=gbs_api"
-  },
-  {
-    "id": "7nHB4OSqfbIC",
-    "title": "The Rana Look",
-    "authors": [
-      "Sandra Brown"
-    ],
-    "publishedYear": 2002,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 232,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=7nHB4OSqfbIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=7nHB4OSqfbIC&dq=subject:romance&hl=&cd=48&source=gbs_api"
-  },
-  {
-    "id": "UcgtbY_Mz6AC",
-    "title": "The Cottage",
-    "authors": [
-      "Danielle Steel"
-    ],
-    "publishedYear": 2002,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 502,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=UcgtbY_Mz6AC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=UcgtbY_Mz6AC&dq=subject:romance&hl=&cd=49&source=gbs_api"
-  },
-  {
-    "id": "2ntOtAEACAAJ",
-    "title": "The Thirteen",
-    "authors": [
-      "Honore de Balzac"
-    ],
-    "publishedYear": 2014,
-    "categories": [
-      "Classic literature"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=2ntOtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=2ntOtAEACAAJ&dq=subject:romance&hl=&cd=50&source=gbs_api"
-  },
-  {
-    "id": "wAp-p3golOkC",
-    "title": "The Legacy",
-    "authors": [
-      "Linda Lael Miller"
-    ],
-    "publishedYear": 1994,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 2,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=wAp-p3golOkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=wAp-p3golOkC&dq=subject:romance&hl=&cd=81&source=gbs_api"
-  },
-  {
-    "id": "dPuLAAAACAAJ",
-    "title": "Charmed",
-    "authors": [
-      "Nora Roberts"
-    ],
-    "publishedYear": 2005,
-    "categories": [
-      "Love stories"
-    ],
-    "pageCount": 559,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=dPuLAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=dPuLAAAACAAJ&dq=subject:romance&hl=&cd=82&source=gbs_api"
-  },
-  {
-    "id": "GXxrzQEACAAJ",
-    "title": "The Winemaker's Wife",
-    "authors": [
-      "Kristen Harmel"
-    ],
-    "publishedYear": 2021,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 336,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=GXxrzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=GXxrzQEACAAJ&dq=subject:romance&hl=&cd=83&source=gbs_api"
-  },
-  {
-    "id": "1tc7LUwxVfcC",
-    "title": "The Princess Diaries",
-    "authors": [
-      "Meg Cabot"
-    ],
-    "publishedYear": 2001,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 322,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=1tc7LUwxVfcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=1tc7LUwxVfcC&dq=subject:romance&hl=&cd=84&source=gbs_api"
-  },
-  {
-    "id": "66jK6yjlYQ0C",
-    "title": "It's Not Summer Without You",
-    "authors": [
-      "Jenny Han"
-    ],
-    "publishedYear": 2011,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 207,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=66jK6yjlYQ0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=66jK6yjlYQ0C&dq=subject:romance&hl=&cd=85&source=gbs_api"
-  },
-  {
-    "id": "JOMBDAAAQBAJ",
-    "title": "Sweet Ache",
-    "authors": [
-      "K. Bromberg"
-    ],
-    "publishedYear": 2015,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 402,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=JOMBDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=JOMBDAAAQBAJ&dq=subject:romance&hl=&cd=86&source=gbs_api"
-  },
-  {
-    "id": "oQ0hCgAAQBAJ",
-    "title": "A New Hope",
-    "authors": [
-      "Robyn Carr"
-    ],
-    "publishedYear": 2015,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 330,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=oQ0hCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=oQ0hCgAAQBAJ&printsec=frontcover&dq=subject:romance&hl=&cd=87&source=gbs_api"
-  },
-  {
-    "id": "tO0dtQEACAAJ",
-    "title": "Marry Me by Sundown",
-    "authors": [
-      "Johanna Lindsey"
+      "Heather Morris",
+      "Heather Morris",
+      "Morris, Heather teacher.",
+      "Morris Heather",
+      "Sarah Fields"
     ],
     "publishedYear": 2018,
+    "cover": "https://covers.openlibrary.org/b/id/8572962-L.jpg",
+    "coverId": 8572962,
+    "editionCount": 22,
+    "ratingsCount": 29,
+    "averageRating": 4.413793,
+    "readingLogCount": 349,
     "categories": [
-      "Fiction"
+      "young adult"
     ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=tO0dtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=tO0dtQEACAAJ&dq=subject:romance&hl=&cd=88&source=gbs_api"
+    "popularityScore": 9
   },
   {
-    "id": "Kax7AAAAQBAJ",
-    "title": "Just for Now",
+    "id": "/works/OL34774028W",
+    "title": "Powerless",
     "authors": [
-      "Abbi Glines"
+      "Lauren Roberts"
     ],
-    "publishedYear": 2013,
+    "publishedYear": 2023,
+    "cover": "https://covers.openlibrary.org/b/id/14567864-L.jpg",
+    "coverId": 14567864,
+    "editionCount": 13,
+    "ratingsCount": 67,
+    "averageRating": 3.9850745,
+    "readingLogCount": 2956,
     "categories": [
-      "Juvenile Fiction"
+      "fantasy"
     ],
-    "pageCount": 337,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Kax7AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Kax7AAAAQBAJ&printsec=frontcover&dq=subject:romance&hl=&cd=89&source=gbs_api"
+    "popularityScore": 8
   },
   {
-    "id": "afxEU2jcPn0C",
-    "title": "Above and Beyond",
+    "id": "/works/OL27729743W",
+    "title": "The Housemaid",
+    "authors": [
+      "Freida McFadden"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/15105883-L.jpg",
+    "coverId": 15105883,
+    "editionCount": 17,
+    "ratingsCount": 18,
+    "averageRating": 3.8888888,
+    "readingLogCount": 2015,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 8
+  },
+  {
+    "id": "/works/OL34224558W",
+    "title": "Never Lie",
+    "authors": [
+      "Freida McFadden"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/13198561-L.jpg",
+    "coverId": 13198561,
+    "editionCount": 9,
+    "ratingsCount": 16,
+    "averageRating": 3.25,
+    "readingLogCount": 1237,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 8
+  },
+  {
+    "id": "/works/OL17837968W",
+    "title": "Artemis",
+    "authors": [
+      "Andy Weir"
+    ],
+    "publishedYear": 2017,
+    "cover": "https://covers.openlibrary.org/b/id/8235551-L.jpg",
+    "coverId": 8235551,
+    "editionCount": 34,
+    "ratingsCount": 130,
+    "averageRating": 3.6846154,
+    "readingLogCount": 442,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 8
+  },
+  {
+    "id": "/works/OL21934181W",
+    "title": "The Surrogate Mother",
+    "authors": [
+      "Freida McFadden"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/15115699-L.jpg",
+    "coverId": 15115699,
+    "editionCount": 4,
+    "ratingsCount": 2,
+    "averageRating": 4.5,
+    "readingLogCount": 107,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 8
+  },
+  {
+    "id": "/works/OL20878310W",
+    "title": "Caste",
+    "authors": [
+      "Isabel Wilkerson",
+      "Antonio Francisco Rodríguez Esteban"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/10201429-L.jpg",
+    "coverId": 10201429,
+    "editionCount": 17,
+    "ratingsCount": 16,
+    "averageRating": 4.5625,
+    "readingLogCount": 205,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 8
+  },
+  {
+    "id": "/works/OL21214559W",
+    "title": "Minecraft Let's Build",
+    "authors": [
+      "Mojang"
+    ],
+    "publishedYear": 2019,
+    "cover": "https://covers.openlibrary.org/b/id/12639910-L.jpg",
+    "coverId": 12639910,
+    "editionCount": 3,
+    "ratingsCount": 9,
+    "averageRating": 4.888889,
+    "readingLogCount": 207,
+    "categories": [
+      "adventure"
+    ],
+    "popularityScore": 8
+  },
+  {
+    "id": "/works/OL24593432W",
+    "title": "Dungeon Crawler Carl",
+    "authors": [
+      "Matt Dinniman"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/15143022-L.jpg",
+    "coverId": 15143022,
+    "editionCount": 11,
+    "ratingsCount": 12,
+    "averageRating": 4.6666665,
+    "readingLogCount": 210,
+    "categories": [
+      "adventure"
+    ],
+    "popularityScore": 8
+  },
+  {
+    "id": "/works/OL27591348W",
+    "title": "Legends & Lattes",
+    "authors": [
+      "Travis Baldree"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/13028635-L.jpg",
+    "coverId": 13028635,
+    "editionCount": 19,
+    "ratingsCount": 11,
+    "averageRating": 4.3636365,
+    "readingLogCount": 205,
+    "categories": [
+      "fantasy"
+    ],
+    "popularityScore": 7
+  },
+  {
+    "id": "/works/OL29982992W",
+    "title": "Grand Fantasy Designs - Notes",
+    "authors": [
+      "Felix Ode"
+    ],
+    "publishedYear": 2019,
+    "cover": "https://covers.openlibrary.org/b/id/13161909-L.jpg",
+    "coverId": 13161909,
+    "editionCount": 181,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 7,
+    "categories": [
+      "fantasy"
+    ],
+    "popularityScore": 7
+  },
+  {
+    "id": "/works/OL29749834W",
+    "title": "Dark Romance",
+    "authors": [
+      "Ella Segreti",
+      "Angelina Conti"
+    ],
+    "publishedYear": 2017,
+    "cover": "https://covers.openlibrary.org/b/id/13194566-L.jpg",
+    "coverId": 13194566,
+    "editionCount": 1,
+    "ratingsCount": 5,
+    "averageRating": 4.2,
+    "readingLogCount": 263,
+    "categories": [
+      "romance"
+    ],
+    "popularityScore": 7
+  },
+  {
+    "id": "/works/OL19074847W",
+    "title": "The Overstory",
+    "authors": [
+      "Richard Powers",
+      "Richard Powers"
+    ],
+    "publishedYear": 2018,
+    "cover": "https://covers.openlibrary.org/b/id/8758252-L.jpg",
+    "coverId": 8758252,
+    "editionCount": 19,
+    "ratingsCount": 29,
+    "averageRating": 4.172414,
+    "readingLogCount": 269,
+    "categories": [
+      "fiction"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL20866284W",
+    "title": "Azadi",
+    "authors": [
+      "Arundhati Roy"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/10183951-L.jpg",
+    "coverId": 10183951,
+    "editionCount": 10,
+    "ratingsCount": 2,
+    "averageRating": 5,
+    "readingLogCount": 37,
+    "categories": [
+      "fiction"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL17345497W",
+    "title": "The Sympathizer",
+    "authors": [
+      "Viet Thanh Nguyen",
+      "Francois Chau",
+      "Beruryah Ben Barukh"
+    ],
+    "publishedYear": 2015,
+    "cover": "https://covers.openlibrary.org/b/id/7913176-L.jpg",
+    "coverId": 7913176,
+    "editionCount": 15,
+    "ratingsCount": 21,
+    "averageRating": 4.095238,
+    "readingLogCount": 164,
+    "categories": [
+      "fiction"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL29215706W",
+    "title": "Painted Scars",
+    "authors": [
+      "Neva Altaj"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/14630721-L.jpg",
+    "coverId": 14630721,
+    "editionCount": 3,
+    "ratingsCount": 15,
+    "averageRating": 3.4666667,
+    "readingLogCount": 522,
+    "categories": [
+      "romance"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL28181491W",
+    "title": "God of Malice",
+    "authors": [
+      "Rina Kent"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/13291765-L.jpg",
+    "coverId": 13291765,
+    "editionCount": 9,
+    "ratingsCount": 22,
+    "averageRating": 3.8181818,
+    "readingLogCount": 848,
+    "categories": [
+      "romance"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL36480733W",
+    "title": "Ritual",
+    "authors": [
+      "Shantel Tessier"
+    ],
+    "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/15104748-L.jpg",
+    "coverId": 15104748,
+    "editionCount": 3,
+    "ratingsCount": 10,
+    "averageRating": 3.8,
+    "readingLogCount": 684,
+    "categories": [
+      "romance"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL27720239W",
+    "title": "Fierce King",
+    "authors": [
+      "Sadie Kincaid"
+    ],
+    "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/14426383-L.jpg",
+    "coverId": 14426383,
+    "editionCount": 1,
+    "ratingsCount": 15,
+    "averageRating": 3.7333333,
+    "readingLogCount": 660,
+    "categories": [
+      "romance"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL29195444W",
+    "title": "Corrupted Chaos",
+    "authors": [
+      "Shain Rose"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/12992963-L.jpg",
+    "coverId": 12992963,
+    "editionCount": 3,
+    "ratingsCount": 16,
+    "averageRating": 3.75,
+    "readingLogCount": 710,
+    "categories": [
+      "romance"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL28708075W",
+    "title": "Brutal Prince",
+    "authors": [
+      "Sophie Lark"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/14133911-L.jpg",
+    "coverId": 14133911,
+    "editionCount": 5,
+    "ratingsCount": 20,
+    "averageRating": 3.7,
+    "readingLogCount": 846,
+    "categories": [
+      "romance"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL24610711W",
+    "title": "Toxic",
+    "authors": [
+      "Nicole Blanchard"
+    ],
+    "publishedYear": 2017,
+    "cover": "https://covers.openlibrary.org/b/id/11278192-L.jpg",
+    "coverId": 11278192,
+    "editionCount": 6,
+    "ratingsCount": 1,
+    "averageRating": 4,
+    "readingLogCount": 201,
+    "categories": [
+      "romance"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL35677398W",
+    "title": "Binding 13",
+    "authors": [
+      "Chloe Walsh"
+    ],
+    "publishedYear": 2018,
+    "cover": "https://covers.openlibrary.org/b/id/14590229-L.jpg",
+    "coverId": 14590229,
+    "editionCount": 7,
+    "ratingsCount": 14,
+    "averageRating": 3.857143,
+    "readingLogCount": 824,
+    "categories": [
+      "romance"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL28182663W",
+    "title": "Consider Me",
+    "authors": [
+      "Becka Mack"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/13007263-L.jpg",
+    "coverId": 13007263,
+    "editionCount": 4,
+    "ratingsCount": 4,
+    "averageRating": 4,
+    "readingLogCount": 465,
+    "categories": [
+      "romance"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL38074645W",
+    "title": "The Predator",
+    "authors": [
+      "RuNyx"
+    ],
+    "publishedYear": 2019,
+    "cover": "https://covers.openlibrary.org/b/id/14630765-L.jpg",
+    "coverId": 14630765,
+    "editionCount": 2,
+    "ratingsCount": 6,
+    "averageRating": 4.1666665,
+    "readingLogCount": 296,
+    "categories": [
+      "romance"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL38035515W",
+    "title": "Inside Job",
+    "authors": [
+      "Alexis Knightly"
+    ],
+    "publishedYear": 2023,
+    "cover": "https://covers.openlibrary.org/b/id/14848016-L.jpg",
+    "coverId": 14848016,
+    "editionCount": 1,
+    "ratingsCount": 2,
+    "averageRating": 4,
+    "readingLogCount": 419,
+    "categories": [
+      "romance"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL22879514W",
+    "title": "Too Late",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "publishedYear": 2016,
+    "cover": "https://covers.openlibrary.org/b/id/10503002-L.jpg",
+    "coverId": 10503002,
+    "editionCount": 15,
+    "ratingsCount": 7,
+    "averageRating": 2.142857,
+    "readingLogCount": 618,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL35335015W",
+    "title": "Do Not Disturb",
+    "authors": [
+      "Freida McFadden"
+    ],
+    "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/15096889-L.jpg",
+    "coverId": 15096889,
+    "editionCount": 4,
+    "ratingsCount": 2,
+    "averageRating": 4,
+    "readingLogCount": 113,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL21395874W",
+    "title": "When No One Is Watching",
+    "authors": [
+      "Alyssa Cole"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/10368150-L.jpg",
+    "coverId": 10368150,
+    "editionCount": 6,
+    "ratingsCount": 7,
+    "averageRating": 4.142857,
+    "readingLogCount": 108,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL34113490W",
+    "title": "The Housemaid's Secret",
+    "authors": [
+      "Freida McFadden"
+    ],
+    "publishedYear": 2023,
+    "cover": "https://covers.openlibrary.org/b/id/13439869-L.jpg",
+    "coverId": 13439869,
+    "editionCount": 7,
+    "ratingsCount": 8,
+    "averageRating": 3.75,
+    "readingLogCount": 759,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL24421067W",
+    "title": "Abandoned in Death",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/10972085-L.jpg",
+    "coverId": 10972085,
+    "editionCount": 11,
+    "ratingsCount": 4,
+    "averageRating": 4.5,
+    "readingLogCount": 35,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL36716484W",
+    "title": "Better Run",
+    "authors": [
+      "Alina May"
+    ],
+    "publishedYear": 2023,
+    "cover": "https://covers.openlibrary.org/b/id/14614753-L.jpg",
+    "coverId": 14614753,
+    "editionCount": 5,
+    "ratingsCount": 1,
+    "averageRating": 5,
+    "readingLogCount": 36,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 6
+  },
+  {
+    "id": "/works/OL17199360W",
+    "title": "Mean Streak",
     "authors": [
       "Sandra Brown"
     ],
-    "publishedYear": 2004,
+    "publishedYear": 2014,
+    "cover": "https://covers.openlibrary.org/b/id/9700215-L.jpg",
+    "coverId": 9700215,
+    "editionCount": 17,
+    "ratingsCount": 8,
+    "averageRating": 4.5,
+    "readingLogCount": 58,
     "categories": [
-      "Fiction"
+      "thriller"
     ],
-    "pageCount": 244,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=afxEU2jcPn0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=afxEU2jcPn0C&dq=subject:romance&hl=&cd=90&source=gbs_api"
+    "popularityScore": 6
   },
   {
-    "id": "xIU9d6W3vEkC",
-    "title": "The Philosophy of Science Fiction Film",
+    "id": "/works/OL20050194W",
+    "title": "Spook street",
     "authors": [
-      "Steven Sanders"
+      "Mick Herron"
     ],
-    "publishedYear": 2007,
+    "publishedYear": 2017,
+    "cover": "https://covers.openlibrary.org/b/id/12417314-L.jpg",
+    "coverId": 12417314,
+    "editionCount": 5,
+    "ratingsCount": 1,
+    "averageRating": 5,
+    "readingLogCount": 35,
     "categories": [
-      "Performing Arts"
+      "thriller"
     ],
-    "pageCount": 241,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=xIU9d6W3vEkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=xIU9d6W3vEkC&pg=PA2&dq=subject:science+fiction&hl=&cd=1&source=gbs_api"
+    "popularityScore": 6
   },
   {
-    "id": "uefwmdROKTAC",
-    "title": "Science Fact and Science Fiction",
+    "id": "/works/OL24161844W",
+    "title": "Local Woman Missing",
     "authors": [
-      "Brian M. Stableford"
+      "Mary Kubica"
     ],
-    "publishedYear": 2006,
+    "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/10677491-L.jpg",
+    "coverId": 10677491,
+    "editionCount": 8,
+    "ratingsCount": 6,
+    "averageRating": 4.1666665,
+    "readingLogCount": 172,
     "categories": [
-      "Fiction"
+      "thriller"
     ],
-    "pageCount": 758,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=uefwmdROKTAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=uefwmdROKTAC&pg=PA227&dq=subject:science+fiction&hl=&cd=2&source=gbs_api"
+    "popularityScore": 6
   },
   {
-    "id": "pLvEEQAAQBAJ",
-    "title": "Englishness and Environment in Genre Fiction, 1890-1940",
+    "id": "/works/OL24557376W",
+    "title": "Man's Search for Meaning adapted for Young Adults [adaptation]",
     "authors": [
-      "Gerry Smyth"
+      "Viktor E. Frankl"
     ],
-    "publishedYear": 2026,
+    "publishedYear": 2017,
+    "cover": "https://covers.openlibrary.org/b/id/11203708-L.jpg",
+    "coverId": 11203708,
+    "editionCount": 1,
+    "ratingsCount": 13,
+    "averageRating": 3.3846154,
+    "readingLogCount": 813,
     "categories": [
-      "Literary Criticism"
+      "young adult"
     ],
-    "pageCount": 249,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=pLvEEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=pLvEEQAAQBAJ&pg=PA8&dq=subject:science+fiction&hl=&cd=3&source=gbs_api"
+    "popularityScore": 6
   },
   {
-    "id": "sbv3E9-vueUC",
-    "title": "Science Fiction Prototyping",
+    "id": "/works/OL20805927W",
+    "title": "You Should See Me in a Crown",
     "authors": [
-      "Brian David Johnson"
+      "Leah Johnson",
+      "Leah (Young adult author) Johnson"
     ],
-    "publishedYear": 2011,
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/10104810-L.jpg",
+    "coverId": 10104810,
+    "editionCount": 7,
+    "ratingsCount": 3,
+    "averageRating": 5,
+    "readingLogCount": 52,
     "categories": [
-      "Computers"
+      "young adult"
     ],
-    "pageCount": 191,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=sbv3E9-vueUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=sbv3E9-vueUC&pg=PA11&dq=subject:science+fiction&hl=&cd=4&source=gbs_api"
+    "popularityScore": 6
   },
   {
-    "id": "O72EoPJN4mUC",
-    "title": "Science Fiction",
+    "id": "/works/OL19975465W",
+    "title": "Fire & flood",
     "authors": [
-      "Isaac Asimov",
-      "Greg Walz-Chojnacki",
-      "Francis Reddy"
+      "Scott, Victoria (Young adult author)"
     ],
-    "publishedYear": 1995,
+    "publishedYear": 2014,
+    "cover": "https://covers.openlibrary.org/b/id/9437005-L.jpg",
+    "coverId": 9437005,
+    "editionCount": 2,
+    "ratingsCount": 2,
+    "averageRating": 4.5,
+    "readingLogCount": 8,
     "categories": [
-      "Juvenile Nonfiction"
+      "young adult"
     ],
-    "pageCount": 38,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=O72EoPJN4mUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=O72EoPJN4mUC&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=5&source=gbs_api"
+    "popularityScore": 6
   },
   {
-    "id": "opEUAQAAIAAJ",
-    "title": "Fiction in American Magazines Before 1800",
+    "id": "/works/OL17887477W",
+    "title": "Future shock",
     "authors": [
-      "Edward W. R. Pitcher"
+      "Briggs, Elizabeth (Young adult author)",
+      "Elizabeth Briggs"
     ],
-    "publishedYear": 1993,
+    "publishedYear": 2016,
+    "cover": "https://covers.openlibrary.org/b/id/8199321-L.jpg",
+    "coverId": 8199321,
+    "editionCount": 6,
+    "ratingsCount": 1,
+    "averageRating": 5,
+    "readingLogCount": 9,
     "categories": [
-      "Language Arts & Disciplines"
+      "young adult"
     ],
-    "pageCount": 344,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=opEUAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=opEUAQAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=6&source=gbs_api"
+    "popularityScore": 6
   },
   {
-    "id": "AzFaAAAAMAAJ",
-    "title": "The Supernatural and English Fiction",
+    "id": "/works/OL20864745W",
+    "title": "#Horror",
     "authors": [
-      "Glen Cavaliero"
+      "Siddhartha Sarma"
     ],
-    "publishedYear": 1995,
+    "publishedYear": 2018,
+    "cover": "https://covers.openlibrary.org/b/id/10181801-L.jpg",
+    "coverId": 10181801,
+    "editionCount": 1,
+    "ratingsCount": 1,
+    "averageRating": 5,
+    "readingLogCount": 65,
     "categories": [
-      "History"
+      "horror"
     ],
-    "pageCount": 296,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=AzFaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=AzFaAAAAMAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=7&source=gbs_api"
+    "popularityScore": 6
   },
   {
-    "id": "UbULAQAAMAAJ",
-    "title": "Music in Contemporary British Fiction",
+    "id": "/works/OL20007373W",
+    "title": "Slappy's tales of horror",
     "authors": [
-      "Gerry Smyth"
+      "Jamie Tolagson",
+      "Ted Naifeh",
+      "Dave Roman",
+      "Robert Lawrence Stine"
     ],
-    "publishedYear": 2008,
+    "publishedYear": 2015,
+    "cover": "https://covers.openlibrary.org/b/id/11714771-L.jpg",
+    "coverId": 11714771,
+    "editionCount": 9,
+    "ratingsCount": 4,
+    "averageRating": 4.5,
+    "readingLogCount": 45,
     "categories": [
-      "Fiction"
+      "horror"
     ],
-    "pageCount": 264,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=UbULAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=UbULAQAAMAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=8&source=gbs_api"
+    "popularityScore": 6
   },
   {
-    "id": "S8wUAQAAIAAJ",
-    "title": "British Fantasy and Science-fiction Writers Before World War I",
+    "id": "/works/OL19749510W",
+    "title": "The guardian of the realm",
     "authors": [
-      "Darren Harris-Fain"
+      "Elisabetta Dami"
     ],
-    "publishedYear": 1997,
+    "publishedYear": 2018,
+    "cover": "https://covers.openlibrary.org/b/id/12848700-L.jpg",
+    "coverId": 12848700,
+    "editionCount": 3,
+    "ratingsCount": 6,
+    "averageRating": 4.3333335,
+    "readingLogCount": 48,
     "categories": [
-      "Biography & Autobiography"
+      "fantasy"
     ],
-    "pageCount": 392,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=S8wUAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=S8wUAQAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=9&source=gbs_api"
+    "popularityScore": 5
   },
   {
-    "id": "BiNfAAAAMAAJ",
-    "title": "History and Fiction in Galdós's Narratives",
-    "authors": [
-      "Geoffrey Ribbans"
-    ],
-    "publishedYear": 1993,
-    "categories": [
-      "Literary Criticism"
-    ],
-    "pageCount": 336,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=BiNfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=BiNfAAAAMAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=10&source=gbs_api"
-  },
-  {
-    "id": "iGgcAQAAIAAJ",
-    "title": "Practising Science Communication in the Information Age",
-    "authors": [
-      "Richard Holliman"
-    ],
-    "publishedYear": 2009,
-    "categories": [
-      "Language Arts & Disciplines"
-    ],
-    "pageCount": 268,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=iGgcAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=iGgcAQAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=41&source=gbs_api"
-  },
-  {
-    "id": "GzesAAAAIAAJ",
-    "title": "Research Studies",
-    "authors": [
-      "Washington State University"
-    ],
-    "publishedYear": 1977,
-    "categories": [
-      "Europe"
-    ],
-    "pageCount": 296,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=GzesAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=GzesAAAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=45&source=gbs_api"
-  },
-  {
-    "id": "6mZDAQAAMAAJ",
-    "title": "Transactions",
-    "authors": [
-      "Leicester Literary & Philosophical Society"
-    ],
-    "publishedYear": 1889,
-    "categories": [
-      "Science"
-    ],
-    "pageCount": 1242,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=6mZDAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=6mZDAQAAMAAJ&pg=RA14-PA92&dq=subject:science+fiction&hl=&cd=47&source=gbs_api"
-  },
-  {
-    "id": "YH0YAQAAIAAJ",
-    "title": "Concise Encyclopedia of Philosophy of Language",
-    "authors": [
-      "P. Lamarque",
-      "R. E. Asher"
-    ],
-    "publishedYear": 1997,
-    "categories": [
-      "Language Arts & Disciplines"
-    ],
-    "pageCount": 632,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=YH0YAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=YH0YAQAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=48&source=gbs_api"
-  },
-  {
-    "id": "4VwoAAAAMAAJ",
-    "title": "Déliberations Et Mémoires de la Société Royale Du Canada",
-    "authors": [
-      "Royal Society of Canada"
-    ],
-    "publishedYear": 1894,
-    "categories": [
-      "Humanities"
-    ],
-    "pageCount": 610,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=4VwoAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=4VwoAAAAMAAJ&pg=RA1-PA20&dq=subject:science+fiction&hl=&cd=49&source=gbs_api"
-  },
-  {
-    "id": "RwE8AAAAIAAJ",
-    "title": "Teaching Children Science: an Inquiry Approach",
-    "authors": [
-      "Louis I. Kuslan",
-      "A. Harris Stone"
-    ],
-    "publishedYear": 1968,
-    "categories": [
-      "Learning by discovery"
-    ],
-    "pageCount": 488,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=RwE8AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=RwE8AAAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=50&source=gbs_api"
-  },
-  {
-    "id": "hugPAQAAMAAJ",
-    "title": "The Last Frontier",
-    "authors": [
-      "Karl Siegfried Guthke"
-    ],
-    "publishedYear": 1990,
-    "categories": [
-      "Literary Criticism"
-    ],
-    "pageCount": 424,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=hugPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=hugPAQAAMAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=82&source=gbs_api"
-  },
-  {
-    "id": "toMPAAAAYAAJ",
-    "title": "Practices of the Sentimental Imagination",
-    "authors": [
-      "Jonathan E. Zwicker"
-    ],
-    "publishedYear": 2006,
-    "categories": [
-      "Education"
-    ],
-    "pageCount": 296,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=toMPAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=toMPAAAAYAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=83&source=gbs_api"
-  },
-  {
-    "id": "67EPAQAAIAAJ",
-    "title": "Tsunamis",
-    "authors": [
-      "Horace M. Karling"
-    ],
-    "publishedYear": 2005,
-    "categories": [
-      "Nature"
-    ],
-    "pageCount": 218,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=67EPAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=67EPAQAAIAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=84&source=gbs_api"
-  },
-  {
-    "id": "M7FXAAAAYAAJ",
-    "title": "Women and Gaming",
-    "authors": [
-      "James Paul Gee",
-      "Elisabeth R. Hayes"
-    ],
-    "publishedYear": 2010,
-    "categories": [
-      "Computers"
-    ],
-    "pageCount": 224,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=M7FXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=M7FXAAAAYAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=85&source=gbs_api"
-  },
-  {
-    "id": "QTB1AAAAMAAJ",
-    "title": "The Writing on the Cloud",
-    "authors": [
-      "Alison M. Scott",
-      "Christopher D. Geist"
-    ],
-    "publishedYear": 1997,
-    "categories": [
-      "History"
-    ],
-    "pageCount": 264,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=QTB1AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=QTB1AAAAMAAJ&q=subject:science+fiction&dq=subject:science+fiction&hl=&cd=87&source=gbs_api"
-  },
-  {
-    "id": "i9jYAAAAMAAJ",
-    "title": "Gay and Gaia",
-    "authors": [
-      "Daniel Teberg Spencer"
-    ],
-    "publishedYear": 1996,
-    "categories": [
-      "Philosophy"
-    ],
-    "pageCount": 472,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=i9jYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=i9jYAAAAMAAJ&pg=PA26&dq=subject:science+fiction&hl=&cd=88&source=gbs_api"
-  },
-  {
-    "id": "uk4qAQAAIAAJ",
-    "title": "Red Cosmos",
-    "authors": [
-      "James T. Andrews"
-    ],
-    "publishedYear": 2009,
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": 182,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=uk4qAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=uk4qAQAAIAAJ&pg=PA66&dq=subject:science+fiction&hl=&cd=89&source=gbs_api"
-  },
-  {
-    "id": "FZRJAAAAYAAJ",
-    "title": "Appletons' Popular Science Monthly",
-    "authors": [
-      "William Jay Youmans"
-    ],
-    "publishedYear": 1898,
-    "categories": [
-      "Science"
-    ],
-    "pageCount": 898,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=FZRJAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=FZRJAAAAYAAJ&pg=PA356&dq=subject:science+fiction&hl=&cd=90&source=gbs_api"
-  },
-  {
-    "id": "afSBdDkZTgkC",
-    "title": "The Holcroft Covenant",
-    "authors": [
-      "Robert Ludlum"
-    ],
-    "publishedYear": 1978,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 514,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=afSBdDkZTgkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=afSBdDkZTgkC&dq=subject:thriller&hl=&cd=1&source=gbs_api"
-  },
-  {
-    "id": "J7ywAAAAIAAJ",
-    "title": "The Dark Half",
-    "authors": [
-      "Stephen King"
-    ],
-    "publishedYear": 1989,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 454,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=J7ywAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=J7ywAAAAIAAJ&dq=subject:thriller&hl=&cd=2&source=gbs_api"
-  },
-  {
-    "id": "Nq5aAAAAMAAJ",
-    "title": "The Testament",
-    "authors": [
-      "John Grisham"
-    ],
-    "publishedYear": 1999,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 452,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Nq5aAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Nq5aAAAAMAAJ&dq=subject:thriller&hl=&cd=3&source=gbs_api"
-  },
-  {
-    "id": "UGUahZnpa0MC",
-    "title": "The Visitor",
-    "authors": [
-      "Lee Child"
-    ],
-    "publishedYear": 2001,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 516,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=UGUahZnpa0MC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=UGUahZnpa0MC&dq=subject:thriller&hl=&cd=4&source=gbs_api"
-  },
-  {
-    "id": "2TWvWe5qRVUC",
-    "title": "White Fang",
-    "authors": [
-      "Jack London"
-    ],
-    "publishedYear": 2006,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 371,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=2TWvWe5qRVUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=2TWvWe5qRVUC&printsec=frontcover&dq=subject:thriller&hl=&cd=5&source=gbs_api"
-  },
-  {
-    "id": "g40bVuX9wmYC",
-    "title": "The Da Vinci Code",
-    "authors": [
-      "Dan Brown"
-    ],
-    "publishedYear": 2003,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 468,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=g40bVuX9wmYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=g40bVuX9wmYC&dq=subject:thriller&hl=&cd=6&source=gbs_api"
-  },
-  {
-    "id": "L83TtpJ57-wC",
-    "title": "The St. Zita Society",
-    "authors": [
-      "Ruth Rendell"
-    ],
-    "publishedYear": 2012,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 264,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=L83TtpJ57-wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=L83TtpJ57-wC&printsec=frontcover&dq=subject:thriller&hl=&cd=7&source=gbs_api"
-  },
-  {
-    "id": "yoUFRQAACAAJ",
-    "title": "The Shadow of the Wind",
-    "authors": [
-      "Carlos Ruiz Zafón"
-    ],
-    "publishedYear": 2004,
-    "categories": [
-      "Barcelona (Spain)"
-    ],
-    "pageCount": 521,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=yoUFRQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=yoUFRQAACAAJ&dq=subject:thriller&hl=&cd=8&source=gbs_api"
-  },
-  {
-    "id": "MBtctNppOJAC",
-    "title": "Tripwire",
-    "authors": [
-      "Lee Child"
-    ],
-    "publishedYear": 2011,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 548,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=MBtctNppOJAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=MBtctNppOJAC&dq=subject:thriller&hl=&cd=9&source=gbs_api"
-  },
-  {
-    "id": "fw3qDy_TSk4C",
-    "title": "The Jester",
-    "authors": [
-      "James Patterson",
-      "Andrew Gross"
-    ],
-    "publishedYear": 2003,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 412,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=fw3qDy_TSk4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=fw3qDy_TSk4C&dq=subject:thriller&hl=&cd=10&source=gbs_api"
-  },
-  {
-    "id": "6gImDwAAQBAJ",
-    "title": "The Camel Club",
+    "id": "/works/OL21177849W",
+    "title": "Daylight",
     "authors": [
       "David Baldacci"
     ],
-    "publishedYear": 2005,
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/10333194-L.jpg",
+    "coverId": 10333194,
+    "editionCount": 16,
+    "ratingsCount": 3,
+    "averageRating": 4.3333335,
+    "readingLogCount": 56,
     "categories": [
-      "Fiction"
+      "thriller"
     ],
-    "pageCount": 705,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=6gImDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=6gImDwAAQBAJ&dq=subject:thriller&hl=&cd=42&source=gbs_api"
+    "popularityScore": 5
   },
   {
-    "id": "Z0-oxxP9qBQC",
-    "title": "The Traveller",
+    "id": "/works/OL26831331W",
+    "title": "The 6:20 Man",
     "authors": [
-      "John Twelve Hawks"
+      "David Baldacci"
     ],
-    "publishedYear": 2005,
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/13012447-L.jpg",
+    "coverId": 13012447,
+    "editionCount": 14,
+    "ratingsCount": 3,
+    "averageRating": 4.3333335,
+    "readingLogCount": 60,
     "categories": [
-      "Fiction"
+      "thriller"
     ],
-    "pageCount": 468,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Z0-oxxP9qBQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Z0-oxxP9qBQC&dq=subject:thriller&hl=&cd=43&source=gbs_api"
+    "popularityScore": 5
   },
   {
-    "id": "WE0gAQAAIAAJ",
-    "title": "Revenge",
+    "id": "/works/OL36417225W",
+    "title": "The Norton Anthology of Short Fiction--Shorter Eighth Edition",
     "authors": [
-      "Stephen Fry"
-    ],
-    "publishedYear": 2002,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 344,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=WE0gAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=WE0gAQAAIAAJ&dq=subject:thriller&hl=&cd=44&source=gbs_api"
-  },
-  {
-    "id": "0UVGCwAAQBAJ",
-    "title": "Crazy Gran",
-    "authors": [
-      "Gary Botting"
+      "Richard Bausch",
+      "R. V. Cassill",
+      "Margaret Atwood",
+      "Ambrose Bierce",
+      "Jorge Luis Borges",
+      "Антон Павлович Чехов",
+      "Kate Chopin"
     ],
     "publishedYear": 2015,
+    "cover": "https://covers.openlibrary.org/b/id/12680937-L.jpg",
+    "coverId": 12680937,
+    "editionCount": 1,
+    "ratingsCount": 1,
+    "averageRating": 4,
+    "readingLogCount": 80,
     "categories": [
-      "Fiction"
+      "fiction"
     ],
-    "pageCount": 356,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=0UVGCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=0UVGCwAAQBAJ&printsec=frontcover&dq=subject:thriller&hl=&cd=45&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "ZMLkjwEACAAJ",
-    "title": "A Brief History of Seven Killings",
+    "id": "/works/OL19385981W",
+    "title": "Invisible Planets",
     "authors": [
-      "Marlon James"
-    ],
-    "publishedYear": 2015,
-    "categories": [
-      "Assassins"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=ZMLkjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=ZMLkjwEACAAJ&dq=subject:thriller&hl=&cd=46&source=gbs_api"
-  },
-  {
-    "id": "LTUjHQAACAAJ",
-    "title": "The Moscow Club",
-    "authors": [
-      "Joseph Finder"
-    ],
-    "publishedYear": 2005,
-    "categories": [
-      "Coups d'état"
-    ],
-    "pageCount": 540,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=LTUjHQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=LTUjHQAACAAJ&dq=subject:thriller&hl=&cd=47&source=gbs_api"
-  },
-  {
-    "id": "mImgMQEACAAJ",
-    "title": "Hell Island",
-    "authors": [
-      "Matthew Reilly"
-    ],
-    "publishedYear": 2012,
-    "categories": [
-      "Experimental rangelands"
-    ],
-    "pageCount": 108,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=mImgMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=mImgMQEACAAJ&dq=subject:thriller&hl=&cd=48&source=gbs_api"
-  },
-  {
-    "id": "ipBLuwEACAAJ",
-    "title": "Nine Perfect Strangers",
-    "authors": [
-      "Liane Moriarty"
-    ],
-    "publishedYear": 2019,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=ipBLuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=ipBLuwEACAAJ&dq=subject:thriller&hl=&cd=49&source=gbs_api"
-  },
-  {
-    "id": "Fz-rMQEACAAJ",
-    "title": "Area 7",
-    "authors": [
-      "Matthew Reilly"
-    ],
-    "publishedYear": 2012,
-    "categories": [
-      "Adventure stories"
-    ],
-    "pageCount": 550,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Fz-rMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Fz-rMQEACAAJ&dq=subject:thriller&hl=&cd=50&source=gbs_api"
-  },
-  {
-    "id": "_bLFrQEACAAJ",
-    "title": "A Song of Shadows",
-    "authors": [
-      "John Connolly"
-    ],
-    "publishedYear": 2015,
-    "categories": [
-      "Parker, Charlie \"Bird\" (Fictitious character)"
-    ],
-    "pageCount": 441,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=_bLFrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=_bLFrQEACAAJ&dq=subject:thriller&hl=&cd=81&source=gbs_api"
-  },
-  {
-    "id": "XyBLxBf3zc4C",
-    "title": "Life Penalty",
-    "authors": [
-      "Joy Fielding"
-    ],
-    "publishedYear": 1985,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 352,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=XyBLxBf3zc4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=XyBLxBf3zc4C&dq=subject:thriller&hl=&cd=82&source=gbs_api"
-  },
-  {
-    "id": "W1OhAQAACAAJ",
-    "title": "Tokyo",
-    "authors": [
-      "Mo Hayder"
-    ],
-    "publishedYear": 2004,
-    "categories": [
-      "British"
-    ],
-    "pageCount": 362,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=W1OhAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=W1OhAQAACAAJ&dq=subject:thriller&hl=&cd=83&source=gbs_api"
-  },
-  {
-    "id": "-cfAjwEACAAJ",
-    "title": "Beneath the Bleeding",
-    "authors": [
-      "Val McDermid"
+      "Ken Liu"
     ],
     "publishedYear": 2016,
+    "cover": "https://covers.openlibrary.org/b/id/8496280-L.jpg",
+    "coverId": 8496280,
+    "editionCount": 7,
+    "ratingsCount": 4,
+    "averageRating": 4,
+    "readingLogCount": 45,
     "categories": [
-      "Clinical psychologists"
+      "fiction"
     ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=-cfAjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=-cfAjwEACAAJ&dq=subject:thriller&hl=&cd=84&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "Hc3HpT92oXQC",
-    "title": "Harvest",
+    "id": "/works/OL37625451W",
+    "title": "Rejection",
     "authors": [
-      "Tess Gerritsen"
+      "Tony Tulathimutte"
     ],
-    "publishedYear": 2009,
+    "publishedYear": 2024,
+    "cover": "https://covers.openlibrary.org/b/id/15234428-L.jpg",
+    "coverId": 15234428,
+    "editionCount": 9,
+    "ratingsCount": 1,
+    "averageRating": 4,
+    "readingLogCount": 12,
     "categories": [
-      "Fiction"
+      "fiction"
     ],
-    "pageCount": 516,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Hc3HpT92oXQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Hc3HpT92oXQC&dq=subject:thriller&hl=&cd=85&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "BR-9jwEACAAJ",
-    "title": "Found",
+    "id": "/works/OL26602235W",
+    "title": "Belladonna",
     "authors": [
-      "Harlan Coben"
+      "Adalyn Grace"
     ],
-    "publishedYear": 2015,
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/12905843-L.jpg",
+    "coverId": 12905843,
+    "editionCount": 9,
+    "ratingsCount": 8,
+    "averageRating": 3.375,
+    "readingLogCount": 138,
     "categories": [
-      "Audiobooks"
+      "fantasy"
     ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=BR-9jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=BR-9jwEACAAJ&dq=subject:thriller&hl=&cd=86&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "FbPMxwEACAAJ",
-    "title": "Scarecrow",
+    "id": "/works/OL37862524W",
+    "title": "Phantasma",
     "authors": [
-      "Matthew Reilly"
+      "Kaylie Smith"
     ],
-    "publishedYear": 2005,
+    "publishedYear": 2024,
+    "cover": "https://covers.openlibrary.org/b/id/14842920-L.jpg",
+    "coverId": 14842920,
+    "editionCount": 5,
+    "ratingsCount": 7,
+    "averageRating": 3.857143,
+    "readingLogCount": 111,
     "categories": [
-      "Americans"
+      "fantasy"
     ],
-    "pageCount": 464,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=FbPMxwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=FbPMxwEACAAJ&dq=subject:thriller&hl=&cd=87&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "1uC0nhWhrOsC",
-    "title": "Patriot Games",
+    "id": "/works/OL29200370W",
+    "title": "Bend Her",
     "authors": [
-      "Tom Clancy"
+      "Cassie Alexander"
     ],
-    "publishedYear": 1988,
+    "publishedYear": 2023,
+    "cover": "https://covers.openlibrary.org/b/id/13265439-L.jpg",
+    "coverId": 13265439,
+    "editionCount": 7,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 121,
     "categories": [
-      "Fiction"
+      "fantasy"
     ],
-    "pageCount": 10,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=1uC0nhWhrOsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=1uC0nhWhrOsC&dq=subject:thriller&hl=&cd=88&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "9s3aCwAAQBAJ",
-    "title": "Medusa",
+    "id": "/works/OL33364737W",
+    "title": "A Curse for True Love",
     "authors": [
-      "Clive Cussler",
-      "Paul Kemprecos"
+      "Stephanie Garber"
     ],
-    "publishedYear": 2010,
+    "publishedYear": 2023,
+    "cover": "https://covers.openlibrary.org/b/id/13124827-L.jpg",
+    "coverId": 13124827,
+    "editionCount": 9,
+    "ratingsCount": 9,
+    "averageRating": 3.8888888,
+    "readingLogCount": 197,
     "categories": [
-      "Fiction"
+      "fantasy"
     ],
-    "pageCount": 530,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=9s3aCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=9s3aCwAAQBAJ&dq=subject:thriller&hl=&cd=89&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "wAshCgAAQBAJ",
-    "title": "The Silence that Speaks",
+    "id": "/works/OL24361285W",
+    "title": "Kingdom of Fantasy #14",
     "authors": [
-      "Andrea Kane"
+      "Elisabetta Dami"
     ],
-    "publishedYear": 2015,
+    "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/10888634-L.jpg",
+    "coverId": 10888634,
+    "editionCount": 5,
+    "ratingsCount": 7,
+    "averageRating": 3.857143,
+    "readingLogCount": 152,
     "categories": [
-      "Fiction"
+      "fantasy"
     ],
-    "pageCount": 331,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=wAshCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=wAshCgAAQBAJ&printsec=frontcover&dq=subject:thriller&hl=&cd=90&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "NGoFudTo7YsC",
-    "title": "Cards on the Table",
+    "id": "/works/OL25219259W",
+    "title": "The Girl Who Fell Beneath the Sea",
     "authors": [
-      "Agatha Christie"
+      "Axie Oh"
     ],
-    "publishedYear": 1993,
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/11980866-L.jpg",
+    "coverId": 11980866,
+    "editionCount": 8,
+    "ratingsCount": 7,
+    "averageRating": 3.7142856,
+    "readingLogCount": 190,
     "categories": [
-      "Fiction"
+      "fantasy"
     ],
-    "pageCount": 228,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=NGoFudTo7YsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=NGoFudTo7YsC&dq=subject:mystery&hl=&cd=2&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "QgJKelQyJAUC",
-    "title": "Dead Souls",
+    "id": "/works/OL37927709W",
+    "title": "Want",
     "authors": [
-      "Ian Rankin"
+      "Gillian Anderson"
     ],
-    "publishedYear": 2000,
+    "publishedYear": 2024,
+    "cover": "https://covers.openlibrary.org/b/id/15154199-L.jpg",
+    "coverId": 15154199,
+    "editionCount": 4,
+    "ratingsCount": 1,
+    "averageRating": 4,
+    "readingLogCount": 28,
     "categories": [
-      "Fiction"
+      "fantasy"
     ],
-    "pageCount": 452,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=QgJKelQyJAUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=QgJKelQyJAUC&dq=subject:mystery&hl=&cd=4&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "BKjCQgAACAAJ",
-    "title": "The ABC Murders",
+    "id": "/works/OL38725124W",
+    "title": "Chokehold",
     "authors": [
-      "Agatha Christie"
+      "Leigh Rivers",
+      "Harleigh Beck"
     ],
-    "publishedYear": 1993,
+    "publishedYear": 2024,
+    "cover": "https://covers.openlibrary.org/b/id/14647329-L.jpg",
+    "coverId": 14647329,
+    "editionCount": 1,
+    "ratingsCount": 7,
+    "averageRating": 3.7142856,
+    "readingLogCount": 445,
     "categories": [
-      "Detective and mystery stories, English"
+      "romance"
     ],
-    "pageCount": 224,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=BKjCQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=BKjCQgAACAAJ&dq=subject:mystery&hl=&cd=5&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "SCHqme8AluYC",
-    "title": "The Invisible Man",
+    "id": "/works/OL35744585W",
+    "title": "Den of Vipers",
     "authors": [
-      "Len Jenkin",
-      "Herbert George Wells"
+      "K. A. Knight"
     ],
-    "publishedYear": 2000,
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/15115000-L.jpg",
+    "coverId": 15115000,
+    "editionCount": 2,
+    "ratingsCount": 11,
+    "averageRating": 3.5454545,
+    "readingLogCount": 315,
     "categories": [
-      "Drama"
+      "romance"
     ],
-    "pageCount": 78,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=SCHqme8AluYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=SCHqme8AluYC&printsec=frontcover&dq=subject:mystery&hl=&cd=6&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "e1BlAAAAMAAJ",
-    "title": "The Shape of Water",
+    "id": "/works/OL21234092W",
+    "title": "Cruel King",
     "authors": [
-      "Andrea Camilleri"
+      "Rina Kent"
     ],
-    "publishedYear": 2002,
+    "publishedYear": 2019,
+    "cover": "https://covers.openlibrary.org/b/id/10355107-L.jpg",
+    "coverId": 10355107,
+    "editionCount": 6,
+    "ratingsCount": 2,
+    "averageRating": 3,
+    "readingLogCount": 339,
     "categories": [
-      "Fiction"
+      "romance"
     ],
-    "pageCount": 240,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=e1BlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=e1BlAAAAMAAJ&dq=subject:mystery&hl=&cd=7&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "2zs_gq_DPC4C",
-    "title": "The Golden Ball and Other Stories",
+    "id": "/works/OL21234089W",
+    "title": "Deviant King",
     "authors": [
-      "Agatha Christie"
+      "Rina Kent"
     ],
-    "publishedYear": 1984,
+    "publishedYear": 2019,
+    "cover": "https://covers.openlibrary.org/b/id/10355106-L.jpg",
+    "coverId": 10355106,
+    "editionCount": 6,
+    "ratingsCount": 5,
+    "averageRating": 3,
+    "readingLogCount": 336,
     "categories": [
-      "Fiction"
+      "romance"
     ],
-    "pageCount": 244,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=2zs_gq_DPC4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=2zs_gq_DPC4C&dq=subject:mystery&hl=&cd=8&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "k5JvQgAACAAJ",
-    "title": "The Dogs of Riga",
+    "id": "/works/OL34493682W",
+    "title": "My Dark Romeo",
     "authors": [
-      "Henning Mankell"
+      "Parker S. Huntington",
+      "L.J. Shen"
     ],
-    "publishedYear": 2001,
+    "publishedYear": 2023,
+    "cover": "https://covers.openlibrary.org/b/id/13477133-L.jpg",
+    "coverId": 13477133,
+    "editionCount": 3,
+    "ratingsCount": 8,
+    "averageRating": 3.625,
+    "readingLogCount": 381,
     "categories": [
-      "Detective and mystery stories"
+      "romance"
     ],
-    "pageCount": 326,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=k5JvQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=k5JvQgAACAAJ&dq=subject:mystery&hl=&cd=9&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "c28NO1HynT0C",
-    "title": "Missing Joseph",
+    "id": "/works/OL22013604W",
+    "title": "The Perfect Son",
     "authors": [
-      "Elizabeth George"
+      "Freida McFadden"
     ],
-    "publishedYear": 1993,
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/14652484-L.jpg",
+    "coverId": 14652484,
+    "editionCount": 3,
+    "ratingsCount": 1,
+    "averageRating": 4,
+    "readingLogCount": 97,
     "categories": [
-      "Fiction"
+      "thriller"
     ],
-    "pageCount": 612,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=c28NO1HynT0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=c28NO1HynT0C&dq=subject:mystery&hl=&cd=10&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "IYZRU3i0m-QC",
-    "title": "The Rule of Four",
+    "id": "/works/OL34612213W",
+    "title": "One By One",
     "authors": [
-      "Ian Caldwell",
-      "Dustin Thomason"
+      "Freida McFadden"
     ],
-    "publishedYear": 2005,
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/14603852-L.jpg",
+    "coverId": 14603852,
+    "editionCount": 6,
+    "ratingsCount": 4,
+    "averageRating": 3.75,
+    "readingLogCount": 152,
     "categories": [
-      "Fiction"
+      "thriller"
     ],
-    "pageCount": 626,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=IYZRU3i0m-QC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=IYZRU3i0m-QC&dq=subject:mystery&hl=&cd=41&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "PDtbAAAACAAJ",
-    "title": "Hercule Poirot's Christmas",
+    "id": "/works/OL20043519W",
+    "title": "Behind her eyes",
     "authors": [
-      "Agatha Christie"
+      "Sarah Pinborough"
     ],
-    "publishedYear": 1987,
+    "publishedYear": 2017,
+    "cover": "https://covers.openlibrary.org/b/id/9254137-L.jpg",
+    "coverId": 9254137,
+    "editionCount": 12,
+    "ratingsCount": 12,
+    "averageRating": 3.5833333,
+    "readingLogCount": 222,
     "categories": [
-      "Fiction"
+      "thriller"
     ],
-    "pageCount": 384,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=PDtbAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=PDtbAAAACAAJ&dq=subject:mystery&hl=&cd=42&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "f9_4Kq8pPQwC",
-    "title": "The Harlequin Tea Set and Other Stories",
-    "authors": [
-      "Agatha Christie"
-    ],
-    "publishedYear": 1998,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 228,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=f9_4Kq8pPQwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=f9_4Kq8pPQwC&dq=subject:mystery&hl=&cd=43&source=gbs_api"
-  },
-  {
-    "id": "sJ93PwAACAAJ",
-    "title": "From Doon with Death",
-    "authors": [
-      "Ruth Rendell"
-    ],
-    "publishedYear": 2005,
-    "categories": [
-      "Detective and mystery stories"
-    ],
-    "pageCount": 184,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=sJ93PwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=sJ93PwAACAAJ&dq=subject:mystery&hl=&cd=44&source=gbs_api"
-  },
-  {
-    "id": "ix-8QwAACAAJ",
-    "title": "The Girl with the Dragon Tattoo",
-    "authors": [
-      "Stieg Larsson",
-      "Reg Keeland (translator.)"
-    ],
-    "publishedYear": 2008,
-    "categories": [
-      "Computer hackers"
-    ],
-    "pageCount": 532,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=ix-8QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=ix-8QwAACAAJ&dq=subject:mystery&hl=&cd=45&source=gbs_api"
-  },
-  {
-    "id": "_k5PUIaonrQC",
-    "title": "Paper Money",
-    "authors": [
-      "Ken Follett"
-    ],
-    "publishedYear": 1987,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 260,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=_k5PUIaonrQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=_k5PUIaonrQC&dq=subject:mystery&hl=&cd=46&source=gbs_api"
-  },
-  {
-    "id": "jTtSAQAAIAAJ",
-    "title": "Discerning the Mystery",
-    "authors": [
-      "Andrew Louth"
-    ],
-    "publishedYear": 1983,
-    "categories": [
-      "Language Arts & Disciplines"
-    ],
-    "pageCount": 176,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=jTtSAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=jTtSAQAAIAAJ&dq=subject:mystery&hl=&cd=47&source=gbs_api"
-  },
-  {
-    "id": "cFmgPwAACAAJ",
-    "title": "And Then There Were None",
-    "authors": [
-      "Agatha Christie"
-    ],
-    "publishedYear": 2000,
-    "categories": [
-      "Detective and mystery stories"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=cFmgPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=cFmgPwAACAAJ&dq=subject:mystery&hl=&cd=48&source=gbs_api"
-  },
-  {
-    "id": "ESi5-3eabwMC",
-    "title": "Faithless",
+    "id": "/works/OL34030271W",
+    "title": "After That Night",
     "authors": [
       "Karin Slaughter"
     ],
-    "publishedYear": 2006,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 578,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=ESi5-3eabwMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=ESi5-3eabwMC&dq=subject:mystery&hl=&cd=49&source=gbs_api"
-  },
-  {
-    "id": "a8CJNAEACAAJ",
-    "title": "Moby Dick. Con CD",
-    "authors": [
-      "Herman Melville"
-    ],
-    "publishedYear": 2007,
-    "categories": [
-      "Education"
-    ],
-    "pageCount": 128,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=a8CJNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=a8CJNAEACAAJ&dq=subject:mystery&hl=&cd=81&source=gbs_api"
-  },
-  {
-    "id": "x9RHJ8_BfpwC",
-    "title": "A Murder is Announced",
-    "authors": [
-      "Agatha Christie"
-    ],
-    "publishedYear": 1986,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 244,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=x9RHJ8_BfpwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=x9RHJ8_BfpwC&dq=subject:mystery&hl=&cd=82&source=gbs_api"
-  },
-  {
-    "id": "mh4X2GrTxzAC",
-    "title": "The Teen Model Mystery",
-    "authors": [
-      "Carolyn Keene"
-    ],
-    "publishedYear": 1995,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 164,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=mh4X2GrTxzAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=mh4X2GrTxzAC&printsec=frontcover&dq=subject:mystery&hl=&cd=83&source=gbs_api"
-  },
-  {
-    "id": "OHqsQwFrKO0C",
-    "title": "Loves Music, Loves to Dance",
-    "authors": [
-      "Mary Higgins Clark"
-    ],
-    "publishedYear": 1992,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 339,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=OHqsQwFrKO0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=OHqsQwFrKO0C&printsec=frontcover&dq=subject:mystery&hl=&cd=84&source=gbs_api"
-  },
-  {
-    "id": "DEZ-wQEACAAJ",
-    "title": "Death Comes as the End",
-    "authors": [
-      "Agatha Christie"
-    ],
-    "publishedYear": 1993,
-    "categories": [
-      "Detective and mystery stories"
-    ],
-    "pageCount": 219,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=DEZ-wQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=DEZ-wQEACAAJ&dq=subject:mystery&hl=&cd=85&source=gbs_api"
-  },
-  {
-    "id": "T91NBAAAQBAJ",
-    "title": "The Deadly Dance",
-    "authors": [
-      "M. C. Beaton"
-    ],
-    "publishedYear": 2004,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 301,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=T91NBAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=T91NBAAAQBAJ&dq=subject:mystery&hl=&cd=87&source=gbs_api"
-  },
-  {
-    "id": "xrLxKgpvtbwC",
-    "title": "Andes Rising",
-    "authors": [
-      "James Munves"
-    ],
-    "publishedYear": 1999,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 210,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=xrLxKgpvtbwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=xrLxKgpvtbwC&printsec=frontcover&dq=subject:mystery&hl=&cd=88&source=gbs_api"
-  },
-  {
-    "id": "TtY_y0Fot-QC",
-    "title": "Agatha Raisin and the Fairies of Fryfam",
-    "authors": [
-      "M. C. Beaton"
-    ],
-    "publishedYear": 2001,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 230,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=TtY_y0Fot-QC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=TtY_y0Fot-QC&dq=subject:mystery&hl=&cd=89&source=gbs_api"
-  },
-  {
-    "id": "953GnAEACAAJ",
-    "title": "Waiting for Wednesday",
-    "authors": [
-      "Nicci French"
-    ],
-    "publishedYear": 2014,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 372,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=953GnAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=953GnAEACAAJ&dq=subject:mystery&hl=&cd=90&source=gbs_api"
-  },
-  {
-    "id": "Irw7sl0ohTwC",
-    "title": "An Echo in the Darkness",
-    "authors": [
-      "Francine Rivers"
-    ],
-    "publishedYear": 2002,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 482,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Irw7sl0ohTwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Irw7sl0ohTwC&pg=PR11&dq=subject:historical+fiction&hl=&cd=1&source=gbs_api"
-  },
-  {
-    "id": "S2_dEAAAQBAJ",
-    "title": "Just Once",
-    "authors": [
-      "Karen Kingsbury"
-    ],
     "publishedYear": 2023,
+    "cover": "https://covers.openlibrary.org/b/id/13607839-L.jpg",
+    "coverId": 13607839,
+    "editionCount": 7,
+    "ratingsCount": 2,
+    "averageRating": 4,
+    "readingLogCount": 24,
     "categories": [
-      "Fiction"
+      "thriller"
     ],
-    "pageCount": 336,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=S2_dEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=S2_dEAAAQBAJ&pg=PP6&dq=subject:historical+fiction&hl=&cd=2&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "u9O5BAAAQBAJ",
-    "title": "Ruth's Journey",
+    "id": "/works/OL26353464W",
+    "title": "Escape",
     "authors": [
-      "Donald McCaig"
+      "James Patterson",
+      "David Ellis"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/12801126-L.jpg",
+    "coverId": 12801126,
+    "editionCount": 10,
+    "ratingsCount": 1,
+    "averageRating": 4,
+    "readingLogCount": 16,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 4
+  },
+  {
+    "id": "/works/OL27021630W",
+    "title": "Cryptos",
+    "authors": [
+      "Ursula Poznanski"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/12524366-L.jpg",
+    "coverId": 12524366,
+    "editionCount": 4,
+    "ratingsCount": 2,
+    "averageRating": 4,
+    "readingLogCount": 16,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 4
+  },
+  {
+    "id": "/works/OL20927842W",
+    "title": "Science Fictions",
+    "authors": [
+      "Stuart Ritchie"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/10300324-L.jpg",
+    "coverId": 10300324,
+    "editionCount": 6,
+    "ratingsCount": 1,
+    "averageRating": 4,
+    "readingLogCount": 21,
+    "categories": [
+      "science fiction"
+    ],
+    "popularityScore": 4
+  },
+  {
+    "id": "/works/OL27174498W",
+    "title": "Braiding Sweetgrass for Young Adults",
+    "authors": [
+      "Robin Wall Kimmerer",
+      "Nicole Neidhardt"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/13012189-L.jpg",
+    "coverId": 13012189,
+    "editionCount": 4,
+    "ratingsCount": 1,
+    "averageRating": 4,
+    "readingLogCount": 10,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 4
+  },
+  {
+    "id": "/works/OL19979107W",
+    "title": "The troop",
+    "authors": [
+      "Nick Cutter"
     ],
     "publishedYear": 2014,
+    "cover": "https://covers.openlibrary.org/b/id/10327329-L.jpg",
+    "coverId": 10327329,
+    "editionCount": 8,
+    "ratingsCount": 14,
+    "averageRating": 3.7857144,
+    "readingLogCount": 326,
     "categories": [
-      "Fiction"
+      "horror"
     ],
-    "pageCount": 384,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=u9O5BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=u9O5BAAAQBAJ&pg=PP4&dq=subject:historical+fiction&hl=&cd=3&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "8FtWAAAAMAAJ",
-    "title": "Psychopathology",
+    "id": "/works/OL37615779W",
+    "title": "Horror Movie",
     "authors": [
-      "John Ernest Nicole"
+      "Paul Tremblay"
     ],
-    "publishedYear": 1934,
+    "publishedYear": 2024,
+    "cover": "https://covers.openlibrary.org/b/id/14642169-L.jpg",
+    "coverId": 14642169,
+    "editionCount": 4,
+    "ratingsCount": 6,
+    "averageRating": 4,
+    "readingLogCount": 12,
     "categories": [
-      "Historical"
+      "horror"
     ],
-    "pageCount": 308,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=8FtWAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=8FtWAAAAMAAJ&q=subject:historical+fiction&dq=subject:historical+fiction&hl=&cd=4&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "LKCdiQb_SxIC",
-    "title": "Allegiance",
+    "id": "/works/OL20025232W",
+    "title": "The lonely city",
     "authors": [
-      "Cayla Kluver"
-    ],
-    "publishedYear": 2012,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 501,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=LKCdiQb_SxIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=LKCdiQb_SxIC&pg=PA1&dq=subject:historical+fiction&hl=&cd=5&source=gbs_api"
-  },
-  {
-    "id": "Xrz6AorNQMMC",
-    "title": "Something Red",
-    "authors": [
-      "Douglas Nicholas"
-    ],
-    "publishedYear": 2012,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 325,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Xrz6AorNQMMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Xrz6AorNQMMC&pg=PP8&dq=subject:historical+fiction&hl=&cd=6&source=gbs_api"
-  },
-  {
-    "id": "I77yGAAACAAJ",
-    "title": "The Blood of Flowers",
-    "authors": [
-      "Anita Amirrezvani"
-    ],
-    "publishedYear": 2007,
-    "categories": [
-      "American fiction"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=I77yGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=I77yGAAACAAJ&dq=subject:historical+fiction&hl=&cd=7&source=gbs_api"
-  },
-  {
-    "id": "Zj0eAQAAIAAJ",
-    "title": "Ulysses",
-    "authors": [
-      "James Joyce"
-    ],
-    "publishedYear": 1992,
-    "categories": [
-      "Comics & Graphic Novels"
-    ],
-    "pageCount": 1120,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Zj0eAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Zj0eAQAAIAAJ&q=subject:historical+fiction&dq=subject:historical+fiction&hl=&cd=8&source=gbs_api"
-  },
-  {
-    "id": "p09bAAAAMAAJ",
-    "title": "The Dark Room",
-    "authors": [
-      "Rachel Seiffert"
-    ],
-    "publishedYear": 2001,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 414,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=p09bAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=p09bAAAAMAAJ&q=subject:historical+fiction&dq=subject:historical+fiction&hl=&cd=9&source=gbs_api"
-  },
-  {
-    "id": "sfMaAAAAYAAJ",
-    "title": "Sex and Sex Worship (phallic Worship)",
-    "authors": [
-      "Otto Augustus Wall"
-    ],
-    "publishedYear": 1920,
-    "categories": [
-      "Historical"
-    ],
-    "pageCount": 632,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=sfMaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=sfMaAAAAYAAJ&q=subject:historical+fiction&dq=subject:historical+fiction&hl=&cd=10&source=gbs_api"
-  },
-  {
-    "id": "3zv5rQEACAAJ",
-    "title": "The Nightingale",
-    "authors": [
-      "Kristin Hannah"
-    ],
-    "publishedYear": 2015,
-    "categories": [
-      "Anti-Nazi movement"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=3zv5rQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=3zv5rQEACAAJ&dq=subject:historical+fiction&hl=&cd=41&source=gbs_api"
-  },
-  {
-    "id": "RSKIzgEACAAJ",
-    "title": "The Rose Rent",
-    "authors": [
-      "Ellis Peters"
-    ],
-    "publishedYear": 2021,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=RSKIzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=RSKIzgEACAAJ&dq=subject:historical+fiction&hl=&cd=42&source=gbs_api"
-  },
-  {
-    "id": "SB9utQAACAAJ",
-    "title": "Aloha Love",
-    "authors": [
-      "Yvonne Lehman"
-    ],
-    "publishedYear": 2012,
-    "categories": [
-      "Hawai"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=SB9utQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=SB9utQAACAAJ&dq=subject:historical+fiction&hl=&cd=43&source=gbs_api"
-  },
-  {
-    "id": "fNbYvqPdoQ4C",
-    "title": "The Living is Easy",
-    "authors": [
-      "Dorothy West"
-    ],
-    "publishedYear": 1982,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 380,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=fNbYvqPdoQ4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=fNbYvqPdoQ4C&printsec=frontcover&dq=subject:historical+fiction&hl=&cd=47&source=gbs_api"
-  },
-  {
-    "id": "D30QmAEACAAJ",
-    "title": "Odysseus",
-    "authors": [
-      "Valerio Massimo Manfredi"
-    ],
-    "publishedYear": 2013,
-    "categories": [
-      "Adventure stories"
-    ],
-    "pageCount": 372,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=D30QmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=D30QmAEACAAJ&dq=subject:historical+fiction&hl=&cd=81&source=gbs_api"
-  },
-  {
-    "id": "azarjwEACAAJ",
-    "title": "The Governor's House",
-    "authors": [
-      "J. H. Fletcher"
+      "Olivia Laing",
+      "Olivia Laing"
     ],
     "publishedYear": 2016,
+    "cover": "https://covers.openlibrary.org/b/id/12672997-L.jpg",
+    "coverId": 12672997,
+    "editionCount": 8,
+    "ratingsCount": 6,
+    "averageRating": 4,
+    "readingLogCount": 99,
     "categories": [
-      "Australian fiction"
+      "adventure"
     ],
-    "pageCount": 481,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=azarjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=azarjwEACAAJ&dq=subject:historical+fiction&hl=&cd=82&source=gbs_api"
+    "popularityScore": 4
   },
   {
-    "id": "Sfv4zgEACAAJ",
-    "title": "An Offer from a Gentleman LP",
+    "id": "/works/OL29773770W",
+    "title": "We're All Puppets 2020",
     "authors": [
-      "Julia Quinn"
-    ],
-    "publishedYear": 2022,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 512,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Sfv4zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Sfv4zgEACAAJ&dq=subject:historical+fiction&hl=&cd=83&source=gbs_api"
-  },
-  {
-    "id": "k684HAAACAAJ",
-    "title": "Mr. Timothy",
-    "authors": [
-      "Louis Bayard"
-    ],
-    "publishedYear": 2005,
-    "categories": [
-      "Detective and mystery stories"
-    ],
-    "pageCount": 384,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=k684HAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=k684HAAACAAJ&dq=subject:historical+fiction&hl=&cd=84&source=gbs_api"
-  },
-  {
-    "id": "PBftzgEACAAJ",
-    "title": "Lady Sarah's Redemption",
-    "authors": [
-      "Beverley Eikli"
-    ],
-    "publishedYear": 2014,
-    "categories": [
-      "False personation"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=PBftzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=PBftzgEACAAJ&dq=subject:historical+fiction&hl=&cd=86&source=gbs_api"
-  },
-  {
-    "id": "AQV-zwEACAAJ",
-    "title": "The Confessions of Young Nero",
-    "authors": [
-      "Margaret George"
-    ],
-    "publishedYear": 2017,
-    "categories": [
-      "Emperors"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=AQV-zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=AQV-zwEACAAJ&dq=subject:historical+fiction&hl=&cd=87&source=gbs_api"
-  },
-  {
-    "id": "bOAREQAAQBAJ",
-    "title": "Amaranthine Chevrolet",
-    "authors": [
-      "Dennis E. Bolen"
-    ],
-    "publishedYear": 2025,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=bOAREQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=bOAREQAAQBAJ&dq=subject:historical+fiction&hl=&cd=89&source=gbs_api"
-  },
-  {
-    "id": "4_2OPwAACAAJ",
-    "title": "Crossings",
-    "authors": [
-      "Danielle Steel"
-    ],
-    "publishedYear": 2009,
-    "categories": [
-      "Man-woman relationships"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=4_2OPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=4_2OPwAACAAJ&dq=subject:historical+fiction&hl=&cd=90&source=gbs_api"
-  },
-  {
-    "id": "w1wpDAAAQBAJ",
-    "title": "A Night to Remember",
-    "authors": [
-      "Walter Lord"
-    ],
-    "publishedYear": 2005,
-    "categories": [
-      "History"
-    ],
-    "pageCount": 209,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=w1wpDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=w1wpDAAAQBAJ&dq=subject:nonfiction&hl=&cd=1&source=gbs_api"
-  },
-  {
-    "id": "VLvMDwAAQBAJ",
-    "title": "Mind Over Mood",
-    "authors": [
-      "Dennis Greenberger",
-      "Christine A. Padesky"
-    ],
-    "publishedYear": 2015,
-    "categories": [
-      "Medical"
-    ],
-    "pageCount": 367,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=VLvMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=VLvMDwAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=2&source=gbs_api"
-  },
-  {
-    "id": "TIucEAAAQBAJ",
-    "title": "Lonely Planet Vietnam",
-    "authors": [
-      "Iain Stewart"
-    ],
-    "publishedYear": 2022,
-    "categories": [
-      "Travel"
-    ],
-    "pageCount": 872,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=TIucEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=TIucEAAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=3&source=gbs_api"
-  },
-  {
-    "id": "iM5-tAEACAAJ",
-    "title": "Band of Brothers",
-    "authors": [
-      "Stephen E. Ambrose"
-    ],
-    "publishedYear": 1992,
-    "categories": [
-      "Ardennes, Battle of the, 1944-1945"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=iM5-tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=iM5-tAEACAAJ&dq=subject:nonfiction&hl=&cd=4&source=gbs_api"
-  },
-  {
-    "id": "MUucJV0dRaIC",
-    "title": "Teach Your Child to Read in 100 Easy Lessons",
-    "authors": [
-      "Phyllis Haddox",
-      "Siegfried Engelmann",
-      "Elaine Bruner"
-    ],
-    "publishedYear": 1986,
-    "categories": [
-      "Education"
-    ],
-    "pageCount": 416,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=MUucJV0dRaIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=MUucJV0dRaIC&printsec=frontcover&dq=subject:nonfiction&hl=&cd=5&source=gbs_api"
-  },
-  {
-    "id": "Xb9wDwAAQBAJ",
-    "title": "AI Superpowers",
-    "authors": [
-      "Kai-Fu Lee"
-    ],
-    "publishedYear": 2018,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 275,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Xb9wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Xb9wDwAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=6&source=gbs_api"
-  },
-  {
-    "id": "1-joVyMeol4C",
-    "title": "Alexander",
-    "authors": [
-      "Peter Tsouras"
-    ],
-    "publishedYear": 2004,
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": 153,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=1-joVyMeol4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=1-joVyMeol4C&printsec=frontcover&dq=subject:nonfiction&hl=&cd=7&source=gbs_api"
-  },
-  {
-    "id": "uzdtDwAAQBAJ",
-    "title": "The Oxford Illustrated History of the Holy Land",
-    "authors": [
-      "Robert G. Hoyland",
-      "Hugh Godfrey Maturin Williamson"
-    ],
-    "publishedYear": 2018,
-    "categories": [
-      "History"
-    ],
-    "pageCount": 413,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=uzdtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=uzdtDwAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=8&source=gbs_api"
-  },
-  {
-    "id": "lYwJqWYT3t0C",
-    "title": "The Illustrated Art of War",
-    "authors": [
-      "Sunzi"
-    ],
-    "publishedYear": 2005,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 286,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=lYwJqWYT3t0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=lYwJqWYT3t0C&printsec=frontcover&dq=subject:nonfiction&hl=&cd=9&source=gbs_api"
-  },
-  {
-    "id": "Val2DwAAQBAJ",
-    "title": "Tao Te Ching (Daodejing)",
-    "authors": [
-      "Laozi"
-    ],
-    "publishedYear": 2018,
-    "categories": [
-      "Body, Mind & Spirit"
-    ],
-    "pageCount": 370,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Val2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Val2DwAAQBAJ&dq=subject:nonfiction&hl=&cd=10&source=gbs_api"
-  },
-  {
-    "id": "ZmZkBm-AqwIC",
-    "title": "The Faithful Executioner",
-    "authors": [
-      "Joel F. Harrington"
-    ],
-    "publishedYear": 2013,
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": 317,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=ZmZkBm-AqwIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=ZmZkBm-AqwIC&dq=subject:nonfiction&hl=&cd=42&source=gbs_api"
-  },
-  {
-    "id": "RrUNAQAAIAAJ",
-    "title": "The Basic Writings of Sigmund Freud",
-    "authors": [
-      "Sigmund Freud"
-    ],
-    "publishedYear": 1995,
-    "categories": [
-      "Philosophy"
-    ],
-    "pageCount": 1016,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=RrUNAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=RrUNAQAAIAAJ&dq=subject:nonfiction&hl=&cd=43&source=gbs_api"
-  },
-  {
-    "id": "EIg2tAEACAAJ",
-    "title": "The Dark Net",
-    "authors": [
-      "Jamie Bartlett"
-    ],
-    "publishedYear": 2015,
-    "categories": [
-      "Internet"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=EIg2tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=EIg2tAEACAAJ&dq=subject:nonfiction&hl=&cd=44&source=gbs_api"
-  },
-  {
-    "id": "rtuEDwAAQBAJ",
-    "title": "The Uninhabitable Earth",
-    "authors": [
-      "David Wallace-Wells"
+      "Non Fiction"
     ],
     "publishedYear": 2019,
+    "cover": "https://covers.openlibrary.org/b/id/13559199-L.jpg",
+    "coverId": 13559199,
+    "editionCount": 1,
+    "ratingsCount": 1,
+    "averageRating": 3,
+    "readingLogCount": 25,
     "categories": [
-      "Nature"
+      "fiction"
     ],
-    "pageCount": 322,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=rtuEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=rtuEDwAAQBAJ&dq=subject:nonfiction&hl=&cd=45&source=gbs_api"
+    "popularityScore": 2
   },
   {
-    "id": "kw52tAEACAAJ",
-    "title": "Lonely Planet Epic Hikes of the World 1",
+    "id": "/works/OL20878208W",
+    "title": "Detransition, Baby",
     "authors": [
-      "Lonely Planet"
+      "Torrey Peters"
     ],
-    "publishedYear": 2018,
+    "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/10201288-L.jpg",
+    "coverId": 10201288,
+    "editionCount": 7,
+    "ratingsCount": 8,
+    "averageRating": 3.875,
+    "readingLogCount": 74,
     "categories": [
-      "Sports & Recreation"
+      "fiction"
     ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=kw52tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=kw52tAEACAAJ&dq=subject:nonfiction&hl=&cd=46&source=gbs_api"
+    "popularityScore": 2
   },
   {
-    "id": "rrVTDwAAQBAJ",
-    "title": "Conservatism",
+    "id": "/works/OL19657398W",
+    "title": "The Big Book of Science Fiction",
     "authors": [
-      "Roger Scruton"
+      "Ann VanderMeer",
+      "Jeff VanderMeer"
     ],
-    "publishedYear": 2018,
+    "publishedYear": 2016,
+    "cover": "https://covers.openlibrary.org/b/id/8570950-L.jpg",
+    "coverId": 8570950,
+    "editionCount": 2,
+    "ratingsCount": 1,
+    "averageRating": 3,
+    "readingLogCount": 51,
     "categories": [
-      "Philosophy"
+      "fiction"
     ],
-    "pageCount": 175,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=rrVTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=rrVTDwAAQBAJ&dq=subject:nonfiction&hl=&cd=47&source=gbs_api"
+    "popularityScore": 2
   },
   {
-    "id": "z68yEAAAQBAJ",
-    "title": "In the Closet of The Vatican",
+    "id": "/works/OL21891230W",
+    "title": "Neil Gaiman Reader",
     "authors": [
-      "Frédéric Martel"
+      "Neil Gaiman"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/13625274-L.jpg",
+    "coverId": 13625274,
+    "editionCount": 6,
+    "ratingsCount": 1,
+    "averageRating": 3,
+    "readingLogCount": 24,
+    "categories": [
+      "fiction"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL27292259W",
+    "title": "Short Fiction",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/12621827-L.jpg",
+    "coverId": 12621827,
+    "editionCount": 1,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 29,
+    "categories": [
+      "fiction"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL25903620W",
+    "title": "Gild",
+    "authors": [
+      "Raven Kennedy"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/13290449-L.jpg",
+    "coverId": 13290449,
+    "editionCount": 4,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 67,
+    "categories": [
+      "fantasy"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL34958538W",
+    "title": "Tethered",
+    "authors": [
+      "Elayna R. Gallea"
+    ],
+    "publishedYear": 2023,
+    "cover": "https://covers.openlibrary.org/b/id/13847066-L.jpg",
+    "coverId": 13847066,
+    "editionCount": 2,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 51,
+    "categories": [
+      "fantasy"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL21337705W",
+    "title": "Die, Vol. 1",
+    "authors": [
+      "Kieron Gillen",
+      "Stephanie Hans"
     ],
     "publishedYear": 2019,
+    "cover": "https://covers.openlibrary.org/b/id/11508750-L.jpg",
+    "coverId": 11508750,
+    "editionCount": 3,
+    "ratingsCount": 4,
+    "averageRating": 3.25,
+    "readingLogCount": 10,
     "categories": [
-      "Literary Collections"
+      "fantasy"
     ],
-    "pageCount": 577,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=z68yEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=z68yEAAAQBAJ&dq=subject:nonfiction&hl=&cd=48&source=gbs_api"
+    "popularityScore": 2
   },
   {
-    "id": "6HdQDwAAQBAJ",
-    "title": "At My Table",
+    "id": "/works/OL17366804W",
+    "title": "Modern Romance",
     "authors": [
-      "Nigella Lawson"
-    ],
-    "publishedYear": 2018,
-    "categories": [
-      "Cooking"
-    ],
-    "pageCount": 289,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=6HdQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=6HdQDwAAQBAJ&dq=subject:nonfiction&hl=&cd=49&source=gbs_api"
-  },
-  {
-    "id": "t90nDwAAQBAJ",
-    "title": "What to Say When You Talk to Your Self",
-    "authors": [
-      "Shad Helmstetter"
-    ],
-    "publishedYear": 2017,
-    "categories": [
-      "Self-Help"
-    ],
-    "pageCount": 224,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=t90nDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=t90nDwAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=50&source=gbs_api"
-  },
-  {
-    "id": "O8NODwAAQBAJ",
-    "title": "How to be Well",
-    "authors": [
-      "Frank Lipman"
-    ],
-    "publishedYear": 2018,
-    "categories": [
-      "Health & Fitness"
-    ],
-    "pageCount": 259,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=O8NODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=O8NODwAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=81&source=gbs_api"
-  },
-  {
-    "id": "lGWlswEACAAJ",
-    "title": "Modern Man in Search of a Soul",
-    "authors": [
-      "C. G. Jung"
-    ],
-    "publishedYear": 2017,
-    "categories": [
-      "Jungian psychology"
-    ],
-    "pageCount": 294,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=lGWlswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=lGWlswEACAAJ&dq=subject:nonfiction&hl=&cd=82&source=gbs_api"
-  },
-  {
-    "id": "WOO1EAAAQBAJ",
-    "title": "The Everything Vegan Paleo Cookbook",
-    "authors": [
-      "Daelyn Fortney"
+      "Aziz Ansari",
+      "Eric Klinenberg"
     ],
     "publishedYear": 2015,
+    "cover": "https://covers.openlibrary.org/b/id/7445038-L.jpg",
+    "coverId": 7445038,
+    "editionCount": 8,
+    "ratingsCount": 27,
+    "averageRating": 3.7037036,
+    "readingLogCount": 99,
     "categories": [
-      "Cooking"
+      "romance"
     ],
-    "pageCount": 304,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=WOO1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=WOO1EAAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=83&source=gbs_api"
+    "popularityScore": 2
   },
   {
-    "id": "Zj4a0QEACAAJ",
-    "title": "Untitled Memoir",
+    "id": "/works/OL19706846W",
+    "title": "Romancing the Duke",
     "authors": [
-      "ANON.",
-      "Sarah Wynn-Williams"
-    ],
-    "publishedYear": 2025,
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=Zj4a0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=Zj4a0QEACAAJ&dq=subject:nonfiction&hl=&cd=84&source=gbs_api"
-  },
-  {
-    "id": "MKFvDgAAQBAJ",
-    "title": "The Wait",
-    "authors": [
-      "DeVon Franklin",
-      "Meagan Good",
-      "Tim Vandehey"
-    ],
-    "publishedYear": 2017,
-    "categories": [
-      "Family & Relationships"
-    ],
-    "pageCount": 272,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=MKFvDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=MKFvDgAAQBAJ&printsec=frontcover&dq=subject:nonfiction&hl=&cd=85&source=gbs_api"
-  },
-  {
-    "id": "azUOswEACAAJ",
-    "title": "All Creatures Great and Small",
-    "authors": [
-      "James Herriot"
+      "Tessa Dare"
     ],
     "publishedYear": 2014,
+    "cover": "https://covers.openlibrary.org/b/id/10536608-L.jpg",
+    "coverId": 10536608,
+    "editionCount": 4,
+    "ratingsCount": 8,
+    "averageRating": 3.875,
+    "readingLogCount": 74,
     "categories": [
-      "Veterinarians"
+      "romance"
     ],
-    "pageCount": 442,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=azUOswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=azUOswEACAAJ&dq=subject:nonfiction&hl=&cd=86&source=gbs_api"
+    "popularityScore": 2
   },
   {
-    "id": "16SDtAEACAAJ",
-    "title": "The Diary of a Bookseller",
+    "id": "/works/OL20569445W",
+    "title": "The Terminal List",
     "authors": [
-      "Shaun Bythell"
+      "Jack Carr"
+    ],
+    "publishedYear": 2018,
+    "cover": "https://covers.openlibrary.org/b/id/9211494-L.jpg",
+    "coverId": 9211494,
+    "editionCount": 8,
+    "ratingsCount": 2,
+    "averageRating": 3.5,
+    "readingLogCount": 94,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL17931101W",
+    "title": "Camino Island",
+    "authors": [
+      "John Grisham"
     ],
     "publishedYear": 2017,
+    "cover": "https://covers.openlibrary.org/b/id/9323605-L.jpg",
+    "coverId": 9323605,
+    "editionCount": 16,
+    "ratingsCount": 11,
+    "averageRating": 3.090909,
+    "readingLogCount": 85,
     "categories": [
-      "Antiquarian booksellers"
+      "thriller"
     ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=16SDtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=16SDtAEACAAJ&dq=subject:nonfiction&hl=&cd=88&source=gbs_api"
+    "popularityScore": 2
   },
   {
-    "id": "rVp6NAEACAAJ",
-    "title": "Together",
+    "id": "/works/OL20700049W",
+    "title": "Fear Street Super Thriller",
     "authors": [
-      "Richard Sennett"
+      "Robert Lawrence Stine"
     ],
-    "publishedYear": 2013,
+    "publishedYear": 2015,
+    "cover": "https://covers.openlibrary.org/b/id/9376663-L.jpg",
+    "coverId": 9376663,
+    "editionCount": 2,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 28,
     "categories": [
-      "Cooperation"
+      "thriller"
     ],
-    "pageCount": null,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=rVp6NAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=rVp6NAEACAAJ&dq=subject:nonfiction&hl=&cd=89&source=gbs_api"
+    "popularityScore": 2
   },
   {
-    "id": "4C5_vgAACAAJ",
-    "title": "The Sum of Small Things",
+    "id": "/works/OL17470003W",
+    "title": "Saint Odd",
     "authors": [
-      "Elizabeth Currid-halkett"
+      "Dean Koontz"
+    ],
+    "publishedYear": 2015,
+    "cover": "https://covers.openlibrary.org/b/id/12882830-L.jpg",
+    "coverId": 12882830,
+    "editionCount": 16,
+    "ratingsCount": 7,
+    "averageRating": 3.7142856,
+    "readingLogCount": 88,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL21984140W",
+    "title": "Devil's Hand",
+    "authors": [
+      "Jack Carr"
+    ],
+    "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/10860333-L.jpg",
+    "coverId": 10860333,
+    "editionCount": 7,
+    "ratingsCount": 3,
+    "averageRating": 3.3333333,
+    "readingLogCount": 17,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL24811411W",
+    "title": "Untitled James Patterson Thriller",
+    "authors": [
+      "James Patterson"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/11581995-L.jpg",
+    "coverId": 11581995,
+    "editionCount": 1,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 38,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL19976660W",
+    "title": "I am Pilgrim",
+    "authors": [
+      "Terry Hayes"
+    ],
+    "publishedYear": 2014,
+    "cover": "https://covers.openlibrary.org/b/id/10347778-L.jpg",
+    "coverId": 10347778,
+    "editionCount": 1,
+    "ratingsCount": 10,
+    "averageRating": 3.8,
+    "readingLogCount": 31,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL27814116W",
+    "title": "Perfect Assassin",
+    "authors": [
+      "James Patterson",
+      "Brian Sitts"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/12997699-L.jpg",
+    "coverId": 12997699,
+    "editionCount": 10,
+    "ratingsCount": 2,
+    "averageRating": 3.5,
+    "readingLogCount": 15,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL20732608W",
+    "title": "Savage Son",
+    "authors": [
+      "Jack Carr"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/9423931-L.jpg",
+    "coverId": 9423931,
+    "editionCount": 6,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 21,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL20084546W",
+    "title": "The Turn of the Key",
+    "authors": [
+      "Ruth Ware"
+    ],
+    "publishedYear": 2019,
+    "cover": "https://covers.openlibrary.org/b/id/8753735-L.jpg",
+    "coverId": 8753735,
+    "editionCount": 7,
+    "ratingsCount": 16,
+    "averageRating": 3.9375,
+    "readingLogCount": 70,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL27302186W",
+    "title": "Livid",
+    "authors": [
+      "Patricia Cornwell"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/12982857-L.jpg",
+    "coverId": 12982857,
+    "editionCount": 14,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 32,
+    "categories": [
+      "thriller"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL27634118W",
+    "title": "Just Mercy (Young Adults)",
+    "authors": [
+      "Bryan Stevenson"
+    ],
+    "publishedYear": 2019,
+    "cover": "https://covers.openlibrary.org/b/id/13544201-L.jpg",
+    "coverId": 13544201,
+    "editionCount": 1,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 18,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL27294013W",
+    "title": "The Ones We Burn",
+    "authors": [
+      "Rebecca Mix"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/13028069-L.jpg",
+    "coverId": 13028069,
+    "editionCount": 7,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 20,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL19658615W",
+    "title": "Sovereign: Nemesis - Book Two",
+    "authors": [
+      "April Daniels",
+      "Daniels, April (Young adult author)",
+      "Natasha Soudek"
     ],
     "publishedYear": 2017,
+    "cover": "https://covers.openlibrary.org/b/id/8571722-L.jpg",
+    "coverId": 8571722,
+    "editionCount": 4,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 11,
     "categories": [
-      "Social Science"
+      "young adult"
     ],
-    "pageCount": 264,
-    "language": "en",
-    "thumbnail": "http://books.google.com/books/content?id=4C5_vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "previewLink": "http://books.google.pt/books?id=4C5_vgAACAAJ&dq=subject:nonfiction&hl=&cd=90&source=gbs_api"
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL21296030W",
+    "title": "Justice in Young Adult Speculative Fiction",
+    "authors": [
+      "Marek C. Oziewicz"
+    ],
+    "publishedYear": 2015,
+    "cover": "https://covers.openlibrary.org/b/id/13514224-L.jpg",
+    "coverId": 13514224,
+    "editionCount": 6,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 2,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL22033866W",
+    "title": "Beautiful Struggle (Adapted for Young Adults)",
+    "authors": [
+      "Ta-Nehisi Coates"
+    ],
+    "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/12868378-L.jpg",
+    "coverId": 12868378,
+    "editionCount": 3,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 3,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL17598827W",
+    "title": "The gender quest workbook",
+    "authors": [
+      "Rylan Jay Testa"
+    ],
+    "publishedYear": 2015,
+    "cover": "https://covers.openlibrary.org/b/id/7885124-L.jpg",
+    "coverId": 7885124,
+    "editionCount": 3,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 6,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL25311254W",
+    "title": "It's LifeTime!",
+    "authors": [
+      "Frederick Gooding Jr.",
+      "Sharon Gooding"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/12008607-L.jpg",
+    "coverId": 12008607,
+    "editionCount": 1,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 9,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL22156581W",
+    "title": "Mindfulness for Young Adults",
+    "authors": [
+      "Linda Yaron Weston"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/13501933-L.jpg",
+    "coverId": 13501933,
+    "editionCount": 6,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 1,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL19728338W",
+    "title": "Critical content analysis of children's and young adult literature",
+    "authors": [
+      "Holly Johnson",
+      "Janelle Mathis",
+      "Kathy Gnagey Short"
+    ],
+    "publishedYear": 2016,
+    "cover": "https://covers.openlibrary.org/b/id/13450620-L.jpg",
+    "coverId": 13450620,
+    "editionCount": 5,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 2,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL22559929W",
+    "title": "The Teenage Brain",
+    "authors": [
+      "Frances E Jensen",
+      "Amy Ellis Nutt"
+    ],
+    "publishedYear": 2016,
+    "cover": "https://covers.openlibrary.org/b/id/10476380-L.jpg",
+    "coverId": 10476380,
+    "editionCount": 1,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 11,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL19721377W",
+    "title": "Superhero therapy",
+    "authors": [
+      "Janina Scarlet"
+    ],
+    "publishedYear": 2016,
+    "cover": "https://covers.openlibrary.org/b/id/14522808-L.jpg",
+    "coverId": 14522808,
+    "editionCount": 8,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 7,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL24319996W",
+    "title": "Cogito - Prix Young Adult 2019",
+    "authors": [
+      "Victor Dixen"
+    ],
+    "publishedYear": 2019,
+    "cover": "https://covers.openlibrary.org/b/id/10838462-L.jpg",
+    "coverId": 10838462,
+    "editionCount": 1,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 3,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL17878903W",
+    "title": "#ChanSing",
+    "authors": [
+      "isay_pasaway"
+    ],
+    "publishedYear": 2017,
+    "cover": "https://covers.openlibrary.org/b/id/8188151-L.jpg",
+    "coverId": 8188151,
+    "editionCount": 1,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 3,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL21114873W",
+    "title": "Young Adult Nonfiction",
+    "authors": [
+      "Judith A. Hayn",
+      "Jeffrey S. Kaplan",
+      "Amanda L. Nolen",
+      "Heather A. Olvey"
+    ],
+    "publishedYear": 2015,
+    "cover": "https://covers.openlibrary.org/b/id/12982482-L.jpg",
+    "coverId": 12982482,
+    "editionCount": 3,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 1,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL21584423W",
+    "title": "Mothers in Children's and Young Adult Literature",
+    "authors": [
+      "Lisa Rowe Fraustino",
+      "Karen Coats"
+    ],
+    "publishedYear": 2016,
+    "cover": "https://covers.openlibrary.org/b/id/12998917-L.jpg",
+    "coverId": 12998917,
+    "editionCount": 6,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 1,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL20754351W",
+    "title": "ChicaNerds in Chicana Young Adult Literature",
+    "authors": [
+      "Cristina Herrera"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/13304836-L.jpg",
+    "coverId": 13304836,
+    "editionCount": 6,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 0,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL25280714W",
+    "title": "Motivational Interviewing with Adolescents and Young Adults, Second Edition",
+    "authors": [
+      "Sylvie Naar-King",
+      "Mariann Suarez"
+    ],
+    "publishedYear": 2021,
+    "cover": "https://covers.openlibrary.org/b/id/12414948-L.jpg",
+    "coverId": 12414948,
+    "editionCount": 4,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 2,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL20879599W",
+    "title": "Fire & Flood",
+    "authors": [
+      "Kate Karyus Quinn",
+      "Demitria Lunetta",
+      "Marley Lynn"
+    ],
+    "publishedYear": 2019,
+    "cover": "https://covers.openlibrary.org/b/id/10203323-L.jpg",
+    "coverId": 10203323,
+    "editionCount": 4,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 2,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL21114884W",
+    "title": "Teaching Young Adult Literature",
+    "authors": [
+      "Judith A. Hayn",
+      "Jeffrey S. Kaplan",
+      "Amanda L. Nolen",
+      "Heather A. Olvey"
+    ],
+    "publishedYear": 2016,
+    "cover": "https://covers.openlibrary.org/b/id/12638923-L.jpg",
+    "coverId": 12638923,
+    "editionCount": 2,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 2,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL24865702W",
+    "title": "Healer",
+    "authors": [
+      "Joanne Wadsworth"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/11753498-L.jpg",
+    "coverId": 11753498,
+    "editionCount": 1,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 4,
+    "categories": [
+      "young adult"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL34226782W",
+    "title": "Day the Dead Rose from the School",
+    "authors": [
+      "Horror"
+    ],
+    "publishedYear": 2017,
+    "cover": "https://covers.openlibrary.org/b/id/13173886-L.jpg",
+    "coverId": 13173886,
+    "editionCount": 1,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 19,
+    "categories": [
+      "horror"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL28182902W",
+    "title": "Empuzjon",
+    "authors": [
+      "Olga Tokarczuk"
+    ],
+    "publishedYear": 2022,
+    "cover": "https://covers.openlibrary.org/b/id/14812828-L.jpg",
+    "coverId": 14812828,
+    "editionCount": 5,
+    "ratingsCount": 6,
+    "averageRating": 3.5,
+    "readingLogCount": 22,
+    "categories": [
+      "horror"
+    ],
+    "popularityScore": 2
+  },
+  {
+    "id": "/works/OL24377515W",
+    "title": "Intercepts",
+    "authors": [
+      "T.J. Payne"
+    ],
+    "publishedYear": 2020,
+    "cover": "https://covers.openlibrary.org/b/id/10909199-L.jpg",
+    "coverId": 10909199,
+    "editionCount": 2,
+    "ratingsCount": 0,
+    "averageRating": null,
+    "readingLogCount": 42,
+    "categories": [
+      "horror"
+    ],
+    "popularityScore": 2
   }
 ]
