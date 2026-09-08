@@ -208,11 +208,19 @@ Some ideas for future versions include:
 
 ## 📸 Screenshots
 
-*Add screenshots of the game here.*
+### 🏠 Home
 
-## 🌐 Live Demo
+![Book Wordle Search](./public/screenshots/search.png)
 
-*Add the deployed application link here.*
+### 🎮 Gameplay
+
+![Book Wordle Gameplay](./public/screenshots/guesses.png)
+
+![Book Wordle Duplicate Guess](./public/screenshots/duplicate-guess.png)
+
+### 🏆 Game Result
+
+![Book Wordle Result](./public/screenshots/result.png)
 
 ## 👩‍💻 Author
 
