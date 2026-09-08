@@ -183,13 +183,13 @@ The application will then be available through the local Vite development server
 
 ## 📦 Available Scripts
 
-| Command | Description |
-| --- | --- |
-| `npm run dev` | Starts the development server |
-| `npm run build` | Creates a production build |
+| Command           | Description                   |
+| ----------------- | ----------------------------- |
+| `npm run dev`     | Starts the development server |
+| `npm run build`   | Creates a production build    |
 | `npm run preview` | Previews the production build |
-| `npm run lint` | Runs ESLint |
-| `npm test` | Runs the test suite |
+| `npm run lint`    | Runs ESLint                   |
+| `npm test`        | Runs the test suite           |
 
 ## 🔮 Future Improvements
 
@@ -214,13 +214,13 @@ Some ideas for future versions include:
 
 ### 🎮 Gameplay
 
-![Book Wordle Gameplay](./public/screenshots/guesses.png)
+![Book Wordle Gameplay](./public/screenshots/guesses.PNG)
 
-![Book Wordle Duplicate Guess](./public/screenshots/duplicate-guess.png)
+![Book Wordle Duplicate Guess](./public/screenshots/duplicate-guess.PNG)
 
 ### 🏆 Game Result
 
-![Book Wordle Result](./public/screenshots/result.png)
+![Book Wordle Result](./public/screenshots/result.PNG)
 
 ## 👩‍💻 Author
 
