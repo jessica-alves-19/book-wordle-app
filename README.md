@@ -1,73 +1,227 @@
-# React + TypeScript + Vite
+# 📚 Book Wordle
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Wordle-inspired guessing game for book lovers.
 
-Currently, two official plugins are available:
+Try to identify the mystery book in a maximum of **10 guesses**. Each guess gives you feedback about the book's title, author, publication year and genre, helping you get closer to the correct answer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎮 How to Play
 
-## React Compiler
+1. Search for a book using the search bar.
+2. Select or submit your guess.
+3. Compare your guess with the mystery book.
+4. Use the feedback to narrow down your next guess.
+5. You have a maximum of **10 attempts** to find the correct book.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Feedback
 
-## Expanding the ESLint configuration
+Each guess provides information about:
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- 📖 **Title** — whether the title is correct
+- ✍️ **Author** — whether the author is correct
+- 📅 **Publication Year** — whether the year matches, with an arrow indicating whether the guessed year is more recent or older
+- 🏷️ **Genre** — which genres match the mystery book
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## ✨ Features
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+- 🔎 Book search with autocomplete suggestions
+- ⚡ Debounced search input
+- 🎯 Random mystery book selection
+- 🧩 Feedback after every guess
+- 🔢 Maximum of 10 guesses
+- 🚫 Prevents duplicate guesses
+- 🎉 Win and game-over result modals
+- 📱 Responsive interface
+- 🌙 Dark, cinematic UI
+- 📚 Local book dataset
+- 🧪 Automated tests for the main game flows
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+## 🛠️ Tech Stack
+
+- **React 19**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **Vitest**
+- **React Testing Library**
+- **HTML5 / CSS3**
+
+## 🏗️ Project Structure
+
+```text
+src/
+├── components/
+│   ├── guessCard.tsx
+│   ├── guessInfoCard.tsx
+│   ├── inputSearch.tsx
+│   └── resultModal.tsx
+│
+├── data/
+│   ├── books.json
+│   └── books-v1.json
+│
+├── hooks/
+│   └── useBooks.tsx
+│
+├── utils/
+│   └── types.ts
+│
+├── App.tsx
+├── App.css
+├── App.test.tsx
+├── index.css
+└── main.tsx
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 🧠 Architecture
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+The application is built using a component-based React architecture.
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+### Custom Hook
+
+The `useBooks` custom hook is responsible for loading the local book dataset and transforming the imported data into the `Book` type used throughout the application.
+
+### Components
+
+- **`GuessSearchInput`**  
+  Handles book searching, autocomplete suggestions and debouncing.
+
+- **`GuessCard`**  
+  Displays the feedback generated for each guess.
+
+- **`GuessInfoCard`**  
+  Displays individual pieces of feedback such as author, year, title and genre.
+
+- **`ResultModal`**  
+  Displays the result when the player wins, loses or performs an invalid action.
+
+## 🔍 Search
+
+The search functionality provides autocomplete suggestions based on the user's input.
+
+The input uses a **300ms debounce** to avoid continuously updating the search state while the user is typing.
+
+Book suggestions display:
+
+- Cover
+- Title
+- Author
+
+## 📚 Book Data
+
+The application currently uses a local JSON dataset containing book information such as:
+
+- Title
+- Author
+- Publication year
+- Genres
+- Cover
+- Popularity-related metadata
+
+The current dataset was generated using data from **Open Library**.
+
+The dataset focuses primarily on books published from **2014 onwards** and includes popular contemporary titles across genres such as:
+
+- Romance
+- Fantasy
+- Thriller
+- Mystery
+- Science Fiction
+- Young Adult
+- Horror
+- Adventure
+
+## 🧪 Testing
+
+The project uses **Vitest** and **React Testing Library**.
+
+Current tests cover important game scenarios, including:
+
+- Correct book guesses
+- Invalid book searches
+- Preventing duplicate guesses
+- Displaying the appropriate result modal
+
+Run the tests with:
+
+```bash
+npm test
 ```
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js installed.
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/jessica-alves-19/book-wordle-app.git
+```
+
+Navigate to the project:
+
+```bash
+cd book-wordle-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The application will then be available through the local Vite development server.
+
+## 📦 Available Scripts
+
+| Command | Description |
+| --- | --- |
+| `npm run dev` | Starts the development server |
+| `npm run build` | Creates a production build |
+| `npm run preview` | Previews the production build |
+| `npm run lint` | Runs ESLint |
+| `npm test` | Runs the test suite |
+
+## 🔮 Future Improvements
+
+Some ideas for future versions include:
+
+- 📅 Daily challenges
+- 💾 Persisting game progress with Local Storage
+- 📊 Statistics and win rate
+- 🔥 Streak system
+- 📤 Shareable results
+- 🎨 Improved animations and transitions
+- 📚 Larger and more curated book dataset
+- 🔐 User accounts and personal statistics
+- 🌐 Live book data integration
+- 📱 Improved mobile experience
+
+## 📸 Screenshots
+
+*Add screenshots of the game here.*
+
+## 🌐 Live Demo
+
+*Add the deployed application link here.*
+
+## 👩‍💻 Author
+
+**Jéssica Alves**
+
+Computer Engineering graduate and Software Engineer interested in frontend development, React and TypeScript.
+
+[GitHub](https://github.com/jessica-alves-19)
+
+## 📄 License
+
+This project is for educational and portfolio purposes.

@@ -38,14 +38,14 @@
     "vite": "^7.2.4",
     "vitest": "^4.1.11"
   },
-  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "description": "A Wordle-inspired book guessing game built with React, TypeScript and Tailwind CSS.",
   "main": "eslint.config.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jessica-alves-19/book-wordle-app.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jéssica Alves",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jessica-alves-19/book-wordle-app/issues"
