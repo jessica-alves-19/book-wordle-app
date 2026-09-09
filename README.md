@@ -56,7 +56,7 @@ src/
 │   └── resultModal.tsx
 │
 ├── data/
-│   ├── books.json
+│   └── books.json
 │
 ├── hooks/
 │   └── useBooks.tsx
