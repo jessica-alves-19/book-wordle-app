@@ -57,7 +57,6 @@ src/
 │
 ├── data/
 │   ├── books.json
-│   └── books-v1.json
 │
 ├── hooks/
 │   └── useBooks.tsx
